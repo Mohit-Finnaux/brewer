@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01JZZ5V8T88EJ56JA5W4QY8J5H",
+    "name": "Drawers signature differs",
+    "code": "M003",
+    "isActive": true
+  },
+  {
+    "id": "01JZZ5VEHS1ZHTKMA09S172K8Q",
+    "name": "Drawers signature required",
+    "code": "M004",
+    "isActive": true
+  },
+  {
+    "id": "01JZZ5WM0R642D9F8ZBPHT1TNT",
+    "name": "Drawers authority to operate account not received",
+    "code": "M006",
+    "isActive": true
+  },
+  {
+    "id": "01JZZ5VS61VJD3KEG1EP88RF8E",
+    "name": "Alterations require drawers authentication",
+    "code": "M007",
+    "isActive": true
+  },
+  {
+    "id": "01JZZ5VXT8NB078X4A0JZJ8KMD",
+    "name": "Company for stamp required or Wrong",
+    "code": "M008",
+    "isActive": true
+  },
+  {
+    "id": "01JZZ5W4HEDPH2ZZC8ZVPGZTQF",
+    "name": "Mandate not in standard format",
+    "code": "M009",
+    "isActive": true
+  },
+  {
+    "id": "01JZZ5W839REET1T3YJT1ZNMRV",
+    "name": "Payment stopped by attachment order",
+    "code": "M011",
+    "isActive": true
+  },
+  {
+    "id": "01JZZ5WCEDS7FDXM5HH86JCPNT",
+    "name": "Payment stopped by court order",
+    "code": "M012",
+    "isActive": true
+  }
+]

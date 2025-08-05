@@ -1,0 +1,480 @@
+[
+  {
+    "id": "e5ev26ta7n94q1zxmbtdkire",
+    "sortingOrder": 1,
+    "name": "Loan Stock",
+    "displayName": "Loan Stock",
+    "type": "LOAN"
+  },
+  {
+    "id": "lzewv1ke64mpfx3x0ppfxyki",
+    "sortingOrder": 2,
+    "name": "Installment",
+    "displayName": "Installment",
+    "type": "LOAN"
+  },
+  {
+    "id": "hw7mmdld9khd0ya6wk0822an",
+    "sortingOrder": 3,
+    "name": "Interest Charged",
+    "displayName": "Interest Charged",
+    "type": "LOAN"
+  },
+  {
+    "id": "p35jmld18tgd091dye690igp",
+    "sortingOrder": 4,
+    "name": "Disbursement Amount",
+    "displayName": "Disbursement Amount",
+    "type": "LOAN"
+  },
+  {
+    "id": "w6x9mj52w2to08k5ulz9przq",
+    "sortingOrder": 5,
+    "name": "Cheque Bouncing Charges",
+    "displayName": "Cheque Bouncing Charges",
+    "type": "LOAN",
+    "canHaveFixedValue": true,
+    "canHavePreDisbursement": false,
+    "canHaveClosure": false,
+    "isActive": true
+  },
+  {
+    "id": "s7fj16kt2kgac4erlqzjd0u4",
+    "sortingOrder": 6,
+    "name": "Broken Period Interest",
+    "displayName": "Broken Period Interest",
+    "type": "LOAN",
+    "canHaveFixedValue": false,
+    "canHavePreDisbursement": false,
+    "canHaveClosure": true,
+    "isActive": true
+  },
+  {
+    "id": "cb3tpt13198bo0iie1n4kk93",
+    "sortingOrder": 7,
+    "name": "Pre-EMI Interest",
+    "displayName": "Pre-EMI Interest",
+    "type": "LOAN",
+    "canHaveFixedValue": false,
+    "canHavePreDisbursement": true,
+    "canHaveClosure": false,
+    "isActive": true
+  },
+  {
+    "id": "vg6elbelwij482yumk4a3poh",
+    "sortingOrder": 8,
+    "name": "Termination Charges",
+    "displayName": "Termination Charges",
+    "type": "LOAN",
+    "canHaveFixedValue": false,
+    "canHavePreDisbursement": false,
+    "canHaveClosure": true,
+    "isActive": true
+  },
+  {
+    "id": "jofoygs03bx6vg2py87zvy4n",
+    "sortingOrder": 9,
+    "name": "Interest Overdue",
+    "displayName": "Interest Overdue",
+    "type": "LOAN"
+  },
+  {
+    "id": "t70o5dxu8r80nnwadpes9r78",
+    "sortingOrder": 10,
+    "name": "Charges Recoverable",
+    "displayName": "Charges Recoverable",
+    "type": "LOAN"
+  },
+  {
+    "id": "dzz4vhnua46z2k0vbnayfwtr",
+    "sortingOrder": 11,
+    "name": "Charges Waiver",
+    "displayName": "Charges Waiver",
+    "type": "LOAN"
+  },
+  {
+    "id": "d1bjvztrotwecis7c48h6c4n",
+    "sortingOrder": 12,
+    "name": "Login Fee",
+    "displayName": "Login Fee",
+    "type": "LOAN",
+    "canHaveFixedValue": true,
+    "canHavePreDisbursement": true,
+    "canHaveClosure": false,
+    "isActive": true
+  },
+  {
+    "id": "iaz9tdlirwcpyydyovo3s309",
+    "sortingOrder": 13,
+    "name": "Processing Fee",
+    "displayName": "Processing Fee",
+    "type": "LOAN",
+    "canHaveFixedValue": true,
+    "canHavePreDisbursement": true,
+    "canHaveClosure": false,
+    "isActive": true
+  },
+  {
+    "id": "rp8rbnk99xqagvpel28m1lfx",
+    "sortingOrder": 14,
+    "name": "Technical Fee",
+    "displayName": "Technical Fee",
+    "type": "LOAN",
+    "canHaveFixedValue": true,
+    "canHavePreDisbursement": true,
+    "canHaveClosure": false,
+    "isActive": true
+  },
+  {
+    "id": "bjjoivnwr3ldwu3e9ukw800l",
+    "sortingOrder": 15,
+    "name": "Collection Charges",
+    "displayName": "Collection Charges",
+    "type": "LOAN",
+    "canHaveFixedValue": true,
+    "canHavePreDisbursement": true,
+    "canHaveClosure": false,
+    "isActive": true
+  },
+  {
+    "id": "tks6l71hmy0kt3iblvclojs4",
+    "sortingOrder": 16,
+    "name": "Legal Charges",
+    "displayName": "Legal Fee",
+    "type": "LOAN",
+    "canHaveFixedValue": true,
+    "canHavePreDisbursement": true,
+    "canHaveClosure": false,
+    "isActive": true
+  },
+  {
+    "id": "hni20elkal5qk9hp162yaxoj",
+    "sortingOrder": 17,
+    "name": "Valuation Charges",
+    "displayName": "Valuation Charges",
+    "type": "LOAN",
+    "canHaveFixedValue": true,
+    "canHavePreDisbursement": true,
+    "canHaveClosure": false,
+    "isActive": true
+  },
+  {
+    "id": "k0ukqij8v4t1737phyp4mzri",
+    "sortingOrder": 18,
+    "name": "File And Document Charge",
+    "displayName": "File And Document Charge",
+    "type": "LOAN",
+    "canHaveFixedValue": true,
+    "canHavePreDisbursement": true,
+    "canHaveClosure": false,
+    "isActive": true
+  },
+  {
+    "id": "brkeqwfnpnsxxx39may47xxr",
+    "sortingOrder": 19,
+    "name": "Security /FLDG Deposit",
+    "displayName": "Security /FLDG Deposit",
+    "type": "LOAN",
+    "canHaveFixedValue": true,
+    "canHavePreDisbursement": true,
+    "canHaveClosure": false,
+    "isActive": true
+  },
+  {
+    "id": "dxep9bo3l6is3ha1smmbu5cf",
+    "sortingOrder": 20,
+    "name": "Cash Deposit Charge",
+    "displayName": "Cash Deposit Charge",
+    "type": "LOAN"
+  },
+  {
+    "id": "w4kev934jq18zur0uy1qw54s",
+    "sortingOrder": 21,
+    "name": "Stamping /Franking Charge",
+    "displayName": "Stamping /Franking Charge",
+    "type": "LOAN",
+    "canHaveFixedValue": true,
+    "canHavePreDisbursement": true,
+    "canHaveClosure": false,
+    "isActive": true
+  },
+  {
+    "id": "wmq0nascsdyp2myhzmivm7o3",
+    "sortingOrder": 22,
+    "name": "Asset Insurance Charge",
+    "displayName": "Asset Insurance Charge",
+    "type": "LOAN",
+    "canHaveFixedValue": true,
+    "canHavePreDisbursement": true,
+    "canHaveClosure": false,
+    "isActive": true
+  },
+  {
+    "id": "ttjbi8lfepve5hm6kb7z3hxe",
+    "sortingOrder": 23,
+    "name": "Customers Insurance Charge",
+    "displayName": "Customers Insurance Charge",
+    "type": "LOAN",
+    "canHaveFixedValue": true,
+    "canHavePreDisbursement": true,
+    "canHaveClosure": false,
+    "isActive": true
+  },
+  {
+    "id": "fl6ng4u095u4emcy69kom5rn",
+    "sortingOrder": 24,
+    "name": "Dealer Subvention",
+    "displayName": "Dealer Subvention",
+    "type": "LOAN",
+    "canHaveFixedValue": true,
+    "canHavePreDisbursement": true,
+    "canHaveClosure": false,
+    "isActive": true
+  },
+  {
+    "id": "k4xnaq9o3ywpy35f9gglkv1g",
+    "sortingOrder": 25,
+    "name": "NACH Mandat Charge",
+    "displayName": "NACH Mandat Charge",
+    "type": "LOAN",
+    "canHaveFixedValue": true,
+    "canHavePreDisbursement": true,
+    "canHaveClosure": false,
+    "isActive": true
+  },
+  {
+    "id": "j5tqpfq61uxa8fxf3ygmgi79",
+    "sortingOrder": 26,
+    "name": "Other Charge",
+    "displayName": "Other Charge",
+    "type": "LOAN",
+    "canHaveFixedValue": false,
+    "canHavePreDisbursement": true,
+    "canHaveClosure": false,
+    "isActive": true
+  },
+  {
+    "id": "z2je3iyqd89txk2j47dvhdlk",
+    "sortingOrder": 27,
+    "name": "Chq Swaping Charges",
+    "displayName": "Chq Swaping Charges",
+    "type": "LOAN"
+  },
+  {
+    "id": "t25rrefcajph6mt4ll9used9",
+    "sortingOrder": 28,
+    "name": "Cheque in Transit",
+    "displayName": "Cheque in Transit",
+    "type": "LOAN"
+  },
+  {
+    "id": "lkqkza54qoitf8qivc14aw3r",
+    "sortingOrder": 29,
+    "name": "Services Charge",
+    "displayName": "Services Charge",
+    "type": "LOAN"
+  },
+  {
+    "id": "e0r472nwu9qqfb55mtdq50ch",
+    "sortingOrder": 30,
+    "name": "NPA Provision",
+    "displayName": "NPA Provision",
+    "type": "LOAN"
+  },
+  {
+    "id": "j7ch8xnzkhc1fkiqnawfn9e3",
+    "sortingOrder": 31,
+    "name": "Bad Debts And Written-off",
+    "displayName": "Bad Debts And Written-off",
+    "type": "LOAN"
+  },
+  {
+    "id": "l4ghcbkxsdjgnc7tdydbls73",
+    "sortingOrder": 32,
+    "name": "Repossessed  Stock",
+    "displayName": "Repossessed  Stock",
+    "type": "LOAN"
+  },
+  {
+    "id": "j75gbjctijuezwqxuighir5f",
+    "sortingOrder": 33,
+    "name": "Repossessed  /Recovery /Seizing Charges",
+    "displayName": "Repossessed  /Recovery Charges",
+    "type": "LOAN"
+  },
+  {
+    "id": "jcpha7s6ad8wgrjhc1192rn6",
+    "sortingOrder": 34,
+    "name": "Statement & Tracking A/C",
+    "displayName": "Statement & Tracking A/C",
+    "type": "LOAN"
+  },
+  {
+    "id": "h3dtzlek89sj3kbpkwflvdyr",
+    "sortingOrder": 35,
+    "name": "Emi Date Change",
+    "displayName": "Emi Date Change",
+    "type": "LOAN"
+  },
+  {
+    "id": "es7ah65w3o4nc6mg2tntgmjj",
+    "sortingOrder": 36,
+    "name": "Hp Unearned / Adv. H.P.Charges A/C",
+    "displayName": "Hp Unearned / Adv. H.P.Charges A/C",
+    "type": "LOAN"
+  },
+  {
+    "id": "q65xe0z8vdhk1r1jsyvldi6q",
+    "sortingOrder": 37,
+    "name": "Fixed Deposit Amount",
+    "displayName": "Fixed Deposit Amount",
+    "type": "DEPOSIT"
+  },
+  {
+    "id": "y9rzmtsfrwmbmdqa7pswxcn7",
+    "sortingOrder": 38,
+    "name": "Interest DueOn FD",
+    "displayName": "Interest DueOn FD",
+    "type": "DEPOSIT"
+  },
+  {
+    "id": "es8753qi02lgy1iis47mco4d",
+    "sortingOrder": 39,
+    "name": "Interest Payble On FD",
+    "displayName": "Interest Payble On FD",
+    "type": "DEPOSIT"
+  },
+  {
+    "id": "01JYR6MRF0HHRADRRVDJAZ4YRM",
+    "sortingOrder": 40,
+    "name": "KYC Charges",
+    "displayName": "KYC Charges",
+    "type": "LOAN"
+  },
+  {
+    "id": "01JYR6MWGPTWPP6ZF5NS1XV6CX",
+    "sortingOrder": 41,
+    "name": "Onboarding Charges",
+    "displayName": "Onboarding Charges",
+    "type": "LOAN"
+  },
+  {
+    "id": "01JYR6N7ETJGH6CYSS49GCVAV9",
+    "sortingOrder": 42,
+    "name": "RTO Charges",
+    "displayName": "RTO Charges",
+    "type": "LOAN"
+  },
+  {
+    "id": "01JYR6NB8DJ73HCSFDNG00W9TH",
+    "sortingOrder": 43,
+    "name": "CERSAI Charges",
+    "displayName": "CERSAI Charges",
+    "type": "LOAN"
+  },
+  {
+    "id": "01JYR6NEQFJ144DEP4QQ90TQSR",
+    "sortingOrder": 44,
+    "name": "PDD Charges",
+    "displayName": "PDD Charges",
+    "type": "LOAN"
+  },
+  {
+    "id": "01JYR6NJ6H4JMPEDEEQW31GW4E",
+    "sortingOrder": 45,
+    "name": "Visit Charges",
+    "displayName": "Visit Charges",
+    "type": "LOAN"
+  },
+  {
+    "id": "01JYR6NN2C2ZDQ52JR52CM0RPP",
+    "sortingOrder": 46,
+    "name": "Due Diligence",
+    "displayName": "Due Diligence",
+    "type": "LOAN"
+  },
+  {
+    "id": "01JYR6NQYZNATY0F7CRFABSG76",
+    "sortingOrder": 47,
+    "name": "Inspection Charges",
+    "displayName": "Inspection Charges",
+    "type": "LOAN"
+  },
+  {
+    "id": "01JYR6NV28J4709W0RACHBTQYE",
+    "sortingOrder": 48,
+    "name": "Credit Bureau Charges",
+    "displayName": "Credit Bureau Charges",
+    "type": "LOAN"
+  },
+  {
+    "id": "01JYR6NY5BCKJDT30GQR0DX31K",
+    "sortingOrder": 49,
+    "name": "Assets Insurance Endorsement Charge",
+    "displayName": "Assets Insurance Endorsement Charge",
+    "type": "LOAN"
+  },
+  {
+    "id": "01JYR6P0V5VPW0WJTVE6PW7F1N",
+    "sortingOrder": 50,
+    "name": "Customers Mediclaim Charge",
+    "displayName": "Customers Mediclaim Charge",
+    "type": "LOAN"
+  },
+  {
+    "id": "01JYR6P4TCBCWHTG698HY68T4W",
+    "sortingOrder": 51,
+    "name": "Udhyam Aadhaar Charges",
+    "displayName": "Udhyam Aadhaar Charges",
+    "type": "LOAN"
+  },
+  {
+    "id": "01JYR6P7QT2GEY88SVTTCHMN14",
+    "sortingOrder": 52,
+    "name": "MI Care",
+    "displayName": "MI Care",
+    "type": "LOAN"
+  },
+  {
+    "id": "01JYR6PAKV4GRE52FR77QCFDVQ",
+    "sortingOrder": 53,
+    "name": "Administrative Charges",
+    "displayName": "Administrative Charges",
+    "type": "LOAN"
+  },
+  {
+    "id": "01JYR6PDV4R8A512XWJRD259NP",
+    "sortingOrder": 54,
+    "name": "RCU Charges",
+    "displayName": "RCU Charges",
+    "type": "LOAN"
+  },
+  {
+    "id": "01JYR6PGANP36ZH6T4E68AFV3W",
+    "sortingOrder": 55,
+    "name": "Search and Waiting Charges",
+    "displayName": "Search and Waiting Charges",
+    "type": "LOAN"
+  },
+  {
+    "id": "01JYR6PKQZN2GDH1NTP5F1R6J2",
+    "sortingOrder": 56,
+    "name": "Round Off",
+    "displayName": "Round Off",
+    "type": "LOAN"
+  },
+  {
+    "id": "01JYR6PR9AAVR8YBB5Z66TWKXM",
+    "sortingOrder": 57,
+    "name": "SMS Charge",
+    "displayName": "SMS Charge",
+    "type": "LOAN"
+  },
+  {
+    "id": "01JYR6PX2HK7K8TTB15RGCW4BB",
+    "sortingOrder": 58,
+    "name": "Interest Penal",
+    "displayName": "Interest Penal",
+    "type": "LOAN"
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "id": "01JX014XTAQVVZJS9FJVAVJGMB",
+    "name": "CUSTOMER_DETAIL",
+    "type": "CUSTOMER_PROFILE_DETAIL",
+    "displayName": "Customer Profile Detail"
+  },
+  {
+    "id": "01JX014XTAQEXSPWVJMAMGB109",
+    "name": "REQUIRED_DOCUMENTS_ATTACHMENT",
+    "type": "REGULAR",
+    "displayName": "Documents Attachment"
+  },
+  {
+    "id": "01JX014XTA2KF0HMKQVDYHJJKG",
+    "name": "CUSTOMER_CBC_REPORT",
+    "type": "CUSTOMER",
+    "displayName": "Customer CBC Report"
+  },
+  {
+    "id": "01JX014XTA47XSFYTTQ581BN3G",
+    "name": "ASSETS_PROPERTY",
+    "type": "REGULAR",
+    "displayName": "Assets Property"
+  },
+  {
+    "id": "01JX014XTABHNNE08FNNT338S5",
+    "name": "ASSETS_VEHICLE",
+    "type": "REGULAR",
+    "displayName": "Assets Vehicle"
+  },
+  {
+    "id": "01JX014XTAE019A33BCKCAC4F3",
+    "name": "CUSTOMER_TVR_QUESTIONS",
+    "type": "CUSTOMER",
+    "displayName": "Customer TVR Questions"
+  },
+  {
+    "id": "01JX014XTAB8RN05GQRYKZQW6T",
+    "name": "CUSTOMER_PD_QUESTIONS",
+    "type": "CUSTOMER",
+    "displayName": "Customer PD Questions"
+  },
+  {
+    "id": "01JX014XTACN6ZCV8GP5J1YQDA",
+    "name": "CUSTOMER_FI_QUESTIONS",
+    "type": "CUSTOMER",
+    "displayName": "Customer FI Questions"
+  },
+  {
+    "id": "01JX014XTA9Q0YDVVG06Q471JG",
+    "name": "CUSTOMER_INCOME_DETAILS",
+    "type": "CUSTOMER",
+    "displayName": "Customer Income Details"
+  },
+  {
+    "id": "01JX014XTA3FJ3W25SJ1Y0B92R",
+    "name": "CUSTOMER_REFERENCES",
+    "type": "CUSTOMER",
+    "displayName": "Customer References"
+  },
+  {
+    "id": "01JX014XTA683B42F5HXYSG8HF",
+    "name": "CUSTOMER_FAMILY_MEMBER",
+    "type": "CUSTOMER",
+    "displayName": "Customer Family Member"
+  },
+  {
+    "id": "01JX014XTASXWJ1VFP7H291PE5",
+    "name": "CUSTOMER_EXPENDITURE",
+    "type": "CUSTOMER",
+    "displayName": "Customer Expenditure"
+  },
+  {
+    "id": "01JY9284FFETVFFXVZ6BR7MEAD",
+    "name": "CUSTOMER_OBLIGATION",
+    "type": "CUSTOMER",
+    "displayName": "Customer Obligation"
+  },
+  {
+    "id": "01JX014XTAH4CNMXR8N7N8KPH8",
+    "name": "FILE_CHECK_LIST",
+    "type": "REGULAR",
+    "displayName": "File Checking List"
+  },
+  {
+    "id": "01JX014XTAVPAN2SST6N8995KR",
+    "name": "SANCTION_CONDITIONS",
+    "type": "REGULAR",
+    "displayName": "Sanction Conditions"
+  },
+  {
+    "id": "01JX014XTA4RSV4QP2WYF8ZKHH",
+    "name": "PROPOSED_FINANCIALS",
+    "type": "REGULAR",
+    "displayName": "Proposed Financials"
+  },
+  {
+    "id": "01JX014XTAPD4GEDZN2SKQHP2V",
+    "name": "INSURANCE_DETAIL",
+    "type": "REGULAR",
+    "displayName": "Insurance Detail"
+  },
+  {
+    "id": "01JX014XTA6HHH6Z11M1ZVT0PW",
+    "name": "ASSETS_GOLD",
+    "type": "REGULAR",
+    "displayName": "Assets Gold"
+  },
+  {
+    "id": "01JX014XTAVG5J77NZWAPPT32D",
+    "name": "PROPERTY_ASSETS_MORTGAGE_DETAIL",
+    "type": "REGULAR",
+    "displayName": "Property Assets Mortgage Detail"
+  },
+  {
+    "id": "01JX014XTA873QPW5PD47CKAYA",
+    "name": "ASSETS_PROPERTY_TECHNICAL",
+    "type": "REGULAR",
+    "displayName": "Assets Property Technical"
+  },
+  {
+    "id": "01JX014XTAKG0K4HNQT1XNBYEY",
+    "name": "CUSTOMER_PDC_DETAIL",
+    "type": "REGULAR",
+    "displayName": "Customer PDC Detail"
+  },
+  {
+    "id": "01JX014XTA1K9N91YCM5ABQDS7",
+    "name": "LOAN_NO_GENERATE",
+    "type": "REGULAR",
+    "displayName": "Loan No Generate"
+  },
+  {
+    "id": "01JX014XTAW1Y0EQG8YM95QGMC",
+    "name": "DISBURSEMENT_VOUCHER_CREATION",
+    "type": "REGULAR",
+    "displayName": "Disbursment Voucher Creation"
+  },
+  {
+    "id": "01JX014XTAAAJPN6SKX611RDAZ",
+    "name": "DISBURSEMENT_VOUCHER_AUTHORIZATION",
+    "type": "REGULAR",
+    "displayName": "Disbursment Voucher Authorization"
+  },
+  {
+    "id": "01JX014XTAKVWDSKEZQHF4ADHG",
+    "name": "PAYMENT_AUTHORIZATION",
+    "type": "REGULAR",
+    "displayName": "Payment Authorization"
+  },
+  {
+    "id": "01JX014XTA314PEGCBTV43SJH1",
+    "name": "PAYMENT_INITIATION",
+    "type": "REGULAR",
+    "displayName": "Payment Initiation"
+  },
+  {
+    "id": "01JX014XTAXBQEPXHG22JR4S1M",
+    "name": "AMORTIZATION_GENERATE",
+    "type": "REGULAR",
+    "displayName": "Amortization Generate"
+  },
+  {
+    "id": "01JX014XTAC7F5SAAKHA5BN5P1",
+    "name": "RECEIPT_AND_DEDUCTIONS",
+    "type": "REGULAR",
+    "displayName": "Receipt And Deductions"
+  },
+  {
+    "id": "01JX014XTACHKWZKW7XVX0VMX2",
+    "name": "PAYMENT_REQUEST_CREATION",
+    "type": "REGULAR",
+    "displayName": "Payment Request"
+  },
+  {
+    "id": "01JX014XTAYZJ2V5T4P98GW925",
+    "name": "NACH_REGISTRATION",
+    "type": "REGULAR",
+    "displayName": "Nach Registration"
+  },
+  {
+    "id": "01JX014XTACRTFJTAGFAWRHHMH",
+    "name": "CREDIT_APPROVAL_REMARKS",
+    "type": "REGULAR",
+    "displayName": "Credit Approval Remarks"
+  },
+  {
+    "id": "01K0C0DB5CBRYQF4YMPN7X297T",
+    "name": "APPROVED_FINANCIALS",
+    "type": "REGULAR",
+    "displayName": "Approved Financials"
+  },
+  {
+    "id": "01JX014XTA2F3MWA9VXGRX9Z3Q",
+    "name": "FILE_RECEIVING",
+    "type": "REGULAR",
+    "displayName": "File Receiving"
+  },
+  {
+    "id": "01JX014XTA3MFCYN8HK8E0ZRHE",
+    "name": "ASSETS_CONSUMER_DURABLE_ITEMS",
+    "type": "REGULAR",
+    "displayName": "Assets Consumer Durable Items"
+  },
+  {
+    "id": "01JX014XTARAMWQBTXHPPSPVHY",
+    "name": "EDUCATION_COURSE_AND_FEE_DETAIL",
+    "type": "REGULAR",
+    "displayName": "Education Course And Fee Detail"
+  },
+  {
+    "id": "01JX014XTAMZ2BHASZK8KRF5CQ",
+    "name": "PORTFOLIO_COLLATERAL",
+    "type": "REGULAR",
+    "displayName": "Portfolio Collateral"
+  },
+  {
+    "id": "01JX014XTA07SDKY6NE5RV7Z7K",
+    "name": "SHARES_AND_SECURITY_COLLATERAL",
+    "type": "REGULAR",
+    "displayName": "Shares And Security Collateral"
+  },
+  {
+    "id": "01JX014XTAX0Q5P3HZDG3KYF81",
+    "name": "BM_REVIEW",
+    "type": "REGULAR",
+    "displayName": "Branch Manager Review"
+  },
+  {
+    "id": "01JX014XTA7737CRT3P2S0XY8N",
+    "name": "LENDER_SANCTION_CONDITIONS",
+    "type": "REGULAR",
+    "displayName": "Lender Sanction Conditions"
+  },
+  {
+    "id": "01JX014XTANE31RYH3T25A01QT",
+    "name": "LENDER_FINANCIALS",
+    "type": "REGULAR",
+    "displayName": "Lender Financials"
+  },
+  {
+    "id": "01JYK9NQH2NTJPG1T6QAMBRGXJ",
+    "name": "FOIR",
+    "type": "REGULAR",
+    "displayName": "FOIR"
+  },
+  {
+    "id": "01JZ0D4W3R98C32EGSAX8QD4BQ",
+    "name": "ASSETS_PROPERTY_VALUATION",
+    "type": "REGULAR",
+    "displayName": "Assets Property Valuation"
+  },
+  {
+    "id": "01JZ0D5V1YJNJ0093N3G0XRTKQ",
+    "name": "ASSETS_VEHICLE_VALUATION",
+    "type": "REGULAR",
+    "displayName": "Assets Vehicle Valuation"
+  }
+]

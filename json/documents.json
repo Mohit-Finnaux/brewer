@@ -1,0 +1,375 @@
+[
+  {
+    "id": "01JWZGJ5NXB3ZRQQ6VVX56SM2Y",
+    "name": "Patta",
+    "type": "Assets",
+    "subType": "ASSETS_PROPARTY"
+  },
+  {
+    "id": "01JWZGJ5NX0EHEZJQDF241GENA",
+    "name": "Registry",
+    "type": "Assets",
+    "subType": "ASSETS_PROPARTY"
+  },
+  {
+    "id": "01JWZGJ5NXWPTYC084ME5X122C",
+    "name": "Approved Map",
+    "type": "Assets",
+    "subType": "ASSETS_PROPARTY"
+  },
+  {
+    "id": "01JWZGJ5NX00HG6XMTA9HMNAKH",
+    "name": "Legal Report",
+    "type": "Assets",
+    "subType": "ASSETS_PROPARTY"
+  },
+  {
+    "id": "01JWZGJ5NX64DZT4PR771W38QF",
+    "name": "Legal Checking Report",
+    "type": "Assets",
+    "subType": "ASSETS_PROPARTY"
+  },
+  {
+    "id": "01JWZGJ5NX654F52WMHG42SQVV",
+    "name": "Valuation Report",
+    "type": "Assets",
+    "subType": "ASSETS_PROPARTY"
+  },
+  {
+    "id": "01JWZGJ5NXTKM34BBWTT0FQ91F",
+    "name": "Valuation Checking Report",
+    "type": "Assets",
+    "subType": "ASSETS_PROPARTY"
+  },
+  {
+    "id": "01JWZGJ5NXB4GDTXJGXGFN808T",
+    "name": "Property Picture-1",
+    "type": "Assets",
+    "subType": "ASSETS_PROPARTY"
+  },
+  {
+    "id": "01JWZGJ5NXDYAPNQQ5Z5CYX394",
+    "name": "Property Picture-2",
+    "type": "Assets",
+    "subType": "ASSETS_PROPARTY"
+  },
+  {
+    "id": "01JWZGJ5NX0EMEMGHDPWCHKAKB",
+    "name": "Property Picture-3",
+    "type": "Assets",
+    "subType": "ASSETS_PROPARTY"
+  },
+  {
+    "id": "01JWZGJ5NXASQ64H16X49YZV3R",
+    "name": "Property Picture-4",
+    "type": "Assets",
+    "subType": "ASSETS_PROPARTY"
+  },
+  {
+    "id": "01JWZGJ5NXTEYZYFFYSM51E17A",
+    "name": "Vehicle_Registation_Certificate",
+    "type": "Assets",
+    "subType": "ASSETS_VEHICLE"
+  },
+  {
+    "id": "01JWZGJ5NX7VPMTW96VS4QVZZW",
+    "name": "Insurance-Assets",
+    "type": "Assets",
+    "subType": "ASSETS_VEHICLE"
+  },
+  {
+    "id": "01JWZGJ5NXFGYPSVQADC288N3T",
+    "name": "Vehicle_Invoice",
+    "type": "Assets",
+    "subType": "ASSETS_VEHICLE"
+  },
+  {
+    "id": "01JWZGJ5NXW3YJ7BE2EMVFBX6K",
+    "name": "Vehicle_Quotation",
+    "type": "Assets",
+    "subType": "ASSETS_VEHICLE"
+  },
+  {
+    "id": "01JWZGJ5NXZ1QTWN6QTRV9J66Y",
+    "name": "Price quotation",
+    "type": "Assets",
+    "subType": "ASSETS_VEHICLE"
+  },
+  {
+    "id": "01JWZGJ5NX11WP9RS38H5RB4JA",
+    "name": "Fitness_Certificate",
+    "type": "Assets",
+    "subType": "ASSETS_VEHICLE"
+  },
+  {
+    "id": "01JWZGJ5NXPQGJRTYV8HSQ5DVZ",
+    "name": "Permit_Certificate",
+    "type": "Assets",
+    "subType": "ASSETS_VEHICLE"
+  },
+  {
+    "id": "01JWZGJ5NX42M37CVNSKEXW3D9",
+    "name": "Valuation Report",
+    "type": "Assets",
+    "subType": "ASSETS_VEHICLE"
+  },
+  {
+    "id": "01JWZGJ5NXKWS0XDR4AQN28BDJ",
+    "name": "Vehicle Picture-1",
+    "type": "Assets",
+    "subType": "ASSETS_VEHICLE"
+  },
+  {
+    "id": "01JWZGJ5NXN84E17JFJKBXXXY3",
+    "name": "Vehicle Picture-2",
+    "type": "Assets",
+    "subType": "ASSETS_VEHICLE"
+  },
+  {
+    "id": "01JWZGJ5NXCWH0ZCD5GJ7XK0KH",
+    "name": "Vehicle Picture-3",
+    "type": "Assets",
+    "subType": "ASSETS_VEHICLE"
+  },
+  {
+    "id": "01JWZGJ5NYT24AF8Q715V6Q668",
+    "name": "Vehicle Picture-4",
+    "type": "Assets",
+    "subType": "ASSETS_VEHICLE"
+  },
+  {
+    "id": "01JWZGJ5NYJ9P06VKH2J7QV7P0",
+    "name": "PAN Card",
+    "type": "Customer",
+    "subType": "KYC",
+    "customerType": "BOTH"
+  },
+  {
+    "id": "01JWZGJ5NYVH5GBC7F2GF5SR1E",
+    "name": "Electricity Bill",
+    "type": "Customer",
+    "subType": "ADDRESS",
+    "customerType": "BOTH",
+    "isDuplicateAllowed": true
+  },
+  {
+    "id": "01JWZGJ5NY4J8V9HY946VN723E",
+    "name": "Passport Copy",
+    "type": "Customer",
+    "subType": "KYC_ADDRESS",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGJ5NY44440NTM5MSGG167",
+    "name": "Voter ID Card",
+    "type": "Customer",
+    "subType": "KYC",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGJ5NY1ERTFD3JZFBKF3YW",
+    "name": "Driving License",
+    "type": "Customer",
+    "subType": "KYC_ADDRESS",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGJ5NYPCE4V663QHBRD3H2",
+    "name": "Aadhaar Card",
+    "type": "Customer",
+    "subType": "KYC",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGJ5NYKJJNYXEE11JEA9BZ",
+    "name": "Other Photo ID",
+    "type": "Customer",
+    "subType": "KYC",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGJ5NY2R5TYN447V6RS4VF",
+    "name": "Salary Slip",
+    "type": "Customer",
+    "subType": "INCOME_PROOF",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGJ5NYG04E2545VRWYXP9F",
+    "name": "Bank Statement",
+    "type": "Customer",
+    "subType": "INCOME_PROOF",
+    "customerType": "BOTH"
+  },
+  {
+    "id": "01JWZGJ5NY87DCT0SHWFQR2WM6",
+    "name": "Passbook Print",
+    "type": "Customer",
+    "subType": "INCOME_PROOF",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGJ5NYP401GDMD3AGZ4Y41",
+    "name": "Form 16",
+    "type": "Customer",
+    "subType": "INCOME_PROOF",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGJ5NYFPQ9P0584XWX63MY",
+    "name": "Income tax return (ITR)",
+    "type": "Customer",
+    "subType": "INCOME_PROOF",
+    "customerType": "BOTH"
+  },
+  {
+    "id": "01JWZGJ5NYGM2MS32YMVPCBWN0",
+    "name": "Ration Card",
+    "type": "Customer",
+    "subType": "ADDRESS",
+    "customerType": "INDIVIDUAL",
+    "isDuplicateAllowed": true
+  },
+  {
+    "id": "01JWZGJ5NYB2DRPHQJFHF1X9B8",
+    "name": "Board Resolution",
+    "type": "Customer",
+    "subType": "OTHER",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGJ5NYNQVGGYPMRNKXPZ7X",
+    "name": "Partnership_Deed",
+    "type": "Customer",
+    "subType": "OTHER",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGJ5NYK1FX3GWE9E2G8CCZ",
+    "name": "Firm Registration No",
+    "type": "Customer",
+    "subType": "KYC",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGJ5NYHYEST8PBQZ5W68P6",
+    "name": "GST No",
+    "type": "Customer",
+    "subType": "KYC",
+    "customerType": "BOTH"
+  },
+  {
+    "id": "01JWZGJ5NYD3DF98F8H4X0NRM9",
+    "name": "TAN No",
+    "type": "Customer",
+    "subType": "KYC",
+    "customerType": "BOTH"
+  },
+  {
+    "id": "01JWZGJ5NYCQFEAV38DVC06J7V",
+    "name": "Form-60",
+    "type": "Customer",
+    "subType": "KYC",
+    "customerType": "BOTH",
+    "isDuplicateAllowed": true
+  },
+  {
+    "id": "01JWZGJ5NYQ2CNKEVXRR0DBP61",
+    "name": "All Document Set",
+    "type": "Customer",
+    "subType": "KYC",
+    "customerType": "BOTH",
+    "isDuplicateAllowed": true
+  },
+  {
+    "id": "01JWZGJ5NY6PXE8696ERGWP7W8",
+    "name": "Sanction_Letter",
+    "type": "Loan",
+    "subType": null
+  },
+  {
+    "id": "01JWZGJ5NYN6F88R9DFEPGSJ95",
+    "name": "Loan_Agreement",
+    "type": "Loan",
+    "subType": null
+  },
+  {
+    "id": "01JWZGJ5NYTF4QY1SCD3DNXXFQ",
+    "name": "Delivery Order",
+    "type": "Loan",
+    "subType": null
+  },
+  {
+    "id": "01JWZGJ5NYP1KZGBX8HK3BK093",
+    "name": "List_of_Documents",
+    "type": "Loan",
+    "subType": null
+  },
+  {
+    "id": "01JWZGJ5NYPJV3C7T0Y823605D",
+    "name": "Rental Receipts or Rent Agreements",
+    "type": "Customer",
+    "subType": "INCOME_PROOF"
+  },
+  {
+    "id": "01JWZGJ5NYHV68SF0XXK2QQ2EC",
+    "name": "Profit and Loss Statement",
+    "type": "Customer",
+    "subType": "INCOME_PROOF"
+  },
+  {
+    "id": "01JWZGJ5NYQR2HM4TYBYJ2T03E",
+    "name": "Professional Practice Certificate",
+    "type": "Customer",
+    "subType": "INCOME_PROOF"
+  },
+  {
+    "id": "01JWZGJ5NYHPWVGEMB281RHJWC",
+    "name": "Dividend Statements",
+    "type": "Customer",
+    "subType": "INCOME_PROOF"
+  },
+  {
+    "id": "01JWZGJ5NY38PV4CEV83VP872V",
+    "name": "Addmision Letter",
+    "type": "Assets",
+    "subType": "EDUCATION_LOAN"
+  },
+  {
+    "id": "01JWZGJ5NYQSTJ5MCCMB5RWR9V",
+    "name": "Course Detail",
+    "type": "Assets",
+    "subType": "EDUCATION_LOAN"
+  },
+  {
+    "id": "01JWZGJ5NY7SCVJAF921BZ2J19",
+    "name": "Fee Structure",
+    "type": "Assets",
+    "subType": "EDUCATION_LOAN"
+  },
+  {
+    "id": "01JWZGJ5NYJ98YX49FFJKR4T4J",
+    "name": "Product Invoice",
+    "type": "Assets",
+    "subType": "CONSUMER_DURABLE"
+  },
+  {
+    "id": "01JWZGJ5NZ2NCJJAPCFHHRQ7N7",
+    "name": "Product Image",
+    "type": "Assets",
+    "subType": "CONSUMER_DURABLE"
+  },
+  {
+    "id": "01JWZGJ5NZFHW4J92B0XC21GZ2",
+    "name": "Product_Image_with_Customer",
+    "type": "Assets",
+    "subType": "CONSUMER_DURABLE"
+  },
+  {
+    "id": "01JWZGJ5NZ1C911A2N8EDW75VP",
+    "name": "Roc Certficate",
+    "type": "customer",
+    "subType": "KYC",
+    "customerType": "NON_INDIVIDUAL"
+  }
+]

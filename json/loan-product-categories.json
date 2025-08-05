@@ -1,0 +1,42 @@
+[
+  {
+    "id": "01JX00VF6XF1Q55337P8NDGT93",
+    "name": "Home Loan"
+  },
+  {
+    "id": "01JX00VF6Y2VDTP93C13PXN5JT",
+    "name": "Un-Secured Loan"
+  },
+  {
+    "id": "01JX00VF6YZ7WC9EBR50RDAN6W",
+    "name": "Property Loan"
+  },
+  {
+    "id": "01JX00VF6YCM5R9FV4C72GTVSA",
+    "name": "Consumer Durable Loan"
+  },
+  {
+    "id": "01JX00VF6Y6XSVW7KXH3REQ7SG",
+    "name": "Vehicle Loan"
+  },
+  {
+    "id": "01JX00VF6YEGK68DBWD080S9SC",
+    "name": "Agricultural Loan"
+  },
+  {
+    "id": "01JX00VF6YJ02E85D33KS0W7SG",
+    "name": "Gold Loan"
+  },
+  {
+    "id": "01JX00VF6Y48HTQRV8TV31N3Z4",
+    "name": "Loan Against Securities"
+  },
+  {
+    "id": "01JX00VF6YWCAFYFT03N7VB1WA",
+    "name": "Education Loan"
+  },
+  {
+    "id": "01JX00VF6YCKBG2ZEKC4H4MP61",
+    "name": "Over Draft"
+  }
+]

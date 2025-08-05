@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01JRW3ER5BE6ESAN09DP03KN9B",
+    "flatNumber": "203",
+    "plotNumber": "45A",
+    "buildingName": "Sri Venkateshwara Heights",
+    "streetRoadLane": "Renigunta Road",
+    "landmark": "Near Tirumala Hospital",
+    "villageTownCity": "Tirupati",
+    "areaLocalitySector": "Balaji Colony",
+    "locationId": "01JWZRNXACZSZ1TGWKCQA7DD91",
+    "residenceOwnership": "OWNED",
+    "associationYears": 2,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "customerId": "01JWZP5FDQ981NNMCNAP41A13X"
+  },
+  {
+    "id": "01JRW3F1WKMG766GM63ST707YX",
+    "flatNumber": "B-104",
+    "plotNumber": "32",
+    "buildingName": "Lakshmi Enclave",
+    "streetRoadLane": "Kapila Theertham Road",
+    "landmark": "Opposite Reliance Trends",
+    "areaLocalitySector": "NGO Colony",
+    "locationId": "01JWZRNXACZSZ1TGWKCQA7DD91",
+    "villageTownCity": "Tirupati",
+    "residenceOwnership": "OWNED",
+    "associationYears": 2,
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "customerId": "01JWZP5FDQF36Y8JKS0YW42H2C"
+  },
+  {
+    "id": "01JZWBNN9YMPSZKFM31GV8XZYE",
+    "flatNumber": "201",
+    "plotNumber": "32",
+    "buildingName": "Rose Residency",
+    "streetRoadLane": null,
+    "landmark": "SKIT",
+    "areaLocalitySector": "Ramnagariya",
+    "locationId": "01JWZRNXACZSZ1TGWKCQA7DD91",
+    "villageTownCity": "Jaipur",
+    "residenceOwnership": "RENTED",
+    "associationYears": 3,
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "customerId": "01JZWBH57QZFK577545F9Q5DER"
+  }
+]

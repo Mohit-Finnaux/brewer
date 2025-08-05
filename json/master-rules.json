@@ -1,0 +1,226 @@
+[
+  {
+    "id": "wa55rrp1dpo46lghbv4u7kr3",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "AGE",
+    "refName": "BORROWER_INDIVIDUAL_AGE"
+  },
+  {
+    "id": "um68n89vvyukq8rm9ha43es6",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "CREDIT_SCORE",
+    "refName": "BORROWER_INDIVIDUAL_CREDIT_SCORE"
+  },
+  {
+    "id": "ry5hlog3ubtj510yftitnwee",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "MONTHLY_INCOME",
+    "refName": "BORROWER_INDIVIDUAL_MONTHLY_INCOME"
+  },
+  {
+    "id": "rhmgv76mx52xeoo79o8mtzzw",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "EMPLOYMENT_STATUS",
+    "refName": "BORROWER_INDIVIDUAL_EMPLOYMENT_STATUS"
+  },
+  {
+    "id": "qp64rx7wz3frlxbh16ltdicb",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "EMPLOYMENT_LENGTH",
+    "refName": "BORROWER_INDIVIDUAL_EMPLOYMENT_LENGTH"
+  },
+  {
+    "id": "x25g3yqygyxz0sj1i6ndobuo",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "OCCUPATION",
+    "refName": "BORROWER_INDIVIDUAL_OCCUPATION"
+  },
+  {
+    "id": "stnhc0gho102uszy6locjsr7",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "EDUCATION_LEVEL",
+    "refName": "BORROWER_INDIVIDUAL_EDUCATION_LEVEL"
+  },
+  {
+    "id": "u0t38p0mjh7s3p91l3sv8kd1",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "MARITAL_STATUS",
+    "refName": "BORROWER_INDIVIDUAL_MARITAL_STATUS"
+  },
+  {
+    "id": "u436dqtx5h1a61csftozt5ud",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "RESIDENTIAL_STATUS",
+    "refName": "BORROWER_INDIVIDUAL_RESIDENTIAL_STATUS"
+  },
+  {
+    "id": "e7krfbs5r8y0fnwa6esd787x",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "TIME_AT_RESIDENCE",
+    "refName": "BORROWER_INDIVIDUAL_TIME_AT_RESIDENCE"
+  },
+  {
+    "id": "n6m2n9m1q473uaghiuf3e48l",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "PHONE_NUMBER_VERIFIED",
+    "refName": "BORROWER_INDIVIDUAL_PHONE_NUMBER_VERIFIED"
+  },
+  {
+    "id": "qf3aqqilhznixm7os8gbgx3h",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "EMAIL_VERIFIED",
+    "refName": "BORROWER_INDIVIDUAL_EMAIL_VERIFIED"
+  },
+  {
+    "id": "euqxfnru8cvnenq5q69wbuki",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "ADDRESS_VERIFIED",
+    "refName": "BORROWER_INDIVIDUAL_ADDRESS_VERIFIED"
+  },
+  {
+    "id": "xonh7tzrrl8x0fob39idmttd",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "BANKRUPTCY_HISTORY",
+    "refName": "BORROWER_INDIVIDUAL_BANKRUPTCY_HISTORY"
+  },
+  {
+    "id": "u188qxiahonc05dsiebqnywv",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "CURRENT_DELINQUENCIES",
+    "refName": "BORROWER_INDIVIDUAL_CURRENT_DELINQUENCIES"
+  },
+  {
+    "id": "bsoa4sqdlbxvtyoc6jvutkj7",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "DEBT_TO_INCOME_RATIO",
+    "refName": "BORROWER_INDIVIDUAL_DEBT_TO_INCOME_RATIO"
+  },
+  {
+    "id": "cuxxo7h6oke78qdzge8y0o6d",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "MONTHLY_INCOME",
+    "refName": "BORROWER_INDIVIDUAL_MONTHLY_INCOME"
+  },
+  {
+    "id": "cl3iior7nh0vvz37qzttj1y4",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "MONTHLY_EXPENSES",
+    "refName": "BORROWER_INDIVIDUAL_MONTHLY_EXPENSES"
+  },
+  {
+    "id": "q2h466yg7xbyjahsuql9vbjq",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "SAVINGS_AMOUNT",
+    "refName": "BORROWER_INDIVIDUAL_SAVINGS_AMOUNT"
+  },
+  {
+    "id": "j0inzlks6qnui3qf5xr2oz1a",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "INVESTMENT_AMOUNT",
+    "refName": "BORROWER_INDIVIDUAL_INVESTMENT_AMOUNT"
+  },
+  {
+    "id": "e19u0yfi1ke9tx0jgrmnpjaa",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "LOAN_PURPOSE",
+    "refName": "BORROWER_INDIVIDUAL_LOAN_PURPOSE"
+  },
+  {
+    "id": "ka6vjjkjgbety78tfbop26at",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "REQUESTED_LOAN_AMOUNT",
+    "refName": "BORROWER_INDIVIDUAL_REQUESTED_LOAN_AMOUNT"
+  },
+  {
+    "id": "chvr9boganm1xgne8lkna4k4",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "LOAN_TERM",
+    "refName": "BORROWER_INDIVIDUAL_LOAN_TERM"
+  },
+  {
+    "id": "m27d5690q6sqrx4flhtbzxhb",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "COLLATERAL_TYPE",
+    "refName": "BORROWER_INDIVIDUAL_COLLATERAL_TYPE"
+  },
+  {
+    "id": "neu2636p88q4dhslraiub2vr",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "COLLATERAL_VALUE",
+    "refName": "BORROWER_INDIVIDUAL_COLLATERAL_VALUE"
+  },
+  {
+    "id": "zj3f2a5dcr4g04g7tobcc8lo",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "FOIR",
+    "refName": "BORROWER_INDIVIDUAL_FOIR"
+  },
+  {
+    "id": "qu1wzcnon1tw0tl90011zw1r",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "OBLIGATION",
+    "refName": "BORROWER_INDIVIDUAL_OBLIGATION"
+  },
+  {
+    "id": "k55pfqf6ydyvmtu4awuxindb",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "12_MONTH_BOUNCING",
+    "refName": "BORROWER_INDIVIDUAL_12_MONTH_BOUNCING"
+  },
+  {
+    "id": "rssth4xvhfcimnppacyp7y6x",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "DEPENDENTS",
+    "refName": "BORROWER_INDIVIDUAL_DEPENDENTS"
+  },
+  {
+    "id": "uvziade6go5e3pan9smtotj8",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "PREMISES_STANDARD",
+    "refName": "BORROWER_INDIVIDUAL_PREMISES_STANDARD"
+  },
+  {
+    "id": "cmwpg6utw94irj9b8qq31058",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "TRAVEL_EASE",
+    "refName": "BORROWER_INDIVIDUAL_TRAVEL_EASE"
+  },
+  {
+    "id": "ar77fn0k0b7n6h760jwdkmyu",
+    "level0": "BORROWER",
+    "level1": "INDIVIDUAL",
+    "level2": "RESIDENCE_OWNERSHIP",
+    "refName": "BORROWER_INDIVIDUAL_RESIDENCE_OWNERSHIP"
+  }
+]

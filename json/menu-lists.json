@@ -1,0 +1,210 @@
+[
+  {
+    "id": "01JWZY3Y3JD3Q18WC5P8EEGG1B",
+    "name": "Dashboard Sales",
+    "description": "Dashboard Sales",
+    "slug": "dashboard-sales",
+    "moduleIds": ["01JWZXY3MPQWCMBX6GB92ZTDAR"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3KWF91XMA0WDXR7HEQ",
+    "name": "LOS Dashboard",
+    "description": "LOS Dashboard",
+    "slug": "los-dashboard",
+    "moduleIds": ["01JWZXY3MQ0VGAN1BGTNZPPT9J"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3K6JSM3A5YPKRA3PM0",
+    "name": "LOS Process",
+    "description": "LOS Process",
+    "slug": "los-process",
+    "moduleIds": ["01JWZXY3MQ0VGAN1BGTNZPPT9J"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01K0C11FM2GY3HVNXZFVE1MQ6F",
+    "name": "Application Swap",
+    "description": "Application Swap",
+    "slug": "application-swap",
+    "moduleIds": ["01JWZXY3MQ0VGAN1BGTNZPPT9J"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3KG9X3KNT1E8R6Z9F5",
+    "name": "Customer",
+    "description": "Customer",
+    "slug": "customer",
+    "moduleIds": ["01JWZXY3MQPRBE45Y30Z45D4QP"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3KG37T2WR97SJ7W61S",
+    "name": "Account Groups",
+    "description": "Account Groups",
+    "slug": "account-groups",
+    "moduleIds": ["01JWZXY3MQ6Z4MVVMPM0NDWE4S"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3KPB7MZH49G2D5TMG2",
+    "name": "Account Heads",
+    "description": "Account Heads",
+    "slug": "account-heads",
+    "moduleIds": ["01JWZXY3MQ6Z4MVVMPM0NDWE4S"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3K65J20HPM1PWPFQ5K",
+    "name": "Voucher Entries",
+    "description": "Voucher Entries",
+    "slug": "voucher-entries",
+    "moduleIds": ["01JWZXY3MQ6Z4MVVMPM0NDWE4S"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JZ4SBGN1VGPBDKDJXA82TEX2",
+    "name": "Voucher Authorisation",
+    "description": "Voucher Authorisation",
+    "slug": "voucher-decisions",
+    "moduleIds": ["01JWZXY3MQ6Z4MVVMPM0NDWE4S"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3K49293ACQZN8MFR28",
+    "name": "Tax Slabs",
+    "description": "Tax Slabs",
+    "slug": "tax-slabs",
+    "moduleIds": ["01JWZXY3MQ6Z4MVVMPM0NDWE4S"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3KZ2JFKD2ZZN7SF1WZ",
+    "name": "Employees",
+    "description": "Employees",
+    "slug": "employees",
+    "moduleIds": ["01JWZXY3MPZFWXNH9G4XHE9JPP"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3KTKVTHM6Q4F6XK5JW",
+    "name": "Designations",
+    "description": "Designations",
+    "slug": "designations",
+    "moduleIds": ["01JWZXY3MPZFWXNH9G4XHE9JPP"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3KNG87JQ8JHGPGVGAG",
+    "name": "Dashboard Collections",
+    "description": "Dashboard Collections",
+    "slug": "dashboard-collections",
+    "moduleIds": ["01JWZXY3MPQWCMBX6GB92ZTDAR"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3K86CA3C3CJJ52AFEJ",
+    "name": "Loan Products",
+    "description": "Loan Products",
+    "slug": "loan-products",
+    "moduleIds": ["01JWZXY3MPWM864X22PQYSVDGV"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3KTX9NJP6YJSHJJ08T",
+    "name": "Branches",
+    "description": "Branches",
+    "slug": "branches",
+    "moduleIds": ["01JWZXY3MPWM864X22PQYSVDGV"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3KNE7KRHKAZ61GRTD0",
+    "name": "Dealers",
+    "description": "Dealers",
+    "slug": "dealers",
+    "moduleIds": ["01JWZXY3MPWM864X22PQYSVDGV"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3KWDMC09YNJ3RSJ0RK",
+    "name": "Vendors",
+    "description": "Vendors / Partners",
+    "slug": "vendors",
+    "moduleIds": ["01JWZXY3MPWM864X22PQYSVDGV"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3KJF9RM7GH1NREGFRZ",
+    "name": "Asset Products",
+    "description": "Asset Products",
+    "slug": "asset-products",
+    "moduleIds": ["01JWZXY3MPWM864X22PQYSVDGV"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3KDSGFGMN866ZC34Q7",
+    "name": "Locations",
+    "description": "Locations",
+    "slug": "locations",
+    "moduleIds": ["01JWZXY3MPWM864X22PQYSVDGV"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3KZHQ19BVFHQ0RZBPP",
+    "name": "Branch Areas",
+    "description": "Branch Areas",
+    "slug": "branch-areas",
+    "moduleIds": ["01JWZXY3MPWM864X22PQYSVDGV"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3KE5RYJ1Z7TWPJXJJP",
+    "name": "Company Configuration",
+    "description": "Company Configuration",
+    "slug": "company-configuration",
+    "moduleIds": ["01JWZXY3MPWM864X22PQYSVDGV"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3K30P8A7516Q956FVA",
+    "name": "Quick Loan",
+    "description": "Quick Loan",
+    "slug": "quick-loan",
+    "moduleIds": ["01JWZXY3MQ0VGAN1BGTNZPPT9J"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3K9D03DQCJYR7BNEA4",
+    "name": "Message Configuration",
+    "description": "Message Configuration",
+    "slug": "message-configuration",
+    "moduleIds": ["01JWZXY3MPWM864X22PQYSVDGV"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3KCNZJQ9XTP0YQBVJR",
+    "name": "Rule Engine",
+    "description": "Rule Engine",
+    "slug": "rule-engine",
+    "moduleIds": ["01JWZXY3MQ9SABARY3CPP2DWKR"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3KKZ7DJJSKFQCHHYNS",
+    "name": "Questions Configuration",
+    "description": "Questions Configuration",
+    "slug": "questions-configuration",
+    "moduleIds": ["01JWZXY3MPWM864X22PQYSVDGV"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZY3Y3KZ9JQBF474RHG706Y",
+    "name": "Insurance Companies",
+    "description": "Insurance Companies",
+    "slug": "insurance-companies",
+    "moduleIds": ["01JWZXY3MPWM864X22PQYSVDGV"],
+    "sortingOrder": 0
+  }
+]

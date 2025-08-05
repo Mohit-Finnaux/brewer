@@ -1,0 +1,94 @@
+[
+  {
+    "id": "01JWZENRZ45KVMRBDHMH6N2ZTP",
+    "name": "RESIDENCE_CODE"
+  },
+  {
+    "id": "01JWZENRZ5WXG2REDGCBC81WCV",
+    "name": "OWNERSHIP_INDICATOR"
+  },
+  {
+    "id": "01JWZENRZ5ENYRP5ET8F8SZSZY",
+    "name": "VENDOR_TYPE"
+  },
+  {
+    "id": "01JWZENRZ53DR1ABFHNT1ZYNAQ",
+    "name": "CUSTOMER_SEGMENT"
+  },
+  {
+    "id": "01JWZENRZ58KTG6D7ES0PVND1W",
+    "name": "SUIT_FILED_OR_WILLFUL_DEFAULT"
+  },
+  {
+    "id": "01JWZENRZ5Y5KESYYPYCZY4GG3",
+    "name": "CREDIT_FACILITY_STATUS"
+  },
+  {
+    "id": "01JWZENRZ549DCVG1ZNKX3VBD3",
+    "name": "PAYMENT_FREQUENCY"
+  },
+  {
+    "id": "01JWZENRZ54VJYMKM2S6JQGATZ",
+    "name": "ASSET_CLASSIFICATION"
+  },
+  {
+    "id": "01JWZENRZ5MB52MSK5PG5DYPXF",
+    "name": "TYPE_OF_COLLATERAL"
+  },
+  {
+    "id": "01JWZENRZ5315648403DYV0YXX",
+    "name": "CUSTOMER_TITLE"
+  },
+  {
+    "id": "01JWZENRZ5P96EERDWCTB04F9M",
+    "name": "MARITAL_STATUS"
+  },
+  {
+    "id": "01JWZENRZ51AX5A3C0BPMFRCDP",
+    "name": "CODE_GENERATION_TYPE"
+  },
+  {
+    "id": "01JWZENRZ5PCT2QG73ZKDCMGBZ",
+    "name": "COMMUNICATION_TYPE"
+  },
+  {
+    "id": "01JWZENRZ5JNEDBGAA0ZRVN41C",
+    "name": "INSTALLMENT_CALCULATION_METHOD"
+  },
+  {
+    "id": "01JWZENRZ5M7C6JSKSQ7ET0YRB",
+    "name": "OD_CALCULATION_METHOD"
+  },
+  {
+    "id": "01JWZENRZ5WBWAMT8Z7608WAPP",
+    "name": "BANK_ACC_TYPE"
+  },
+  {
+    "id": "01JWZENRZ5K9TNK3WXRM4277AR",
+    "name": "COLLATERAL_TYPE"
+  },
+  {
+    "id": "01JWZENRZ56HVNQAYKQEZ5HB4Q",
+    "name": "PROPERTY_UNIT_OF_MEASUREMENT"
+  },
+  {
+    "id": "01JWZENRZ5B7EVCF2YG1HQDE5V",
+    "name": "RELIGION"
+  },
+  {
+    "id": "01JWZENRZ5NR5MC6A1TGXDW3NX",
+    "name": "VEHICLE_SEGMENT"
+  },
+  {
+    "id": "01JWZENRZ55KQ83SAX91QPWYQC",
+    "name": "VEHICLE_CONDITION"
+  },
+  {
+    "id": "01JWZENRZ5T0GPPR67CR45BNH3",
+    "name": "CASTE"
+  },
+  {
+    "id": "01JWZENRZ54DDXPM4CZ23BSJY9",
+    "name": "GENDER"
+  }
+]

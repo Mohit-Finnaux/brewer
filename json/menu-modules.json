@@ -1,0 +1,74 @@
+[
+  {
+    "id": "01JWZXY3MPQWCMBX6GB92ZTDAR",
+    "name": "Dashboard",
+    "description": "Dashboard",
+    "slug": "dashboard"
+  },
+  {
+    "id": "01JWZXY3MPZFWXNH9G4XHE9JPP",
+    "name": "HRMS",
+    "description": "Human Resource Management System",
+    "slug": "hrms"
+  },
+  {
+    "id": "01JWZXY3MPNCADTYARZ2CNVTSE",
+    "name": "CRM",
+    "description": "Customer Relationship Management",
+    "slug": "crm"
+  },
+  {
+    "id": "01JWZXY3MPWM864X22PQYSVDGV",
+    "name": "Configuration",
+    "description": "Configuration",
+    "slug": "configuration"
+  },
+  {
+    "id": "01JWZXY3MQ0VGAN1BGTNZPPT9J",
+    "name": "LOS",
+    "description": "Loan Originating System",
+    "slug": "los"
+  },
+  {
+    "id": "01JWZXY3MQPRBE45Y30Z45D4QP",
+    "name": "LMS",
+    "description": "Loan Management System",
+    "slug": "lms"
+  },
+  {
+    "id": "01JWZXY3MQ6Z4MVVMPM0NDWE4S",
+    "name": "Accounts",
+    "description": "Accounts",
+    "slug": "accounts"
+  },
+  {
+    "id": "01JWZXY3MQJZTXDD18Z420C56F",
+    "name": "Reports-M",
+    "description": "Management Reports",
+    "slug": "reports-management"
+  },
+  {
+    "id": "01JWZXY3MQW9PSASJ1CZX6QTMD",
+    "name": "Reports-U",
+    "description": "User Reports",
+    "slug": "reports-user"
+  },
+  {
+    "id": "01JWZXY3MQ35VENKAYQJZXD7CA",
+    "name": "Managed Portfolios",
+    "description": "Managed Portfolios",
+    "slug": "managed-portfolios"
+  },
+  {
+    "id": "01JWZXY3MQ2V442AP7JPJPC8KK",
+    "name": "Deposits",
+    "description": "Deposits",
+    "slug": "deposits"
+  },
+  {
+    "id": "01JWZXY3MQ9SABARY3CPP2DWKR",
+    "name": "Admin",
+    "description": "Admin",
+    "slug": "admin"
+  }
+]

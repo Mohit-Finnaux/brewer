@@ -1,0 +1,46 @@
+[
+  {
+    "id": "01JWZH1DJ622P73YJYY3T3RNCN",
+    "name": "Company Private Limited (PVT LTD)"
+  },
+  {
+    "id": "01JWZH1DJ6RBB99MQZ5F7RJ1VT",
+    "name": "Company Limited (LTD)"
+  },
+  {
+    "id": "01JWZH1DJ6WA64RG3E37YZ3M6R",
+    "name": "Limited Liability Partnership (LLP)"
+  },
+  {
+    "id": "01JWZH1DJ6XPW14316FVEPQQVM",
+    "name": "Sole Proprietorship"
+  },
+  {
+    "id": "01JWZH1DJ6KHA6W30MWVE6DX6G",
+    "name": "Partnership"
+  },
+  {
+    "id": "01JWZH1DJ6K8X42SSVPWRN9GH0",
+    "name": "Trust"
+  },
+  {
+    "id": "01JWZH1DJ6RDTVTPA5R0HHYMAQ",
+    "name": "Co-operative Society"
+  },
+  {
+    "id": "01JWZH1DJ6V5DDCTQRJP1CXG2R",
+    "name": "Institute"
+  },
+  {
+    "id": "01JWZH1DJ6T95AM5K2BFBJCAFB",
+    "name": "Government-Nigim"
+  },
+  {
+    "id": "01JWZH1DJ6Y7EE4MSDFSFVEACQ",
+    "name": "Non-Government Organization (NGO)"
+  },
+  {
+    "id": "01JWZH1DJ62R6JN9KZGNKQ8MJ1",
+    "name": "Others"
+  }
+]

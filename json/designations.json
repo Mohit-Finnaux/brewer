@@ -1,0 +1,371 @@
+[
+  {
+    "id": "01JWZ924ZB1T3ENQ6BCPKD62KG",
+    "name": "Root",
+    "level": 0,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCPVRAQ9GGNKNMN10J",
+    "name": "Collection Agent",
+    "level": 7,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCK9YS1DCW1JYSF3N9",
+    "name": "IT and Automation Manager",
+    "level": 5,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCMXKRB6H7RWH89TQ0",
+    "name": "Collection Manager",
+    "level": 5,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCDKPE4DNW923SF9N1",
+    "name": "Sales Manager",
+    "level": 5,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCMKVRTEXC29XNNKD5",
+    "name": "Sales Agent",
+    "level": 7,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCARY05NMR1JSCJYYJ",
+    "name": "Assistant Branch Manager",
+    "level": 6,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCN382AFEK3JVG2W92",
+    "name": "Operations Executive",
+    "level": 7,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCPYBA2RBT1V49MNDY",
+    "name": "Dealer",
+    "level": 7,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZC467ZEPFXXYMWQB63",
+    "name": "Sales Head Country",
+    "level": 3,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCW8TC8TEJVCYYEB7S",
+    "name": "Branch Manager",
+    "level": 5,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCFP4BQC1D6M10P115",
+    "name": "Sub Admin",
+    "level": 2,
+    "hasDocDeviationRight": true,
+    "hasCustDeviationRight": true,
+    "hasLoanDeviationRight": true,
+    "collectionVoucherLimit": 0,
+    "cashPaymentLimit": 0,
+    "bankPaymentLimit": 8999,
+    "editAllowDays": 0,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCMJKGBC3ZMFCG0RTS",
+    "name": "FI Executive",
+    "level": 7,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCKYGF6YQNY1EDED3Q",
+    "name": "Sales Executive",
+    "level": 7,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCAEFZW9NRN8VM16QM",
+    "name": "Credit & Risk Manager",
+    "level": 5,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCNJWHQWJ77ZX6G0GH",
+    "name": "Accounts Head",
+    "level": 4,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZC7M940ENXNEY3EMY4",
+    "name": "Managing Director",
+    "level": 2,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCRBGQYGD0EDVJYZRQ",
+    "name": "Manager Accounts",
+    "level": 5,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZC5FFQ8D3AJN26319B",
+    "name": "Account Executive",
+    "level": 3,
+    "closureWaiverLimit": 20000,
+    "collectionVoucherLimit": 0,
+    "cashPaymentLimit": 200000,
+    "bankPaymentLimit": 200000,
+    "editAllowDays": 365,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCSTT519AF3BGXS0S6",
+    "name": "Collection Head Country",
+    "level": 3,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZC2PJYY2E0F1J69VP5",
+    "name": "Operation Manager",
+    "level": 5,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZC5GENJ8K6PR5PHK8J",
+    "name": "Admin",
+    "level": 1,
+    "hasDocDeviationRight": true,
+    "hasCustDeviationRight": true,
+    "hasLoanDeviationRight": true,
+    "collectionVoucherLimit": 0,
+    "cashPaymentLimit": 0,
+    "bankPaymentLimit": 0,
+    "editAllowDays": 300,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZC2ZRHKYPTKEV7WGJ1",
+    "name": "Assistant Vice President",
+    "level": 4,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCHBD71SP23SSM0Q53",
+    "name": "IT and Automation Engineer",
+    "level": 7,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCS1KN42MFD66WVEXQ",
+    "name": "Company Secretary",
+    "level": 2,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCXKPAMWCD3WFB35ZX",
+    "name": "IT and Automation Head",
+    "level": 3,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCMT64GW7715935XW7",
+    "name": "Accounts Officer",
+    "level": 6,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCS1EKEKXQRC3VSX32",
+    "name": "General Manager",
+    "level": 3,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCPFKWG0HMXRJ7QMV3",
+    "name": "Chief Financial Officer",
+    "level": 3,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCCPGTN2C60HP1T4ET",
+    "name": "Development",
+    "level": 2,
+    "disbursementWaiverLimit": 12,
+    "closureWaiverLimit": 12,
+    "collectionCreditLimit": 112,
+    "collectionVoucherLimit": 12,
+    "cashPaymentLimit": 12,
+    "bankPaymentLimit": 12,
+    "editAllowDays": 12,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZCPGZT1NSR3FS9HY35",
+    "name": "HR and Admin Executive",
+    "level": 7,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZD2JZ70V22AB0R2W21",
+    "name": "Collection Head Zonal",
+    "level": 4,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZD41MFSFQ8M07723T8",
+    "name": "Repossess Agent",
+    "level": 7,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZDTTRF25KEEVMMAWY0",
+    "name": "Valuer",
+    "level": 7,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZD34FFFW26PH36XJ99",
+    "name": "Vice President",
+    "level": 3,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZDZACWMRQ70QR24E42",
+    "name": "Cashier",
+    "level": 7,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZDNB8JDQF5AMAA5TNG",
+    "name": "Legal Advocate",
+    "level": 7,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZDH692WB41CMTBA9A6",
+    "name": "Credit & Risk Head",
+    "level": 3,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZDN70X70EF2PHYZ89W",
+    "name": "Operations Head",
+    "level": 3,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZDNJ2B6DPE85FKXC58",
+    "name": "Sales Head Zonal",
+    "level": 4,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZDQYF7HPTY2MWEEZ6X",
+    "name": "HR and Admin Manager",
+    "level": 5,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZDPHWKDQ64GRTKHSTH",
+    "name": "Technical Advocate",
+    "level": 7,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZDVMQZCHCV5Q6MPMM3",
+    "name": "Legal & Compliance Manager",
+    "level": 5,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZD21VTPB91XGMYBPW0",
+    "name": "DSA",
+    "level": 7,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZDDFWXFHWDYD0YTZ0C",
+    "name": "Legal & Compliance Head",
+    "level": 3,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZDXNR9M344W515QS7R",
+    "name": "HR and Admin Head",
+    "level": 3,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZD5MWCDGCJ1YZ5PA1N",
+    "name": "Credit & Risk Officer",
+    "level": 6,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZDX8YPGJZ6NAN1VG2T",
+    "name": "Collection Executive",
+    "level": 7,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZ924ZDFXF63FPW4KS8W9S9",
+    "name": "Legal & Compliance Executive",
+    "level": 7,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  }
+]

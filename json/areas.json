@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01JX25KYPSG8GQ267S4W03ZA19",
+    "name": "Area 51",
+    "condition": "AVERAGE",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY"
+  },
+  {
+    "id": "01JX25KYPTGDJ8PZ2KCQEHSGGE",
+    "name": "Silicon Valley",
+    "condition": "AVERAGE",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY"
+  },
+  {
+    "id": "01JX25KYPTYKKQTKZXWCKM339X",
+    "name": "Gotham City",
+    "condition": "AVERAGE",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY"
+  },
+  {
+    "id": "01JX25KYPTNXHJ2QZ7WAJ276R2",
+    "name": "Wakanda",
+    "condition": "AVERAGE",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY"
+  },
+  {
+    "id": "01JX25KYPT1CZ8RJ7XREKSD4P0",
+    "name": "Springfield",
+    "condition": "AVERAGE",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY"
+  },
+  {
+    "id": "01JX25KYPT1XFF5727B6FFB0EP",
+    "name": "Hogwarts",
+    "condition": "AVERAGE",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY"
+  }
+]

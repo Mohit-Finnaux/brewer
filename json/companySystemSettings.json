@@ -1,0 +1,14 @@
+[
+  {
+    "employeeCodePrefix": "FIN",
+    "invoiceNumberPrefix": "INV",
+    "maxUploadFileSizeMb": 20,
+    "loanApplicationAutoRejectDays": 20,
+    "loanApplicationReopenWindowDays": 8,
+    "createdAt": "2025-06-25 11:30:13.553756+00",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updatedAt": "2025-06-25 11:30:13.436+00",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "isActive": true
+  }
+]

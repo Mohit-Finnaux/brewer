@@ -1,0 +1,15 @@
+[
+  {
+    "id": "01JWZRS4FNW8VVA21PXEWFQ7FD",
+    "zoneId": "01JWZDX9P0RKTVYRRGNXRGVWKR",
+    "code": "JPR",
+    "name": "Jaipur",
+    "phoneNumber": "1234567890",
+    "email": "jaipur@branch.com",
+    "GSTNumber": "08AABCU9603R1Z6",
+    "residenceOwnership": "OWNED",
+    "locationId": "01JWZRNXJ6GRVZ9TA7BH206VYB",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  }
+]

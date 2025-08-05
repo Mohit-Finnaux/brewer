@@ -1,0 +1,18 @@
+[
+  {
+    "dailyCashLimit": 50000,
+    "yearlyCashPaymentLimit": 2000000,
+    "yearlyCashReceiptLimit": 2000000,
+    "maxBorrowers": 4,
+    "maxCoBorrowers": 2,
+    "maxGuarantors": 2,
+    "yearDays": 365,
+    "booksStartDate": "2009-09-08 18:30:00+00",
+    "voucherFreezeDate": "2036-12-09 18:30:00+00",
+    "createdAt": "2025-06-25 11:29:11.834209+00",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updatedAt": "2025-06-25 11:29:11.714+00",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "isActive": true
+  }
+]

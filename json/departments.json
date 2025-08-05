@@ -1,0 +1,62 @@
+[
+  {
+    "id": "01JX00AAQF3H00Q0Q9M2WHM4W7",
+    "name": "Administration",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JX00AAQF0NB8SB6FH3G8JQAE",
+    "name": "Finance & Accounts",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JX00AAQF54XB7H5D763WKC26",
+    "name": "Human Resource (HR)",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JX00AAQF8WSZG2A28STBQ7ZB",
+    "name": "IT & Network",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JX00AAQFPGW8C2G2WHS5JK37",
+    "name": "Operations",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JX00AAQF3W69RCBFFWP6XRT3",
+    "name": "Credit & Risk",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JX00AAQFM8XRXCTBSTQNWSVE",
+    "name": "Marketing & Sales",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JX00AAQFBYC438WBQNCMKFHF",
+    "name": "Collection",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JX00AAQFCRJ7M0VKM1575QJD",
+    "name": "Legal & Compliance",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JX00AAQFYGWGS2NM3EANP2WH",
+    "name": "Treasury",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  }
+]

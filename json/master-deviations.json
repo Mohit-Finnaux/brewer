@@ -1,0 +1,17 @@
+[
+  {
+    "id": "pfz4qulmfhi7njwfwbc3bxhp",
+    "name": "Borrower Individual Age",
+    "variable": "BORROWER_INDIVIDUAL_AGE",
+    "inputType": "NUMBER",
+    "showMinimumValueField": true,
+    "showMaximumValueField": true
+  },
+  {
+    "id": "01JRFJFAJD2QWFJ8F7SFDRZ0P3",
+    "name": "Borrower Individual Credit Score",
+    "variable": "BORROWER_INDIVIDUAL_CREDIT_SCORE",
+    "inputType": "NUMBER",
+    "showMinimumValueField": true
+  }
+]

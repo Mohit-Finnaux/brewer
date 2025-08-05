@@ -1,0 +1,30 @@
+[
+  {
+    "type": "REGISTERED_OFFICE",
+    "address": "14, 3rd Floor, Orchid Tech Park",
+    "pincode": "302036",
+    "locationId": "01JWZRNXJ6KDWTEX7JGDMNHECS",
+    "phoneNumber": "1234567890",
+    "whatsAppNumber": "1234567890",
+    "email": "finnaux@gmail.com",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updatedAt": "2025-06-25 11:23:42.601+00",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "createdAt": "2025-06-25 11:23:42.729847+00",
+    "isActive": true
+  },
+  {
+    "type": "CORPORATE_OFFICE",
+    "address": "14, 3rd Floor, Orchid Tech Park",
+    "pincode": "302037",
+    "locationId": "01JWZRNXJ53SWX4YHVNNE1STH5",
+    "phoneNumber": "1234567890",
+    "whatsAppNumber": "1234567890",
+    "email": "finnaux@gmail.com",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updatedAt": "2025-06-25 11:23:42.601+00",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "createdAt": "2025-06-25 11:23:42.729847+00",
+    "isActive": true
+  }
+]

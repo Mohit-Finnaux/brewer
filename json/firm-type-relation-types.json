@@ -1,0 +1,106 @@
+[
+  {
+    "firmTypeId": "01JWZH1DJ622P73YJYY3T3RNCN",
+    "relationTypeId": "01JWZGTJ9WM4VSXMY648W6K0YN"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ6RBB99MQZ5F7RJ1VT",
+    "relationTypeId": "01JWZGTJ9WM4VSXMY648W6K0YN"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ6WA64RG3E37YZ3M6R",
+    "relationTypeId": "01JWZGTJ9WM4VSXMY648W6K0YN"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ622P73YJYY3T3RNCN",
+    "relationTypeId": "01JWZGTJ9WCFJ8W9CP704WKMJX"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ6RBB99MQZ5F7RJ1VT",
+    "relationTypeId": "01JWZGTJ9WCFJ8W9CP704WKMJX"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ6WA64RG3E37YZ3M6R",
+    "relationTypeId": "01JWZGTJ9WCFJ8W9CP704WKMJX"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ622P73YJYY3T3RNCN",
+    "relationTypeId": "01JWZGTJ9W0TBC32GE1DHWZT1N"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ6RBB99MQZ5F7RJ1VT",
+    "relationTypeId": "01JWZGTJ9W0TBC32GE1DHWZT1N"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ6WA64RG3E37YZ3M6R",
+    "relationTypeId": "01JWZGTJ9W0TBC32GE1DHWZT1N"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ6XPW14316FVEPQQVM",
+    "relationTypeId": "01JWZGTJ9WJWSYPD5QEJVQV2NB"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ6KHA6W30MWVE6DX6G",
+    "relationTypeId": "01JWZGTJ9WF1ABZQNFGXNB07F7"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ6K8X42SSVPWRN9GH0",
+    "relationTypeId": "01JWZGTJ9WSRYAS85DTGBH4Z90"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ622P73YJYY3T3RNCN",
+    "relationTypeId": "01JWZGTJ9WBP2T7NYMJSX4F56Z"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ6RBB99MQZ5F7RJ1VT",
+    "relationTypeId": "01JWZGTJ9WBP2T7NYMJSX4F56Z"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ6WA64RG3E37YZ3M6R",
+    "relationTypeId": "01JWZGTJ9WBP2T7NYMJSX4F56Z"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ622P73YJYY3T3RNCN",
+    "relationTypeId": "01JWZGTJ9WWQB0QH86E6S9HKEM"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ6RBB99MQZ5F7RJ1VT",
+    "relationTypeId": "01JWZGTJ9WWQB0QH86E6S9HKEM"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ622P73YJYY3T3RNCN",
+    "relationTypeId": "01JWZGTJ9WJDD1QRS6M6GM6N82"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ6RBB99MQZ5F7RJ1VT",
+    "relationTypeId": "01JWZGTJ9WJDD1QRS6M6GM6N82"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ622P73YJYY3T3RNCN",
+    "relationTypeId": "01JWZGTJ9WDGMKMM7A390HPPRF"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ6RBB99MQZ5F7RJ1VT",
+    "relationTypeId": "01JWZGTJ9WDGMKMM7A390HPPRF"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ6WA64RG3E37YZ3M6R",
+    "relationTypeId": "01JWZGTJ9WDGMKMM7A390HPPRF"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ6K8X42SSVPWRN9GH0",
+    "relationTypeId": "01JWZGTJ9X9CXTPNWAF22B285A"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ622P73YJYY3T3RNCN",
+    "relationTypeId": "01JWZGTJ9XZD8KJCNBJ1A7MEES"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ6RBB99MQZ5F7RJ1VT",
+    "relationTypeId": "01JWZGTJ9XZD8KJCNBJ1A7MEES"
+  },
+  {
+    "firmTypeId": "01JWZH1DJ6WA64RG3E37YZ3M6R",
+    "relationTypeId": "01JWZGTJ9XZD8KJCNBJ1A7MEES"
+  }
+]

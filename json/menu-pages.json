@@ -1,0 +1,578 @@
+[
+  {
+    "id": "01JWZZRYDDHJKKQTT6QKCS1DRE",
+    "name": "DESIGNATION_ALL",
+    "description": "DESIGNATION_ALL",
+    "slug": "designation_all",
+    "menuListIds": ["01JWZY3Y3KTKVTHM6Q4F6XK5JW"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDDE1PB91SAKH97AHWY",
+    "name": "DESIGNATION_MAIN",
+    "description": "DESIGNATION_MAIN",
+    "slug": "designation_main",
+    "menuListIds": ["01JWZY3Y3KTKVTHM6Q4F6XK5JW"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDDN5WGEAD13C8VG0PF",
+    "name": "DESIGNATION_MENU",
+    "description": "DESIGNATION_MENU",
+    "slug": "designation_menu",
+    "menuListIds": ["01JWZY3Y3KTKVTHM6Q4F6XK5JW"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDDF956QPFCZN8QT3GZ",
+    "name": "DESIGNATION_PAGE",
+    "description": "DESIGNATION_PAGE",
+    "slug": "designation_page",
+    "menuListIds": ["01JWZY3Y3KTKVTHM6Q4F6XK5JW"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDDAT4QF3J2BJT6CYQZ",
+    "name": "DESIGNATION_VOUCHER_TYPES",
+    "description": "DESIGNATION_VOUCHER_TYPES",
+    "slug": "designation-voucher-types",
+    "menuListIds": ["01JWZY3Y3KTKVTHM6Q4F6XK5JW"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDDPM527B3HG28GE215",
+    "name": "CUSTOMER_ALL",
+    "description": "CUSTOMER_ALL",
+    "slug": "customer_all",
+    "menuListIds": ["01JWZY3Y3KG9X3KNT1E8R6Z9F5"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDD434Y3WSFPFBZWSGP",
+    "name": "CUSTOMER_INDIVIDUAL",
+    "description": "CUSTOMER_INDIVIDUAL",
+    "slug": "customer_individual",
+    "menuListIds": ["01JWZY3Y3KG9X3KNT1E8R6Z9F5"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEM12PD8YADCQ22FVS",
+    "name": "CUSTOMER_NON_INDIVIDUAL",
+    "description": "CUSTOMER_NON_INDIVIDUAL",
+    "slug": "customer_non_individual",
+    "menuListIds": ["01JWZY3Y3KG9X3KNT1E8R6Z9F5"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEZZ1YECCPXP0EK1HQ",
+    "name": "CUSTOMER_DEMOGRAPHIC",
+    "description": "CUSTOMER_DEMOGRAPHIC",
+    "slug": "customer_demographic",
+    "menuListIds": ["01JWZY3Y3KG9X3KNT1E8R6Z9F5"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEA1K2K5G2YPQYGGXP",
+    "name": "CUSTOMER_ADDRESS",
+    "description": "CUSTOMER_ADDRESS",
+    "slug": "customer_address",
+    "menuListIds": ["01JWZY3Y3KG9X3KNT1E8R6Z9F5"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDE98C6WD2VY3HBDFYA",
+    "name": "CUSTOMER_KYC",
+    "description": "CUSTOMER_KYC",
+    "slug": "customer_kyc",
+    "menuListIds": ["01JWZY3Y3KG9X3KNT1E8R6Z9F5"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEW19MH015WMBK7S77",
+    "name": "CUSTOMER_BANK",
+    "description": "CUSTOMER_BANK",
+    "slug": "customer_bank",
+    "menuListIds": ["01JWZY3Y3KG9X3KNT1E8R6Z9F5"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEW0NGF9373DNHDHFA",
+    "name": "EMPLOYEE_ALL",
+    "description": "EMPLOYEE_ALL",
+    "slug": "employee_all",
+    "menuListIds": ["01JWZY3Y3KZ2JFKD2ZZN7SF1WZ"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDETGY5QXR6HNK1YQV7",
+    "name": "EMPLOYEE_MAIN",
+    "description": "EMPLOYEE_MAIN",
+    "slug": "employee_main",
+    "menuListIds": ["01JWZY3Y3KZ2JFKD2ZZN7SF1WZ"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDENZ99PB09NJGDAKES",
+    "name": "EMPLOYEE_BRANCH",
+    "description": "EMPLOYEE_BRANCH",
+    "slug": "employee_branch",
+    "menuListIds": ["01JWZY3Y3KZ2JFKD2ZZN7SF1WZ"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEE9VCYDDJ0XY38AME",
+    "name": "EMPLOYEE_PRODUCT",
+    "description": "EMPLOYEE_PRODUCT",
+    "slug": "employee_product",
+    "menuListIds": ["01JWZY3Y3KZ2JFKD2ZZN7SF1WZ"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEGADMPJ2NW2ZSQX89",
+    "name": "EMPLOYEE_LOS_PROCESS",
+    "description": "EMPLOYEE_LOS_PROCESS",
+    "slug": "employee_los_process",
+    "menuListIds": ["01JWZY3Y3KZ2JFKD2ZZN7SF1WZ"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDE92FG421D97Z60VBF",
+    "name": "LOAN_PRODUCT_ALL",
+    "description": "LOAN_PRODUCT_ALL",
+    "slug": "loan_product_all",
+    "menuListIds": ["01JWZY3Y3K86CA3C3CJJ52AFEJ"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDE0JXX0DK1201VM24J",
+    "name": "LOAN_PRODUCT_MAIN",
+    "description": "LOAN_PRODUCT_MAIN",
+    "slug": "loan_product_main",
+    "menuListIds": ["01JWZY3Y3K86CA3C3CJJ52AFEJ"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDE100G6TGXD4NWS7XZ",
+    "name": "LOAN_PRODUCT_ACCOUNTS",
+    "description": "LOAN_PRODUCT_ACCOUNTS",
+    "slug": "loan_product_accounts",
+    "menuListIds": ["01JWZY3Y3K86CA3C3CJJ52AFEJ"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDE2BZ0TN4TFKVD32H8",
+    "name": "LOAN_PRODUCT_LOS_PROCESS",
+    "description": "LOAN_PRODUCT_LOS_PROCESS",
+    "slug": "loan_product_los_process",
+    "menuListIds": ["01JWZY3Y3K86CA3C3CJJ52AFEJ"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEC44ZRRAGJA6MZZEG",
+    "name": "LOAN_PRODUCT_LOS_PROCESS_PAGES",
+    "description": "LOAN_PRODUCT_LOS_PROCESS_PAGES",
+    "slug": "loan_product_los_process_pages",
+    "menuListIds": ["01JWZY3Y3K86CA3C3CJJ52AFEJ"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEK0F5TSJ3XRAVQ2Y1",
+    "name": "LOAN_PRODUCT_DOCUMENTS",
+    "description": "LOAN_PRODUCT_DOCUMENTS",
+    "slug": "loan_product_documents",
+    "menuListIds": ["01JWZY3Y3K86CA3C3CJJ52AFEJ"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDETVKQKEPG47GY7PW6",
+    "name": "LOAN_PRODUCT_POLICIES",
+    "description": "LOAN_PRODUCT_POLICIES",
+    "slug": "loan_product_policies",
+    "menuListIds": ["01JWZY3Y3K86CA3C3CJJ52AFEJ"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEG582PZBXDS45GCGZ",
+    "name": "LOAN_PRODUCT_PRE_DISBURSMENT_CHARGES",
+    "description": "LOAN_PRODUCT_PRE_DISBURSMENT_CHARGES",
+    "slug": "loan_product_pre_disbursmnet_charges",
+    "menuListIds": ["01JWZY3Y3K86CA3C3CJJ52AFEJ"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDECH6YGPQT32VC5RR4",
+    "name": "LOAN_PRODUCT_CLOSURE_CHARGES",
+    "description": "LOAN_PRODUCT_CLOSURE_CHARGES",
+    "slug": "loan_product_closure_charges",
+    "menuListIds": ["01JWZY3Y3K86CA3C3CJJ52AFEJ"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEWPHAX7WM2784097S",
+    "name": "BRANCH_ALL",
+    "description": "BRANCH_ALL",
+    "slug": "branch_all",
+    "menuListIds": ["01JWZY3Y3KTX9NJP6YJSHJJ08T"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDE76Y49TNC93W8JHRC",
+    "name": "BRANCH_MAIN",
+    "description": "BRANCH_MAIN",
+    "slug": "branch_main",
+    "menuListIds": ["01JWZY3Y3KTX9NJP6YJSHJJ08T"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEBTKTEM436HCSX67J",
+    "name": "BRANCH_PRODUCT_ASSIGNMENT",
+    "description": "BRANCH_PRODUCT_ASSIGNMENT",
+    "slug": "branch_product_assignment",
+    "menuListIds": ["01JWZY3Y3KTX9NJP6YJSHJJ08T"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEYAS9F25FBJ7K6CKX",
+    "name": "BRANCH_PROCESS_EMPLOYEE",
+    "description": "BRANCH_PROCESS_EMPLOYEE",
+    "slug": "branch_process_employee",
+    "menuListIds": ["01JWZY3Y3KTX9NJP6YJSHJJ08T"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDE7SQVE6Y5AK1B29C3",
+    "name": "ACCOUNT_GROUP_ALL",
+    "description": "ACCOUNT_GROUP_ALL",
+    "slug": "account_group_all",
+    "menuListIds": ["01JWZY3Y3KG37T2WR97SJ7W61S"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEX9H19HS9VH244P1F",
+    "name": "ACCOUNT_GROUP_MASTER",
+    "description": "ACCOUNT_GROUP_MASTER",
+    "slug": "account_group_master",
+    "menuListIds": ["01JWZY3Y3KG37T2WR97SJ7W61S"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDENF669RQZMMZ5CA2J",
+    "name": "ACCOUNT_MASTER_ALL",
+    "description": "ACCOUNT_MASTER_ALL",
+    "slug": "account_master_all",
+    "menuListIds": ["01JWZY3Y3KPB7MZH49G2D5TMG2"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEXV04YKR6JMBRKXWK",
+    "name": "ACCOUNT_MASTER",
+    "description": "ACCOUNT_MASTER",
+    "slug": "account_master",
+    "menuListIds": ["01JWZY3Y3KPB7MZH49G2D5TMG2"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDECXPHEBSC8X02HS19",
+    "name": "TAX_SLAB_ALL",
+    "description": "TAX_SLAB_ALL",
+    "slug": "tax_slab_all",
+    "menuListIds": ["01JWZY3Y3K49293ACQZN8MFR28"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JZ4SF5N5KXDSY2X1974W709Y",
+    "name": "VOUCHER_DECISIONS_ALL",
+    "description": "VOUCHER_DECISIONS_ALL",
+    "slug": "voucher_decisions_all",
+    "menuListIds": ["01JZ4SBGN1VGPBDKDJXA82TEX2"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDE9GKTW1Z5FKGNM2N5",
+    "name": "LOCATIONS_ALL",
+    "description": "LOCATIONS_ALL",
+    "slug": "locations_all",
+    "menuListIds": ["01JWZY3Y3KDSGFGMN866ZC34Q7"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEEW9X2JGWNQZ4CACW",
+    "name": "ASSETS_PRODUCT_ALL",
+    "description": "ASSETS_PRODUCT_ALL",
+    "slug": "assets_product_all",
+    "menuListIds": ["01JWZY3Y3KJF9RM7GH1NREGFRZ"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDE7JA80SWF2J1X9YTD",
+    "name": "ASSETS_PRODUCTS_MANUFACTURE_ALL",
+    "description": "ASSETS_PRODUCTS_MANUFACTURE_ALL",
+    "slug": "assets_product_manufacture_all",
+    "menuListIds": ["01JWZY3Y3KJF9RM7GH1NREGFRZ"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDESZXRV1SREFNF0A32",
+    "name": "ASSETS_PRODUCT_VARIENT_ALL",
+    "description": "ASSETS_PRODUCT_VARIENT_ALL",
+    "slug": "assets_product_varient_all",
+    "menuListIds": ["01JWZY3Y3KJF9RM7GH1NREGFRZ"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEKBC2JHVZHW1JTJJG",
+    "name": "DEALERS_ALL",
+    "description": "DEALERS_ALL",
+    "slug": "dealers_all",
+    "menuListIds": ["01JWZY3Y3KNE7KRHKAZ61GRTD0"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEXYF3KX1KG0FRF1XJ",
+    "name": "DEALERS_MAIN",
+    "description": "DEALERS_MAIN",
+    "slug": "dealers_main",
+    "menuListIds": ["01JWZY3Y3KNE7KRHKAZ61GRTD0"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDE3NTV5YF8QY8ZZXGE",
+    "name": "DEALERS_MANUFACTURE",
+    "description": "DEALERS_MANUFACTURE",
+    "slug": "dealers_manufacture",
+    "menuListIds": ["01JWZY3Y3KNE7KRHKAZ61GRTD0"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEDTJQ6P36ZM791KDR",
+    "name": "DEALERS_PRODUCT_PRICE_LIST",
+    "description": "DEALERS_PRODUCT_PRICE_LIST",
+    "slug": "dealers_product_price_list",
+    "menuListIds": ["01JWZY3Y3KNE7KRHKAZ61GRTD0"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEQDRPFY0S2Q1TVKMF",
+    "name": "VENDORS_ALL",
+    "description": "VENDORS_ALL",
+    "slug": "vendors_all",
+    "menuListIds": ["01JWZY3Y3KWDMC09YNJ3RSJ0RK"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEX5WQABD5JV92YNGG",
+    "name": "VENDORS_MAIN",
+    "description": "VENDORS_MAIN",
+    "slug": "vendors_main",
+    "menuListIds": ["01JWZY3Y3KWDMC09YNJ3RSJ0RK"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEKPY98NVK9AGP3HWP",
+    "name": "VOUCHER_ACCOUNTS_RECIPTS",
+    "description": "VOUCHER_ACCOUNTS_RECIPTS",
+    "slug": "voucher_account_recipts",
+    "menuListIds": ["01JWZY3Y3K65J20HPM1PWPFQ5K"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDE5V1W4WCTK490JGCE",
+    "name": "VOUCHER_ACCOUNTS_PAYMENT",
+    "description": "VOUCHER_ACCOUNTS_PAYMENT",
+    "slug": "voucher_accounts_payment",
+    "menuListIds": ["01JWZY3Y3K65J20HPM1PWPFQ5K"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDER4EHKNXTQS7PMZM3",
+    "name": "VOUCHER_ACCOUNTS_JOURNAL",
+    "description": "VOUCHER_ACCOUNTS_JOURNAL",
+    "slug": "voucher_accounts_journal",
+    "menuListIds": ["01JWZY3Y3K65J20HPM1PWPFQ5K"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDE1QZRSVMCTGCX84N2",
+    "name": "VOUCHER_ACCOUNTS_CONTRA",
+    "description": "VOUCHER_ACCOUNTS_CONTRA",
+    "slug": "voucher_accounts_contra",
+    "menuListIds": ["01JWZY3Y3K65J20HPM1PWPFQ5K"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEN6BHEKZ105WSYEVE",
+    "name": "VOUCHER_LOAN_RECIPTS",
+    "description": "VOUCHER_LOAN_RECIPTS",
+    "slug": "voucher_loan_recipts",
+    "menuListIds": ["01JWZY3Y3K65J20HPM1PWPFQ5K"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDE8FZZ536RG78TSFDF",
+    "name": "VOUCHER_LOAN_PAYMENT",
+    "description": "VOUCHER_LOAN_PAYMENT",
+    "slug": "voucher_loan_payment",
+    "menuListIds": ["01JWZY3Y3K65J20HPM1PWPFQ5K"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEYMYRP5JJYBFHKF2D",
+    "name": "VOUCHER_LOAN_JOURNAL",
+    "description": "VOUCHER_LOAN_JOURNAL",
+    "slug": "voucher_loan_journal",
+    "menuListIds": ["01JWZY3Y3K65J20HPM1PWPFQ5K"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEQC8XDAFYGW1WB7K3",
+    "name": "VOUCHER_PARTNER_RECEIPT",
+    "description": "VOUCHER_PARTNER_RECEIPT",
+    "slug": "voucher_partner_receipt",
+    "menuListIds": ["01JWZY3Y3K65J20HPM1PWPFQ5K"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDE3XAQSMCXKN10Y5C1",
+    "name": "VOUCHER_PARTNER_PAYMENT",
+    "description": "VOUCHER_PARTNER_PAYMENT",
+    "slug": "voucher_partner_payment",
+    "menuListIds": ["01JWZY3Y3K65J20HPM1PWPFQ5K"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDECV502JSQ9PVTGW57",
+    "name": "VOUCHER_PARTNER_JOURNAL",
+    "description": "VOUCHER_PARTNER_JOURNAL",
+    "slug": "voucher_partner_journal",
+    "menuListIds": ["01JWZY3Y3K65J20HPM1PWPFQ5K"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDETBVYQ52CRKN9B26N",
+    "name": "VOUCHER_DEPOSIT_RECEIPT",
+    "description": "VOUCHER_DEPOSIT_RECEIPT",
+    "slug": "voucher_deposit_receipt",
+    "menuListIds": ["01JWZY3Y3K65J20HPM1PWPFQ5K"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDETTBD7JXZDQKJTJJT",
+    "name": "VOUCHER_DEPOSIT_PAYMENT",
+    "description": "VOUCHER_DEPOSIT_PAYMENT",
+    "slug": "voucher_deposit_payment",
+    "menuListIds": ["01JWZY3Y3K65J20HPM1PWPFQ5K"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEFN2Y2M87KNFA0BRN",
+    "name": "VOUCHER_DEPOSIT_JOURNAL",
+    "description": "VOUCHER_DEPOSIT_JOURNAL",
+    "slug": "voucher_deposit_journal",
+    "menuListIds": ["01JWZY3Y3K65J20HPM1PWPFQ5K"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDENQ2AZZP3VT24JZHG",
+    "name": "BRANCH_AREA_ALL",
+    "description": "BRANCH_AREA_ALL",
+    "slug": "branch_area_all",
+    "menuListIds": ["01JWZY3Y3KZHQ19BVFHQ0RZBPP"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDE115T1PMAKXEJQB5H",
+    "name": "LOS_PROCESS_ALL",
+    "description": "LOS_PROCESS_ALL",
+    "slug": "los_process_all",
+    "menuListIds": ["01JWZY3Y3K6JSM3A5YPKRA3PM0"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01K0C12F9BQ6WWC1X256DZ4PEK",
+    "name": "APPLICATION_SWAP",
+    "description": "APPLICATION_SWAP",
+    "slug": "application-swap",
+    "menuListIds": ["01K0C11FM2GY3HVNXZFVE1MQ6F"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEN0HN0KJCJAMEZFA5",
+    "name": "COMPANY_CONFIGURATION",
+    "description": "COMPANY_CONFIGURATION",
+    "slug": "company-configuration",
+    "menuListIds": ["01JWZY3Y3KE5RYJ1Z7TWPJXJJP"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEM3PNTXY5N5EKAW7C",
+    "name": "EMPLOYEE_DEPARTMENT",
+    "description": "EMPLOYEE_DEPARTMENT",
+    "slug": "employee-department",
+    "menuListIds": ["01JWZY3Y3KZ2JFKD2ZZN7SF1WZ"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDE1TT7JFS9X40SKPMK",
+    "name": "LOS_QUICK_LOAN_ALL",
+    "description": "LOS_QUICK_LOAN_ALL",
+    "slug": "quick-loan",
+    "menuListIds": ["01JWZY3Y3K30P8A7516Q956FVA"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEPC2S08ZVY2C5BW79",
+    "name": "SMS_CONFIGURATION_ALL",
+    "description": "SMS_CONFIGURATION_ALL",
+    "slug": "sms-configuration",
+    "menuListIds": ["01JWZY3Y3K9D03DQCJYR7BNEA4"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDE9MJCZA991176MTT1",
+    "name": "WHATSAPP_CONFIGURATION_ALL",
+    "description": "WHATSAPP_CONFIGURATION_ALL",
+    "slug": "whatsapp-configuration",
+    "menuListIds": ["01JWZY3Y3K9D03DQCJYR7BNEA4"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEBMZ6MJZ96F7AGMX6",
+    "name": "EMAIL_CONFIGURATION_ALL",
+    "description": "EMAIL_CONFIGURATION_ALL",
+    "slug": "email-configuration",
+    "menuListIds": ["01JWZY3Y3K9D03DQCJYR7BNEA4"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDEA8W66SDSBVVJS2M4",
+    "name": "RULE_ENGINE_PAGE",
+    "description": "RULE_ENGINE_PAGE",
+    "slug": "rule-engine",
+    "menuListIds": ["01JWZY3Y3KCNZJQ9XTP0YQBVJR"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDE4XAXFTHCT93D4NPM",
+    "name": "QUESTIONS_ALL",
+    "description": "QUESTIONS_ALL",
+    "slug": "questions",
+    "menuListIds": ["01JWZY3Y3KKZ7DJJSKFQCHHYNS"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JWZZRYDERBAEB4KQT87YMXC8",
+    "name": "INSURANCE_COMPANIES_ALL",
+    "description": "INSURANCE_COMPANIES_ALL",
+    "slug": "insurance-companies",
+    "menuListIds": ["01JWZY3Y3KZ9JQBF474RHG706Y"],
+    "sortingOrder": 0
+  },
+  {
+    "id": "01JX2DJHHGKA6JYKNS78DYJDV3",
+    "name": "ADMIN",
+    "description": "ADMIN",
+    "slug": "admin",
+    "menuListIds": ["01JWZY3Y3KCNZJQ9XTP0YQBVJR"],
+    "sortingOrder": 0
+  }
+]

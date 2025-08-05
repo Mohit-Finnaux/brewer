@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01JZWEEQ0M8SP12BMSVX1AD6GP",
+    "name": "DAILY",
+    "code": "DAIL",
+    "isActive": true
+  },
+  {
+    "id": "01JZWEEWB52Z917BGD5TZ8TXZD",
+    "name": "WEEKLY",
+    "code": "DAIL",
+    "isActive": true
+  },
+  {
+    "id": "01JZWEF02T6T9VJ1AYZTT2E5SB",
+    "name": "MONTHLY",
+    "code": "MNTH",
+    "isActive": true
+  },
+  {
+    "id": "01JZWEQRPXQMMK2Y0YEYB4KE4X",
+    "name": "QUARTERLY",
+    "code": "QURT",
+    "isActive": true
+  },
+  {
+    "id": "01JZWERND1CWC9BSXG07FPW4EW",
+    "name": "SEMI ANNUALLY",
+    "code": "MIAN",
+    "isActive": true
+  },
+  {
+    "id": "01JZWERSNPKM2FQ495VFFF53Z0",
+    "name": "YEARLY",
+    "code": "YEAR",
+    "isActive": true
+  },
+  {
+    "id": "01JZWERYF928HQPQBQK91NKC1P",
+    "name": "BI-MONTHLY",
+    "code": "BIMN",
+    "isActive": true
+  },
+  {
+    "id": "01JZWES2F70JSRV7HNKGEVEAZX",
+    "name": "AS AND WHEN PRESENTED",
+    "code": "ADHO",
+    "isActive": true
+  }
+]

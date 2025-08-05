@@ -1,0 +1,1 @@
+alter table employee alter column "designationId" drop not null;

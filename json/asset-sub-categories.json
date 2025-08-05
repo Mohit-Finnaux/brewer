@@ -1,0 +1,92 @@
+[
+  {
+    "id": "01JWZX2MCFZ5JK1VE64GYXVKJM",
+    "categoryId": "01JWZWZECN516F2HJRXC2DPREH",
+    "name": "Car"
+  },
+  {
+    "id": "01JWZX2MCF1E796H8NPMH933QN",
+    "categoryId": "01JWZWZECN516F2HJRXC2DPREH",
+    "name": "Two wheeler"
+  },
+  {
+    "id": "01JWZX2MCF818EGSCCKQSX7H2J",
+    "categoryId": "01JWZWZECN516F2HJRXC2DPREH",
+    "name": "Hatchback"
+  },
+  {
+    "id": "01JWZX2MCFQCBGD7V9TX0CQCKA",
+    "categoryId": "01JWZWZECN516F2HJRXC2DPREH",
+    "name": "Sedan"
+  },
+  {
+    "id": "01JWZX2MCFA31SR4YDEW4E67DK",
+    "categoryId": "01JWZWZECN516F2HJRXC2DPREH",
+    "name": "MUV/SUV"
+  },
+  {
+    "id": "01JWZX2MCF1R7NREF93R91H727",
+    "categoryId": "01JWZWZECN516F2HJRXC2DPREH",
+    "name": "Coupe"
+  },
+  {
+    "id": "01JWZX2MCFMYQVB3B1V13RY0MJ",
+    "categoryId": "01JWZWZECN516F2HJRXC2DPREH",
+    "name": "Convertible"
+  },
+  {
+    "id": "01JWZX2MCF1NYPDQV48K7SGGCB",
+    "categoryId": "01JWZWZECN516F2HJRXC2DPREH",
+    "name": "Wagon"
+  },
+  {
+    "id": "01JWZX2MCFFF9MSWDXGJXQGCZF",
+    "categoryId": "01JWZWZECN516F2HJRXC2DPREH",
+    "name": "Van"
+  },
+  {
+    "id": "01JWZX2MCFE2DWQHWZWMSJVGCS",
+    "categoryId": "01JWZWZECN516F2HJRXC2DPREH",
+    "name": "Jeep"
+  },
+  {
+    "id": "01JWZX2MCFC5S8HRVS4TDQ307F",
+    "categoryId": "01JWZWZECN516F2HJRXC2DPREH",
+    "name": "MPV (Multi-Purpose Vehicle)"
+  },
+  {
+    "id": "01JWZX2MCF4G87E03E8M5Y1698",
+    "categoryId": "01JWZWZECN516F2HJRXC2DPREH",
+    "name": "Crossovers"
+  },
+  {
+    "id": "01JWZX2MCF0618V3A1BKNFV7C9",
+    "categoryId": "01JWZWZECN516F2HJRXC2DPREH",
+    "name": "Microcars"
+  },
+  {
+    "id": "01JWZX2MCFE6XW544T7X7MBY5B",
+    "categoryId": "01JWZWZECN516F2HJRXC2DPREH",
+    "name": "Limousines"
+  },
+  {
+    "id": "01JWZX2MCFSXSWK7GJ5WZT1T8J",
+    "categoryId": "01JWZWZECN516F2HJRXC2DPREH",
+    "name": "Pick-up trucks (LCV)"
+  },
+  {
+    "id": "01JWZX2MCF7SCQMGBZCTYK4F6Z",
+    "categoryId": "01JWZWZECN516F2HJRXC2DPREH",
+    "name": "E-RICKSHAW"
+  },
+  {
+    "id": "01JWZX2MCFBCW0N9YT3N9WAFG6",
+    "categoryId": "01JWZWZECNSQ4YAETYRHDBM5NG",
+    "name": "Home Appliances"
+  },
+  {
+    "id": "01JWZX2MCFBCTAFHT6HE2X5MTB",
+    "categoryId": "01JWZWZECNSQ4YAETYRHDBM5NG",
+    "name": "Gadgets"
+  }
+]

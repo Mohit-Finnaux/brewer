@@ -1,0 +1,830 @@
+[
+  {
+    "id": "zkx55uk4zkgj211vfr9hy1g9",
+    "name": "Borrower Age (N/A < 18)",
+    "masterRuleId": "wa55rrp1dpo46lghbv4u7kr3",
+    "expression": "input.borrowerIndividualAge < 18",
+    "outputConfig": {
+      "installmentAmountScore": 0,
+      "interestRateScore": 0,
+      "loanAmountScore": 0,
+      "tenureScore": 0
+    }
+  },
+  {
+    "id": "cw1yq7w180knpdu5l53oz5ye",
+    "name": "Borrower Age (18 - 25)",
+    "masterRuleId": "wa55rrp1dpo46lghbv4u7kr3",
+    "expression": "input.borrowerIndividualAge >= 18 and input.borrowerIndividualAge <= 25",
+    "outputConfig": {
+      "installmentAmountScore": 80,
+      "interestRateScore": 80,
+      "loanAmountScore": 80,
+      "tenureScore": 80
+    }
+  },
+  {
+    "id": "xxqrs7keqix7cgb7du8sl7mw",
+    "name": "Borrower Age (26 - 35)",
+    "masterRuleId": "wa55rrp1dpo46lghbv4u7kr3",
+    "expression": "input.borrowerIndividualAge > 25 and input.borrowerIndividualAge <= 35",
+    "outputConfig": {
+      "installmentAmountScore": 90,
+      "interestRateScore": 90,
+      "loanAmountScore": 90,
+      "tenureScore": 90
+    }
+  },
+  {
+    "id": "thdk2wghvl8roqt0mnc4rnbi",
+    "name": "Borrower Age (36 - 50)",
+    "masterRuleId": "wa55rrp1dpo46lghbv4u7kr3",
+    "expression": "input.borrowerIndividualAge > 35 and input.borrowerIndividualAge <= 50",
+    "outputConfig": {
+      "installmentAmountScore": 70,
+      "interestRateScore": 70,
+      "loanAmountScore": 70,
+      "tenureScore": 70
+    }
+  },
+  {
+    "id": "w5bbxkfiheelqu6ttcxag8y9",
+    "name": "Borrower Age (51 - 60)",
+    "masterRuleId": "wa55rrp1dpo46lghbv4u7kr3",
+    "expression": "input.borrowerIndividualAge > 50 and input.borrowerIndividualAge <= 60",
+    "outputConfig": {
+      "installmentAmountScore": 50,
+      "interestRateScore": 50,
+      "loanAmountScore": 50,
+      "tenureScore": 50
+    }
+  },
+  {
+    "id": "xcpn8xl8ox4fpv57uc5mme0b",
+    "name": "Borrower Age (61 - 70)",
+    "masterRuleId": "wa55rrp1dpo46lghbv4u7kr3",
+    "expression": "input.borrowerIndividualAge > 60 and input.borrowerIndividualAge <= 70",
+    "outputConfig": {
+      "installmentAmountScore": 0,
+      "interestRateScore": 0,
+      "loanAmountScore": 0,
+      "tenureScore": 0
+    }
+  },
+  {
+    "id": "alb3r8z9u7g5r7vr1aps0247",
+    "name": "Borrower Age (70 - N/A)",
+    "masterRuleId": "wa55rrp1dpo46lghbv4u7kr3",
+    "expression": "input.borrowerIndividualAge > 70",
+    "outputConfig": {
+      "installmentAmountScore": 0,
+      "interestRateScore": 0,
+      "loanAmountScore": 0,
+      "tenureScore": 0
+    }
+  },
+  {
+    "id": "htypqalxexmhwwqcbydtjrqj",
+    "name": "Credit Score (-1)",
+    "masterRuleId": "um68n89vvyukq8rm9ha43es6",
+    "expression": "input.borrowerIndividualCreditScore == -1",
+    "outputConfig": {
+      "installmentAmountScore": 50,
+      "interestRateScore": 50,
+      "loanAmountScore": 50,
+      "tenureScore": 50
+    }
+  },
+  {
+    "id": "olvd9jpmcixnva7t8l6eumg8",
+    "name": "Credit Score (0 - 300)",
+    "masterRuleId": "um68n89vvyukq8rm9ha43es6",
+    "expression": "input.borrowerIndividualCreditScore >= 0 and input.borrowerIndividualCreditScore <= 300",
+    "outputConfig": {
+      "installmentAmountScore": 0,
+      "interestRateScore": 0,
+      "loanAmountScore": 0,
+      "tenureScore": 0
+    }
+  },
+  {
+    "id": "zf6b8ahiydnj1d6n4bfp3ows",
+    "name": "Credit Score (301 - 500)",
+    "masterRuleId": "um68n89vvyukq8rm9ha43es6",
+    "expression": "input.borrowerIndividualCreditScore >= 301 and input.borrowerIndividualCreditScore <= 500",
+    "outputConfig": {
+      "installmentAmountScore": 30,
+      "interestRateScore": 30,
+      "loanAmountScore": 30,
+      "tenureScore": 30
+    }
+  },
+  {
+    "id": "ipym8fd7mvn90nja9zcjoirf",
+    "name": "Credit Score (501 - 700)",
+    "masterRuleId": "um68n89vvyukq8rm9ha43es6",
+    "expression": "input.borrowerIndividualCreditScore >= 501 and input.borrowerIndividualCreditScore <= 700",
+    "outputConfig": {
+      "installmentAmountScore": 30,
+      "interestRateScore": 30,
+      "loanAmountScore": 30,
+      "tenureScore": 30
+    }
+  },
+  {
+    "id": "dygo5gva5srgf1c3wyh723a7",
+    "name": "Credit Score (701 - 750)",
+    "masterRuleId": "um68n89vvyukq8rm9ha43es6",
+    "expression": "input.borrowerIndividualCreditScore >= 701 and input.borrowerIndividualCreditScore <= 750",
+    "outputConfig": {
+      "installmentAmountScore": 50,
+      "interestRateScore": 50,
+      "loanAmountScore": 50,
+      "tenureScore": 50
+    }
+  },
+  {
+    "id": "svfwdkdo8clzrl4gntyl13cw",
+    "name": "Credit Score (751 - 800)",
+    "masterRuleId": "um68n89vvyukq8rm9ha43es6",
+    "expression": "input.borrowerIndividualCreditScore >= 751 and input.borrowerIndividualCreditScore <= 800",
+    "outputConfig": {
+      "installmentAmountScore": 100,
+      "interestRateScore": 100,
+      "loanAmountScore": 100,
+      "tenureScore": 100
+    }
+  },
+  {
+    "id": "oqbcrcs6or0xi0hlg8m6nih2",
+    "name": "Credit Score (801 - 850)",
+    "masterRuleId": "um68n89vvyukq8rm9ha43es6",
+    "expression": "input.borrowerIndividualCreditScore >= 801 and input.borrowerIndividualCreditScore <= 850",
+    "outputConfig": {
+      "installmentAmountScore": 100,
+      "interestRateScore": 100,
+      "loanAmountScore": 100,
+      "tenureScore": 100
+    }
+  },
+  {
+    "id": "h6jpemby7r1lflqonmbr3mrv",
+    "name": "Credit Score (851 - 950)",
+    "masterRuleId": "um68n89vvyukq8rm9ha43es6",
+    "expression": "input.borrowerIndividualCreditScore >= 851 and input.borrowerIndividualCreditScore <= 950",
+    "outputConfig": {
+      "installmentAmountScore": 100,
+      "interestRateScore": 100,
+      "loanAmountScore": 100,
+      "tenureScore": 100
+    }
+  },
+  {
+    "id": "eamarvx07cocr1sckpunh7jj",
+    "name": "Income (0 - 2 Lakhs)",
+    "masterRuleId": "cuxxo7h6oke78qdzge8y0o6d",
+    "expression": "input.borrowerIndividualMonthlyIncome >= 0 and input.borrowerIndividualMonthlyIncome <= 200000",
+    "outputConfig": {
+      "installmentAmountScore": 0,
+      "interestRateScore": 0,
+      "loanAmountScore": 0,
+      "tenureScore": 0
+    }
+  },
+  {
+    "id": "rsqheeferh6khtl7omn28vty",
+    "name": "Income (2 - 5 Lakhs)",
+    "masterRuleId": "cuxxo7h6oke78qdzge8y0o6d",
+    "expression": "input.borrowerIndividualMonthlyIncome > 200000 and input.borrowerIndividualMonthlyIncome <= 500000",
+    "outputConfig": {
+      "installmentAmountScore": 30,
+      "interestRateScore": 30,
+      "loanAmountScore": 30,
+      "tenureScore": 30
+    }
+  },
+  {
+    "id": "klj8yw5s99lbpjppym7scsmn",
+    "name": "Income (5 - 8 Lakhs)",
+    "masterRuleId": "cuxxo7h6oke78qdzge8y0o6d",
+    "expression": "input.borrowerIndividualMonthlyIncome > 500000 and input.borrowerIndividualMonthlyIncome <= 800000",
+    "outputConfig": {
+      "installmentAmountScore": 50,
+      "interestRateScore": 50,
+      "loanAmountScore": 50,
+      "tenureScore": 50
+    }
+  },
+  {
+    "id": "twfjfvn13dcfi5z0ord3q56h",
+    "name": "Income (8 - 12 Lakhs)",
+    "masterRuleId": "cuxxo7h6oke78qdzge8y0o6d",
+    "expression": "input.borrowerIndividualMonthlyIncome > 800000 and input.borrowerIndividualMonthlyIncome <= 1200000",
+    "outputConfig": {
+      "installmentAmountScore": 50,
+      "interestRateScore": 50,
+      "loanAmountScore": 50,
+      "tenureScore": 50
+    }
+  },
+  {
+    "id": "yn76g8e0skz8ydipegai0eee",
+    "name": "Income (12 - 15 Lakhs)",
+    "masterRuleId": "cuxxo7h6oke78qdzge8y0o6d",
+    "expression": "input.borrowerIndividualMonthlyIncome > 1200000 and input.borrowerIndividualMonthlyIncome <= 1500000",
+    "outputConfig": {
+      "installmentAmountScore": 100,
+      "interestRateScore": 100,
+      "loanAmountScore": 100,
+      "tenureScore": 100
+    }
+  },
+  {
+    "id": "w6agp7ua523bm1o9zcqf6yci",
+    "name": "Income (15 - 20 Lakhs)",
+    "masterRuleId": "cuxxo7h6oke78qdzge8y0o6d",
+    "expression": "input.borrowerIndividualMonthlyIncome > 1500000 and input.borrowerIndividualMonthlyIncome <= 2000000",
+    "outputConfig": {
+      "installmentAmountScore": 100,
+      "interestRateScore": 100,
+      "loanAmountScore": 100,
+      "tenureScore": 100
+    }
+  },
+  {
+    "id": "exkmiafdius4o0p97cytavug",
+    "name": "Income (20 - 30 Lakhs)",
+    "masterRuleId": "cuxxo7h6oke78qdzge8y0o6d",
+    "expression": "input.borrowerIndividualMonthlyIncome > 2000000 and input.borrowerIndividualMonthlyIncome <= 3000000",
+    "outputConfig": {
+      "installmentAmountScore": 100,
+      "interestRateScore": 100,
+      "loanAmountScore": 100,
+      "tenureScore": 100
+    }
+  },
+  {
+    "id": "ooobmq66ev5bqqpa3458illu",
+    "name": "Income (30 - 50 Lakhs)",
+    "masterRuleId": "cuxxo7h6oke78qdzge8y0o6d",
+    "expression": "input.borrowerIndividualMonthlyIncome > 3000000 and input.borrowerIndividualMonthlyIncome <= 5000000",
+    "outputConfig": {
+      "installmentAmountScore": 100,
+      "interestRateScore": 100,
+      "loanAmountScore": 100,
+      "tenureScore": 100
+    }
+  },
+  {
+    "id": "ix9m4gnwhhe918msf0ry862o",
+    "name": "Income (Above 50 Lakhs)",
+    "masterRuleId": "cuxxo7h6oke78qdzge8y0o6d",
+    "expression": "input.borrowerIndividualMonthlyIncome > 5000000",
+    "outputConfig": {
+      "installmentAmountScore": 100,
+      "interestRateScore": 100,
+      "loanAmountScore": 100,
+      "tenureScore": 100
+    }
+  },
+  {
+    "id": "xjyhd2qe81caepxqbcgraqwj",
+    "name": "Obligation (0 - 15K)",
+    "masterRuleId": "qu1wzcnon1tw0tl90011zw1r",
+    "expression": "input.individualBorrowerObligation <= 15000",
+    "outputConfig": {
+      "installmentAmountScore": 100,
+      "interestRateScore": 100,
+      "loanAmountScore": 100,
+      "tenureScore": 100
+    }
+  },
+  {
+    "id": "o866c80vtnqoe5nm2fqqjnk1",
+    "name": "Obligation (15K - 30K)",
+    "masterRuleId": "qu1wzcnon1tw0tl90011zw1r",
+    "expression": "input.individualBorrowerObligation > 15000 and input.individualBorrowerObligation <= 30000",
+    "outputConfig": {
+      "installmentAmountScore": 90,
+      "interestRateScore": 90,
+      "loanAmountScore": 90,
+      "tenureScore": 90
+    }
+  },
+  {
+    "id": "zrpmxpdzkjz2d52utzfcj8ji",
+    "name": "Obligation (30K - 45K)",
+    "masterRuleId": "qu1wzcnon1tw0tl90011zw1r",
+    "expression": "input.individualBorrowerObligation > 30000 and input.individualBorrowerObligation <= 45000",
+    "outputConfig": {
+      "installmentAmountScore": 80,
+      "interestRateScore": 80,
+      "loanAmountScore": 80,
+      "tenureScore": 80
+    }
+  },
+  {
+    "id": "b5r5zzips54v17hu6n4fneqg",
+    "name": "Obligation (45K - 60K)",
+    "masterRuleId": "qu1wzcnon1tw0tl90011zw1r",
+    "expression": "input.individualBorrowerObligation > 45000 and input.individualBorrowerObligation <= 60000",
+    "outputConfig": {
+      "installmentAmountScore": 50,
+      "interestRateScore": 50,
+      "loanAmountScore": 50,
+      "tenureScore": 50
+    }
+  },
+  {
+    "id": "cuwq02u24snktwef7uk4wkey",
+    "name": "Obligation (60K - 80K)",
+    "masterRuleId": "qu1wzcnon1tw0tl90011zw1r",
+    "expression": "input.individualBorrowerObligation > 60000 and input.individualBorrowerObligation <= 80000",
+    "outputConfig": {
+      "installmentAmountScore": 30,
+      "interestRateScore": 30,
+      "loanAmountScore": 30,
+      "tenureScore": 30
+    }
+  },
+  {
+    "id": "p2s3bn62t4u4c76p3vm0ne5p",
+    "name": "Obligation (80K - 1L)",
+    "masterRuleId": "qu1wzcnon1tw0tl90011zw1r",
+    "expression": "input.individualBorrowerObligation > 80000 and input.individualBorrowerObligation <= 100000",
+    "outputConfig": {
+      "installmentAmountScore": 20,
+      "interestRateScore": 20,
+      "loanAmountScore": 20,
+      "tenureScore": 20
+    }
+  },
+  {
+    "id": "xu8whnhw40pg3cuqjt5kxsux",
+    "name": "Obligation (1L - 1.5L)",
+    "masterRuleId": "qu1wzcnon1tw0tl90011zw1r",
+    "expression": "input.individualBorrowerObligation > 100000 and input.individualBorrowerObligation <= 150000",
+    "outputConfig": {
+      "installmentAmountScore": 0,
+      "interestRateScore": 0,
+      "loanAmountScore": 0,
+      "tenureScore": 0
+    }
+  },
+  {
+    "id": "n8pgqfxgqbl22ftwmt1j7maw",
+    "name": "Obligation (1.5L - 2L)",
+    "masterRuleId": "qu1wzcnon1tw0tl90011zw1r",
+    "expression": "input.individualBorrowerObligation > 150000 and input.individualBorrowerObligation <= 200000",
+    "outputConfig": {
+      "installmentAmountScore": 0,
+      "interestRateScore": 0,
+      "loanAmountScore": 0,
+      "tenureScore": 0
+    }
+  },
+  {
+    "id": "rp86zg82y9nh9zjfq9t6qjfz",
+    "name": "FOIR (0% - 30%)",
+    "masterRuleId": "zj3f2a5dcr4g04g7tobcc8lo",
+    "expression": "input.borrowerIndividualFoirPercentage >= 0 and input.borrowerIndividualFoirPercentage <= 30",
+    "outputConfig": {
+      "installmentAmountScore": 10,
+      "interestRateScore": 10,
+      "loanAmountScore": 10,
+      "tenureScore": 10
+    }
+  },
+  {
+    "id": "u9bral6q63pkwo841uwb6y0l",
+    "name": "FOIR (31% - 40%)",
+    "masterRuleId": "zj3f2a5dcr4g04g7tobcc8lo",
+    "expression": "input.borrowerIndividualFoirPercentage >= 31 and input.borrowerIndividualFoirPercentage <= 40",
+    "outputConfig": {
+      "installmentAmountScore": 20,
+      "interestRateScore": 20,
+      "loanAmountScore": 20,
+      "tenureScore": 20
+    }
+  },
+  {
+    "id": "t328z9jgrgcsm0ghbplaqpdn",
+    "name": "FOIR (41% - 50%)",
+    "masterRuleId": "zj3f2a5dcr4g04g7tobcc8lo",
+    "expression": "input.borrowerIndividualFoirPercentage >= 41 and input.borrowerIndividualFoirPercentage <= 50",
+    "outputConfig": {
+      "installmentAmountScore": 30,
+      "interestRateScore": 30,
+      "loanAmountScore": 30,
+      "tenureScore": 30
+    }
+  },
+  {
+    "id": "pibywy9jnylqp5hwr32oubuv",
+    "name": "FOIR (51% - 60%)",
+    "masterRuleId": "zj3f2a5dcr4g04g7tobcc8lo",
+    "expression": "input.borrowerIndividualFoirPercentage >= 51 and input.borrowerIndividualFoirPercentage <= 60",
+    "outputConfig": {
+      "installmentAmountScore": 40,
+      "interestRateScore": 40,
+      "loanAmountScore": 40,
+      "tenureScore": 40
+    }
+  },
+  {
+    "id": "urhyckmib3st512opxgqtcw0",
+    "name": "FOIR (61% - 70%)",
+    "masterRuleId": "zj3f2a5dcr4g04g7tobcc8lo",
+    "expression": "input.borrowerIndividualFoirPercentage >= 61 and input.borrowerIndividualFoirPercentage <= 70",
+    "outputConfig": {
+      "installmentAmountScore": 50,
+      "interestRateScore": 50,
+      "loanAmountScore": 50,
+      "tenureScore": 50
+    }
+  },
+  {
+    "id": "dt0gzs6imriy8x3971vkrzst",
+    "name": "FOIR (71% - 80%)",
+    "masterRuleId": "zj3f2a5dcr4g04g7tobcc8lo",
+    "expression": "input.borrowerIndividualFoirPercentage >= 71 and input.borrowerIndividualFoirPercentage <= 80",
+    "outputConfig": {
+      "installmentAmountScore": 60,
+      "interestRateScore": 60,
+      "loanAmountScore": 60,
+      "tenureScore": 60
+    }
+  },
+  {
+    "id": "pj9rebuik76x908fuprr6le2",
+    "name": "FOIR (81% - 90%)",
+    "masterRuleId": "zj3f2a5dcr4g04g7tobcc8lo",
+    "expression": "input.borrowerIndividualFoirPercentage >= 81 and input.borrowerIndividualFoirPercentage <= 90",
+    "outputConfig": {
+      "installmentAmountScore": 70,
+      "interestRateScore": 70,
+      "loanAmountScore": 70,
+      "tenureScore": 70
+    }
+  },
+  {
+    "id": "awtvothyd1up9dxwrp6rbh0r",
+    "name": "FOIR (91% - 100%)",
+    "masterRuleId": "zj3f2a5dcr4g04g7tobcc8lo",
+    "expression": "input.borrowerIndividualFoirPercentage >= 91 and input.borrowerIndividualFoirPercentage <= 100",
+    "outputConfig": {
+      "installmentAmountScore": 80,
+      "interestRateScore": 80,
+      "loanAmountScore": 80,
+      "tenureScore": 80
+    }
+  },
+  {
+    "id": "pgz9nd3fq5b1wz28wanq7z4p",
+    "name": "Bouncing (0)",
+    "masterRuleId": "k55pfqf6ydyvmtu4awuxindb",
+    "expression": "input.borrowerIndividualLast12MonthBouncing == 0",
+    "outputConfig": {
+      "installmentAmountScore": 100,
+      "interestRateScore": 100,
+      "loanAmountScore": 100,
+      "tenureScore": 100
+    }
+  },
+  {
+    "id": "q59uirrcuxsr356t98ic3enu",
+    "name": "Bouncing (1 - 2)",
+    "masterRuleId": "k55pfqf6ydyvmtu4awuxindb",
+    "expression": "input.borrowerIndividualLast12MonthBouncing >= 1 and input.borrowerIndividualLast12MonthBouncing <= 2",
+    "outputConfig": {
+      "installmentAmountScore": 50,
+      "interestRateScore": 50,
+      "loanAmountScore": 50,
+      "tenureScore": 50
+    }
+  },
+  {
+    "id": "cym394437rh8872ov7yw15a6",
+    "name": "Bouncing (3 - 5)",
+    "masterRuleId": "k55pfqf6ydyvmtu4awuxindb",
+    "expression": "input.borrowerIndividualLast12MonthBouncing >= 3 and input.borrowerIndividualLast12MonthBouncing <= 5",
+    "outputConfig": {
+      "installmentAmountScore": 30,
+      "interestRateScore": 30,
+      "loanAmountScore": 30,
+      "tenureScore": 30
+    }
+  },
+  {
+    "id": "rajl4h75z4o8hochhhdxfm7a",
+    "name": "Bouncing (Above 5)",
+    "masterRuleId": "k55pfqf6ydyvmtu4awuxindb",
+    "expression": "input.borrowerIndividualLast12MonthBouncing > 5",
+    "outputConfig": {
+      "installmentAmountScore": 0,
+      "interestRateScore": 0,
+      "loanAmountScore": 0,
+      "tenureScore": 0
+    }
+  },
+  {
+    "id": "oieveuciw43cbfybeuvw4g6d",
+    "name": "Dependents (0)",
+    "masterRuleId": "rssth4xvhfcimnppacyp7y6x",
+    "expression": "input.borrowerIndividualDependents == 0",
+    "outputConfig": {
+      "installmentAmountScore": 100,
+      "interestRateScore": 100,
+      "loanAmountScore": 100,
+      "tenureScore": 100
+    }
+  },
+  {
+    "id": "rwut2x6wakc0tx840catht6f",
+    "name": "Dependents (1 - 2)",
+    "masterRuleId": "rssth4xvhfcimnppacyp7y6x",
+    "expression": "input.borrowerIndividualDependents >= 1 and input.borrowerIndividualDependents <= 2",
+    "outputConfig": {
+      "installmentAmountScore": 100,
+      "interestRateScore": 100,
+      "loanAmountScore": 100,
+      "tenureScore": 100
+    }
+  },
+  {
+    "id": "k8rgh8h6t25rnfm9r5vaycpy",
+    "name": "Dependents (3 - 5)",
+    "masterRuleId": "rssth4xvhfcimnppacyp7y6x",
+    "expression": "input.borrowerIndividualDependents >= 3 and input.borrowerIndividualDependents <= 5",
+    "outputConfig": {
+      "installmentAmountScore": 30,
+      "interestRateScore": 30,
+      "loanAmountScore": 30,
+      "tenureScore": 30
+    }
+  },
+  {
+    "id": "z7vfe62ktmdc0hz0xhuqtv1n",
+    "name": "Dependents (6 - 10)",
+    "masterRuleId": "rssth4xvhfcimnppacyp7y6x",
+    "expression": "input.borrowerIndividualDependents >= 6 and input.borrowerIndividualDependents <= 10",
+    "outputConfig": {
+      "installmentAmountScore": 0,
+      "interestRateScore": 0,
+      "loanAmountScore": 0,
+      "tenureScore": 0
+    }
+  },
+  {
+    "id": "bzwikm5tq98rq1ioe4h9eqi9",
+    "name": "Dependents (Above 10)",
+    "masterRuleId": "rssth4xvhfcimnppacyp7y6x",
+    "expression": "input.borrowerIndividualDependents > 10",
+    "outputConfig": {
+      "installmentAmountScore": 0,
+      "interestRateScore": 0,
+      "loanAmountScore": 0,
+      "tenureScore": 0
+    }
+  },
+  {
+    "id": "zqjpf2xt0d6tpfivr6i4imph",
+    "name": "Premises Standard (POOR)",
+    "masterRuleId": "uvziade6go5e3pan9smtotj8",
+    "expression": "input.borrowerIndividualPremisesStandard == 'POOR'",
+    "outputConfig": {
+      "installmentAmountScore": 0,
+      "interestRateScore": 0,
+      "loanAmountScore": 0,
+      "tenureScore": 0
+    }
+  },
+  {
+    "id": "hxgw2mbbeht46uywd8yvd1ha",
+    "name": "Premises Standard (AVERAGE)",
+    "masterRuleId": "uvziade6go5e3pan9smtotj8",
+    "expression": "input.borrowerIndividualPremisesStandard == 'AVERAGE'",
+    "outputConfig": {
+      "installmentAmountScore": 50,
+      "interestRateScore": 50,
+      "loanAmountScore": 50,
+      "tenureScore": 50
+    }
+  },
+  {
+    "id": "zqzo0mxjujrsdie6tocvnxb3",
+    "name": "Premises Standard (GOOD)",
+    "masterRuleId": "uvziade6go5e3pan9smtotj8",
+    "expression": "input.borrowerIndividualPremisesStandard == 'GOOD'",
+    "outputConfig": {
+      "installmentAmountScore": 80,
+      "interestRateScore": 80,
+      "loanAmountScore": 80,
+      "tenureScore": 80
+    }
+  },
+  {
+    "id": "b3scdbnza4vy3yzs225jofgk",
+    "name": "Premises Standard (LUXURY)",
+    "masterRuleId": "uvziade6go5e3pan9smtotj8",
+    "expression": "input.borrowerIndividualPremisesStandard == 'LUXURY'",
+    "outputConfig": {
+      "installmentAmountScore": 100,
+      "interestRateScore": 100,
+      "loanAmountScore": 100,
+      "tenureScore": 100
+    }
+  },
+  {
+    "id": "gnenay2i7i78449d6ox1tz5k",
+    "name": "Premises Standard (NOT_APPLICABLE)",
+    "masterRuleId": "uvziade6go5e3pan9smtotj8",
+    "expression": "input.borrowerIndividualPremisesStandard == 'NOT_APPLICABLE'",
+    "outputConfig": {
+      "installmentAmountScore": 100,
+      "interestRateScore": 100,
+      "loanAmountScore": 100,
+      "tenureScore": 100
+    }
+  },
+  {
+    "id": "u8f8lggbd8w39gvvyzpok0m2",
+    "name": "Travel Ease (EASY)",
+    "masterRuleId": "cmwpg6utw94irj9b8qq31058",
+    "expression": "input.borrowerIndividualTravelEase == 'EASY'",
+    "outputConfig": {
+      "installmentAmountScore": 100,
+      "interestRateScore": 100,
+      "loanAmountScore": 100,
+      "tenureScore": 100
+    }
+  },
+  {
+    "id": "vdlp8wihbu8hk1yuq2cmyj2p",
+    "name": "Travel Ease (AVERAGE)",
+    "masterRuleId": "cmwpg6utw94irj9b8qq31058",
+    "expression": "input.borrowerIndividualTravelEase == 'AVERAGE'",
+    "outputConfig": {
+      "installmentAmountScore": 50,
+      "interestRateScore": 50,
+      "loanAmountScore": 50,
+      "tenureScore": 50
+    }
+  },
+  {
+    "id": "isbx6bbn1y0j1iggkibfk6oo",
+    "name": "Travel Ease (DIFFICULT)",
+    "masterRuleId": "cmwpg6utw94irj9b8qq31058",
+    "expression": "input.borrowerIndividualTravelEase == 'DIFFICULT'",
+    "outputConfig": {
+      "installmentAmountScore": 0,
+      "interestRateScore": 0,
+      "loanAmountScore": 0,
+      "tenureScore": 0
+    }
+  },
+  {
+    "id": "x06dsu0d78q1pau2374eq8p3",
+    "name": "Marital Status (MARRIED)",
+    "masterRuleId": "u0t38p0mjh7s3p91l3sv8kd1",
+    "expression": "input.borrowerIndividualMaritalStatus == 'MARRIED'",
+    "outputConfig": {
+      "installmentAmountScore": 100,
+      "interestRateScore": 100,
+      "loanAmountScore": 100,
+      "tenureScore": 100
+    }
+  },
+  {
+    "id": "lhkfbhvdles769bgh8unfvzu",
+    "name": "Marital Status (UNMARRIED)",
+    "masterRuleId": "u0t38p0mjh7s3p91l3sv8kd1",
+    "expression": "input.borrowerIndividualMaritalStatus == 'UNMARRIED'",
+    "outputConfig": {
+      "installmentAmountScore": 50,
+      "interestRateScore": 50,
+      "loanAmountScore": 50,
+      "tenureScore": 50
+    }
+  },
+  {
+    "id": "hn1yy39jkh0vryfp3dj3tdg0",
+    "name": "Marital Status (DIVORCED)",
+    "masterRuleId": "u0t38p0mjh7s3p91l3sv8kd1",
+    "expression": "input.borrowerIndividualMaritalStatus == 'DIVORCED'",
+    "outputConfig": {
+      "installmentAmountScore": 50,
+      "interestRateScore": 50,
+      "loanAmountScore": 50,
+      "tenureScore": 50
+    }
+  },
+  {
+    "id": "fgmrfxiwx8uulhwpqfswpy9p",
+    "name": "Marital Status (WIDOWED)",
+    "masterRuleId": "u0t38p0mjh7s3p91l3sv8kd1",
+    "expression": "input.borrowerIndividualMaritalStatus == 'WIDOWED'",
+    "outputConfig": {
+      "installmentAmountScore": 30,
+      "interestRateScore": 30,
+      "loanAmountScore": 30,
+      "tenureScore": 30
+    }
+  },
+  {
+    "id": "bpfo20pa5kd3kwlafxrtcyjl",
+    "name": "Marital Status (SEPARATED)",
+    "masterRuleId": "u0t38p0mjh7s3p91l3sv8kd1",
+    "expression": "input.borrowerIndividualMaritalStatus == 'SEPARATED'",
+    "outputConfig": {
+      "installmentAmountScore": 0,
+      "interestRateScore": 0,
+      "loanAmountScore": 0,
+      "tenureScore": 0
+    }
+  },
+  {
+    "id": "ehu9m4rl87dxs1jdcr2nt7fh",
+    "name": "Residence Ownership (OWNED_FREEHOLD)",
+    "masterRuleId": "ar77fn0k0b7n6h760jwdkmyu",
+    "expression": "input.borrowerIndividualResidenceOwnership == 'OWNED_FREEHOLD'",
+    "outputConfig": {
+      "installmentAmountScore": 100,
+      "interestRateScore": 100,
+      "loanAmountScore": 100,
+      "tenureScore": 100
+    }
+  },
+  {
+    "id": "seim1fvo2ttrvv89p2o0rskt",
+    "name": "Residence Ownership (OWNED_LEASEHOLD)",
+    "masterRuleId": "ar77fn0k0b7n6h760jwdkmyu",
+    "expression": "input.borrowerIndividualResidenceOwnership == 'OWNED_LEASEHOLD'",
+    "outputConfig": {
+      "installmentAmountScore": 50,
+      "interestRateScore": 50,
+      "loanAmountScore": 50,
+      "tenureScore": 50
+    }
+  },
+  {
+    "id": "bvmix8zk1tf58xpc4i0pybzc",
+    "name": "Residence Ownership (PARENT_FREEHOLD)",
+    "masterRuleId": "ar77fn0k0b7n6h760jwdkmyu",
+    "expression": "input.borrowerIndividualResidenceOwnership == 'PARENT_FREEHOLD'",
+    "outputConfig": {
+      "installmentAmountScore": 50,
+      "interestRateScore": 50,
+      "loanAmountScore": 50,
+      "tenureScore": 50
+    }
+  },
+  {
+    "id": "zf3zxld9mqmdt028a1gmjal8",
+    "name": "Residence Ownership (PARENT_LEASEHOLD)",
+    "masterRuleId": "ar77fn0k0b7n6h760jwdkmyu",
+    "expression": "input.borrowerIndividualResidenceOwnership == 'PARENT_LEASEHOLD'",
+    "outputConfig": {
+      "installmentAmountScore": 30,
+      "interestRateScore": 30,
+      "loanAmountScore": 30,
+      "tenureScore": 30
+    }
+  },
+  {
+    "id": "salpekfu8sw3rztjv64kwtj8",
+    "name": "Residence Ownership (RENTED_UPTO_2_YEARS)",
+    "masterRuleId": "ar77fn0k0b7n6h760jwdkmyu",
+    "expression": "input.borrowerIndividualResidenceOwnership == 'RENTED_UPTO_2_YEARS'",
+    "outputConfig": {
+      "installmentAmountScore": 0,
+      "interestRateScore": 0,
+      "loanAmountScore": 0,
+      "tenureScore": 0
+    }
+  },
+  {
+    "id": "grrku763o844kcw7vx8ib7qn",
+    "name": "Residence Ownership (RENTED_2_5_YEARS)",
+    "masterRuleId": "ar77fn0k0b7n6h760jwdkmyu",
+    "expression": "input.borrowerIndividualResidenceOwnership == 'RENTED_2_5_YEARS'",
+    "outputConfig": {
+      "installmentAmountScore": 20,
+      "interestRateScore": 20,
+      "loanAmountScore": 20,
+      "tenureScore": 20
+    }
+  },
+  {
+    "id": "w718unr5s7m5ng8bfh87qmle",
+    "name": "Residence Ownership (RENTED_2_10_YEARS)",
+    "masterRuleId": "ar77fn0k0b7n6h760jwdkmyu",
+    "expression": "input.borrowerIndividualResidenceOwnership == 'RENTED_2_10_YEARS'",
+    "outputConfig": {
+      "installmentAmountScore": 40,
+      "interestRateScore": 40,
+      "loanAmountScore": 40,
+      "tenureScore": 40
+    }
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "id": "01JWZTPV9J8Y46FEBF1X39T62J",
+    "name": "JAMMU & KASHMIR",
+    "code": "01"
+  },
+  {
+    "id": "01JWZTPV9KRH651P09W3BZ8PTX",
+    "name": "HIMACHAL PRADESH",
+    "code": "02"
+  },
+  {
+    "id": "01JWZTPV9KYJ2SFSJYR7P4HG6K",
+    "name": "PUNJAB",
+    "code": "03"
+  },
+  {
+    "id": "01JWZTPV9KN98WZQ20PMNFP48W",
+    "name": "CHANDIGARH",
+    "code": "04"
+  },
+  {
+    "id": "01JWZTPV9KRMS51RE7EGYBTYV6",
+    "name": "UTTARAKHAND",
+    "code": "05"
+  },
+  {
+    "id": "01JWZTPV9KN2F0Z62D4JK0718Q",
+    "name": "HARYANA",
+    "code": "06"
+  },
+  {
+    "id": "01JWZTPV9K38JPZHDHC4VTHNF1",
+    "name": "DELHI",
+    "code": "07"
+  },
+  {
+    "id": "01JWZTPV9KBYND0K966AGE5G01",
+    "name": "RAJASTHAN",
+    "code": "08"
+  },
+  {
+    "id": "01JWZTPV9K6H2F31FQ6B9NPH58",
+    "name": "UTTAR PRADESH",
+    "code": "09"
+  },
+  {
+    "id": "01JWZTPV9K6514DXY3X11YEN7V",
+    "name": "BIHAR",
+    "code": "10"
+  },
+  {
+    "id": "01JWZTPV9KATH6R3YS3RKRJEAC",
+    "name": "SIKKIM",
+    "code": "11"
+  },
+  {
+    "id": "01JWZTPV9K8FNXZ5WNREJRE557",
+    "name": "ARUNACHAL PRADESH",
+    "code": "12"
+  },
+  {
+    "id": "01JWZTPV9KD36E9CWE0JBFC1FP",
+    "name": "NAGALAND",
+    "code": "13"
+  },
+  {
+    "id": "01JWZTPV9K4FEWM56186MVHP11",
+    "name": "MANIPUR",
+    "code": "14"
+  },
+  {
+    "id": "01JWZTPV9K8WBG3JFXTAK92CCY",
+    "name": "MIZORAM",
+    "code": "15"
+  },
+  {
+    "id": "01JWZTPV9KKTNVDXMJ2J94NJRV",
+    "name": "TRIPURA",
+    "code": "16"
+  },
+  {
+    "id": "01JWZTPV9KF1EFW6HS0Z1VDMY4",
+    "name": "MEGHALAYA",
+    "code": "17"
+  },
+  {
+    "id": "01JWZTPV9K95C1KZTZSRZW0GBT",
+    "name": "ASSAM",
+    "code": "18"
+  },
+  {
+    "id": "01JWZTPV9K3Z3C9MQZ0CB2BY61",
+    "name": "WEST BENGAL",
+    "code": "19"
+  },
+  {
+    "id": "01JWZTPV9KDQKZEABVM2106HDN",
+    "name": "JHARKHAND",
+    "code": "20"
+  },
+  {
+    "id": "01JWZTPV9KFJTZTXFXM98EZXSV",
+    "name": "ODISHA",
+    "code": "21"
+  },
+  {
+    "id": "01JWZTPV9KVDGEKPJZ77SE3D05",
+    "name": "CHATTISGARH",
+    "code": "22"
+  },
+  {
+    "id": "01JWZTPV9KAXFW9ZCKVBJFPYET",
+    "name": "MADHYA PRADESH",
+    "code": "23"
+  },
+  {
+    "id": "01JWZTPV9K106ZHSRMCNG15QMQ",
+    "name": "GUJARAT",
+    "code": "24"
+  },
+  {
+    "id": "01JWZTPV9K35ERDFZ91QD6PEDR",
+    "name": "DAMAN & DIU",
+    "code": "25"
+  },
+  {
+    "id": "01JWZTPV9KCBZ0418FXF0EQK96",
+    "name": "DADRA & NAGAR HAVELI",
+    "code": "26"
+  },
+  {
+    "id": "01JWZTPV9K6J49B072HVWCSZHH",
+    "name": "MAHARASHTRA",
+    "code": "27"
+  },
+  {
+    "id": "01JWZTPV9KT9H966TEYXH6R9JP",
+    "name": "ANDHRA PRADESH",
+    "code": "28"
+  },
+  {
+    "id": "01JWZTPV9K162MSKW5V712JN07",
+    "name": "KARNATAKA",
+    "code": "29"
+  },
+  {
+    "id": "01JWZTPV9KSEXKNHES8YH2424B",
+    "name": "GOA",
+    "code": "30"
+  },
+  {
+    "id": "01JWZTPV9K7V4HBZ8NWT0GFCD1",
+    "name": "LAKSHADWEEP",
+    "code": "31"
+  },
+  {
+    "id": "01JWZTPV9KTAGXJT297FVK0DK0",
+    "name": "KERALA",
+    "code": "32"
+  },
+  {
+    "id": "01JWZTPV9KHY838Q9HPDDBW5YR",
+    "name": "TAMIL NADU",
+    "code": "33"
+  },
+  {
+    "id": "01JWZTPV9KE9T8YR6JHKAPTG5F",
+    "name": "PONDICHERRY",
+    "code": "34"
+  },
+  {
+    "id": "01JWZTPV9KVSZRPR4115ZS491J",
+    "name": "ANDAMAN & NICOBAR",
+    "code": "35"
+  },
+  {
+    "id": "01JWZTPV9KQT9FSBWB9SEAES5H",
+    "name": "TELANGANA",
+    "code": "36"
+  },
+  {
+    "id": "01JWZTPV9K2VQQND06EBDG2CPZ",
+    "name": "LADAKH",
+    "code": "37"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "codePrefix": "DEF",
+    "designationId": "01JWZ924ZC5GENJ8K6PR5PHK8J",
+    "username": "rajesh",
+    "password": "$2b$10$FmVYUQedzlooYMsLQiQfduc0vclgbHhW.f43DLoVJy8VzNB.Yh84q",
+    "managerId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "customerId": "01JWZP5FDQ981NNMCNAP41A13X"
+  },
+  {
+    "id": "01JWZYRDFS6863JWXH7CWW30XE",
+    "codePrefix": "DEF",
+    "designationId": "01JWZ924ZCFP4BQC1D6M10P115",
+    "username": "ajay",
+    "password": "$2b$10$FmVYUQedzlooYMsLQiQfduc0vclgbHhW.f43DLoVJy8VzNB.Yh84q",
+    "managerId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "customerId": "01JWZP5FDQF36Y8JKS0YW42H2C"
+  }
+]

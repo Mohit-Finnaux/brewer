@@ -1,0 +1,32 @@
+[
+  {
+    "id": "01JWZM5MD25S4J1ATRCAXMG102",
+    "name": "Salaried",
+    "code": "01"
+  },
+  {
+    "id": "01JWZM5MD3J723N4JG8R3MSK2E",
+    "name": "Pensioner",
+    "code": "01"
+  },
+  {
+    "id": "01JWZM5MD3VV8V80HA0DM6S0HE",
+    "name": "Self-Employed Professional",
+    "code": "02"
+  },
+  {
+    "id": "01JWZM5MD3RAW077BC4P2WQWMT",
+    "name": "Self-Employed Non-Professional",
+    "code": "03"
+  },
+  {
+    "id": "01JWZM5MD3DT0F59BHNBAHN6Y6",
+    "name": "Un-Employeed",
+    "code": "04"
+  },
+  {
+    "id": "01JWZM5MD3RQQT72Q85ZTKX9HS",
+    "name": "Others",
+    "code": "04"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "01JWZKYWW48GC90SKPCWEX368M",
+    "name": "Permanent Address",
+    "customerType": "INDIVIDUAL",
+    "addressCode": "01"
+  },
+  {
+    "id": "01JWZKYWW5MFFZAE66FF2MDKGX",
+    "name": "Residential Address",
+    "customerType": "INDIVIDUAL",
+    "addressCode": "02"
+  },
+  {
+    "id": "01JWZKYWW5HYJFNR4HY588R91Y",
+    "name": "Office/Work Address",
+    "customerType": "INDIVIDUAL",
+    "addressCode": "03"
+  },
+  {
+    "id": "01JWZKYWW5D6E5653KAC12XH23",
+    "name": "Corporate Office Address",
+    "customerType": "NON_INDIVIDUAL",
+    "addressCode": "03"
+  },
+  {
+    "id": "01JWZKYWW5WGE5JXXBN4XADTJM",
+    "name": "Registered Office Address",
+    "customerType": "NON_INDIVIDUAL",
+    "addressCode": "03"
+  },
+  {
+    "id": "01JWZKYWW5TPZSJEZRCAXS6F0D",
+    "name": "Branch Office Address",
+    "customerType": "NON_INDIVIDUAL",
+    "addressCode": "03"
+  },
+  {
+    "id": "01JWZKYWW58KQ8QQA7AH75526R",
+    "name": "Godown Address",
+    "customerType": "NON_INDIVIDUAL",
+    "addressCode": "03"
+  },
+  {
+    "id": "01JWZKYWW5CKFFVND7AN5JWRE1",
+    "name": "Factory Address",
+    "customerType": "NON_INDIVIDUAL",
+    "addressCode": "03"
+  },
+  {
+    "id": "01JWZKYWW5F1YA9MRMF3DTBSEF",
+    "name": "Correspondence Address",
+    "customerType": "BOTH",
+    "addressCode": "03"
+  },
+  {
+    "id": "01JWZKYWW5GCWT09J3R8BRV9T7",
+    "name": "Billing Address",
+    "customerType": "BOTH",
+    "addressCode": "04"
+  },
+  {
+    "id": "01JWZKYWW5MH7B6274BDHBS7S0",
+    "name": "Temporary Address",
+    "customerType": "BOTH",
+    "addressCode": "04"
+  },
+  {
+    "id": "01JWZKYWW5RPXC0XP4KJ9EG06A",
+    "name": "Other Address",
+    "customerType": "BOTH",
+    "addressCode": "04"
+  },
+  {
+    "id": "01JWZKYWW529N1BC6QF2B6A4TX",
+    "name": "Mortgage Property Address",
+    "customerType": "BOTH",
+    "addressCode": "05"
+  }
+]

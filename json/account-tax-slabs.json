@@ -1,0 +1,194 @@
+[
+  {
+    "id": "01JWZV2WMAM5SMR5EWTK6XMRMW",
+    "taxId": "01JWASYP7D2CVB3CR8YP87S956",
+    "type": "SGST",
+    "debitOrCredit": "DR",
+    "rate": 2.5,
+    "accountHeadId": "01JWZTEVV1SSY5Q20AB3S7T4ZJ"
+  },
+  {
+    "id": "01JWZV2WMARASHMC3K8WVW6MVD",
+    "taxId": "01JWASYP7D2CVB3CR8YP87S956",
+    "type": "CGST",
+    "debitOrCredit": "DR",
+    "rate": 2.5,
+    "accountHeadId": "01JWZTEVV1CHYQTWQKAWJBBB89"
+  },
+  {
+    "id": "01JWZV2WMA8TM3F3KG5VN7GVQC",
+    "taxId": "01JWASYP7D2CVB3CR8YP87S956",
+    "type": "IGST",
+    "debitOrCredit": "DR",
+    "rate": 5,
+    "accountHeadId": "01JWZTEVV1Y8Z15DQW96FTRE6B"
+  },
+  {
+    "id": "01JWZV2WMAK55RCX7V4B1RM2D2",
+    "taxId": "01JWASYP7D2CVB3CR8YP87S956",
+    "type": "SGST",
+    "debitOrCredit": "CR",
+    "rate": 2.5,
+    "accountHeadId": "01JWZTEVV1HY4SE05YP37SXHBW"
+  },
+  {
+    "id": "01JWZV2WMAAW6R69M3EWRSMARK",
+    "taxId": "01JWASYP7D2CVB3CR8YP87S956",
+    "type": "CGST",
+    "debitOrCredit": "CR",
+    "rate": 2.5,
+    "accountHeadId": "01JWZTEVV1CHYQTWQKAWJBBB89"
+  },
+  {
+    "id": "01JWZV2WMAGS4CZE2F043XDN89",
+    "taxId": "01JWASYP7D2CVB3CR8YP87S956",
+    "type": "IGST",
+    "debitOrCredit": "CR",
+    "rate": 5,
+    "accountHeadId": "01JWZTEVV150BPPZX68KECK92K"
+  },
+  {
+    "id": "01JWZV2WMA8C3AJ81BW37RFT9C",
+    "taxId": "01JWAT7FA97HH377E5E1KQ4AND",
+    "type": "SGST",
+    "debitOrCredit": "DR",
+    "rate": 6,
+    "accountHeadId": "01JWZTEVV1DGZ63WVHR6S32WZ4"
+  },
+  {
+    "id": "01JWZV2WMAXTDDNCDTHXH82VCB",
+    "taxId": "01JWAT7FA97HH377E5E1KQ4AND",
+    "type": "CGST",
+    "debitOrCredit": "DR",
+    "rate": 6,
+    "accountHeadId": "01JWZTEVV19YQB8RP0KZPHKYRK"
+  },
+  {
+    "id": "01JWZV2WMANYJBZKG60AQDG4PF",
+    "taxId": "01JWAT7FA97HH377E5E1KQ4AND",
+    "type": "IGST",
+    "debitOrCredit": "DR",
+    "rate": 12,
+    "accountHeadId": "01JWZTEVV1DAS2D31GHTJAEJC6"
+  },
+  {
+    "id": "01JWZV2WMA0Y4ZWGMHSPQ6BH2K",
+    "taxId": "01JWAT7FA97HH377E5E1KQ4AND",
+    "type": "SGST",
+    "debitOrCredit": "CR",
+    "rate": 6,
+    "accountHeadId": "01JWZTEVV1XT0M79YH40RTVPTZ"
+  },
+  {
+    "id": "01JWZV2WMATS1KWC36P6V0GKSF",
+    "taxId": "01JWAT7FA97HH377E5E1KQ4AND",
+    "type": "CGST",
+    "debitOrCredit": "CR",
+    "rate": 6,
+    "accountHeadId": "01JWZTEVV1S63FMCC84VEA49EM"
+  },
+  {
+    "id": "01JWZV2WMADGPW1GY64QM2MZ3A",
+    "taxId": "01JWAT7FA97HH377E5E1KQ4AND",
+    "type": "IGST",
+    "debitOrCredit": "CR",
+    "rate": 12,
+    "accountHeadId": "01JWZTEVV1XP1ZQFBGDSV51NKQ"
+  },
+  {
+    "id": "01JWZV2WMAT26VHWWCPQBT46A8",
+    "taxId": "01JWAT7J9KW81EQGKM25WSRJ1P",
+    "type": "SGST",
+    "debitOrCredit": "DR",
+    "rate": 9,
+    "accountHeadId": "01JWZTEVV1Z7GT2ZQMRK0R7TXT"
+  },
+  {
+    "id": "01JWZV2WMAVHJGGHD2JF6KD33W",
+    "taxId": "01JWAT7J9KW81EQGKM25WSRJ1P",
+    "type": "CGST",
+    "debitOrCredit": "DR",
+    "rate": 9,
+    "accountHeadId": "01JWZTEVV1PEKTR2PJ0CQC5MN5"
+  },
+  {
+    "id": "01JWZV2WMAFTJ11PCXZFGQ2A3Y",
+    "taxId": "01JWAT7J9KW81EQGKM25WSRJ1P",
+    "type": "IGST",
+    "debitOrCredit": "DR",
+    "rate": 18,
+    "accountHeadId": "01JWZTEVV1TBN4V5H2N3EDWRPS"
+  },
+  {
+    "id": "01JWZV2WMAXGA7YBSVX38DK0VW",
+    "taxId": "01JWAT7J9KW81EQGKM25WSRJ1P",
+    "type": "SGST",
+    "debitOrCredit": "CR",
+    "rate": 9,
+    "accountHeadId": "01JWZTEVV1ZEGF9C7NFK2GHRJG"
+  },
+  {
+    "id": "01JWZV2WMA6SG4BEK76FXJS5GD",
+    "taxId": "01JWAT7J9KW81EQGKM25WSRJ1P",
+    "type": "CGST",
+    "debitOrCredit": "CR",
+    "rate": 9,
+    "accountHeadId": "01JWZTEVV11J78XF88MT32CE9M"
+  },
+  {
+    "id": "01JWZV2WMBWD566SP0J1EFS7TW",
+    "taxId": "01JWAT7J9KW81EQGKM25WSRJ1P",
+    "type": "IGST",
+    "debitOrCredit": "CR",
+    "rate": 18,
+    "accountHeadId": "01JWZTEVV17KFDQ79NGVF0EDYS"
+  },
+  {
+    "id": "01JWZV2WMBV6RK23PF5VY3YSXD",
+    "taxId": "01JWAT7NG3B54AA969JCRJW0XE",
+    "type": "SGST",
+    "debitOrCredit": "DR",
+    "rate": 14,
+    "accountHeadId": "01JWZTEVV1BCFT2C7V7H3C64CY"
+  },
+  {
+    "id": "01JWZV2WMBWZQP3J8V0GZ2MSCA",
+    "taxId": "01JWAT7NG3B54AA969JCRJW0XE",
+    "type": "CGST",
+    "debitOrCredit": "DR",
+    "rate": 14,
+    "accountHeadId": "01JWZTEVV1ZGT9CS57ZD40G4Y4"
+  },
+  {
+    "id": "01JWZV2WMB1MNNCX096W24VACQ",
+    "taxId": "01JWAT7NG3B54AA969JCRJW0XE",
+    "type": "IGST",
+    "debitOrCredit": "DR",
+    "rate": 28,
+    "accountHeadId": "01JWZTEVV10JVX81RJA9TVEHA5"
+  },
+  {
+    "id": "01JWZV2WMBWY97KP07ZFR3KETV",
+    "taxId": "01JWAT7NG3B54AA969JCRJW0XE",
+    "type": "SGST",
+    "debitOrCredit": "CR",
+    "rate": 14,
+    "accountHeadId": "01JWZTEVV1BZ9FKA4FT1R2VNWT"
+  },
+  {
+    "id": "01JWZV2WMBDMENYH1C9QGKZZD8",
+    "taxId": "01JWAT7NG3B54AA969JCRJW0XE",
+    "type": "CGST",
+    "debitOrCredit": "CR",
+    "rate": 14,
+    "accountHeadId": "01JWZTEVV1V0HRRZ4VTXDH7457"
+  },
+  {
+    "id": "01JWZV2WMBQM6M9KHQ197SYP1Q",
+    "taxId": "01JWAT7NG3B54AA969JCRJW0XE",
+    "type": "IGST",
+    "debitOrCredit": "CR",
+    "rate": 28,
+    "accountHeadId": "01JWZTEVV1JEH2MWWZM9G6RPBD"
+  }
+]

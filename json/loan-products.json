@@ -1,0 +1,22 @@
+[
+  {
+    "id": "01JVEDDNZHFV329YM7FFSWHWYY",
+    "categoryId": "01JX00VF6Y2VDTP93C13PXN5JT",
+    "code": "PLN",
+    "name": "Personal Loan",
+    "loanNumberStartFrom": 0,
+    "appFirstPrefixGenType": "AUTOMATIC",
+    "appFirstPrefix": "PRODUCT",
+    "appSecondPrefixGenType": "AUTOMATIC",
+    "appSecondPrefix": "BRANCH",
+    "loanFirstPrefixGenType": "AUTOMATIC",
+    "loanFirstPrefix": "PRODUCT",
+    "loanSecondPrefixGenType": "AUTOMATIC",
+    "loanSecondPrefix": "BRANCH",
+    "loanThirdPrefixGenType": "AUTOMATIC",
+    "loanThirdPrefix": null,
+    "odCalculationMethodId": "01JWZF7FV0HCZBD8RER099MJMC",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY"
+  }
+]

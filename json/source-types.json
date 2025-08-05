@@ -1,0 +1,55 @@
+[
+  {
+    "id": "01JX25845QA2RM67H6A443RSRC",
+    "name": "EMPLOYEE",
+    "displayName": "Employee",
+    "inputType": "SELECT",
+    "valueSubTypeId": "sn4qxgfuqebypunkksa2tx45"
+  },
+  {
+    "id": "01JX25845RYEYPS4WPF8Q4HMHK",
+    "name": "ADVERTISEMENT",
+    "displayName": "Advertisement"
+  },
+  {
+    "id": "01JX25845RXJTFSZJWT8FMG7CB",
+    "name": "REFERENCE",
+    "displayName": "Reference",
+    "inputType": "TEXT"
+  },
+  {
+    "id": "01JX25845R2PWB94EXPR0Z4D6C",
+    "name": "DSA",
+    "displayName": "DSA",
+    "inputType": "SELECT",
+    "valueSubTypeId": "uly9qvqvrx1ny3vbzlginqyz"
+  },
+  {
+    "id": "01JX25845SEETS0HVC2B12STEY",
+    "name": "SALES_AGENT",
+    "displayName": "Sales Agent",
+    "inputType": "SELECT",
+    "valueSubTypeId": "zc56lu2xww4da63mcavcrwyt"
+  },
+  {
+    "id": "01JX25845S1YXFC2B9VDYV0BMR",
+    "name": "DEALER",
+    "displayName": "Dealer",
+    "inputType": "SELECT"
+  },
+  {
+    "id": "01JX25845SZA9KA5MSGTPDTQWQ",
+    "name": "TELEPHONIC",
+    "displayName": "Telephonic"
+  },
+  {
+    "id": "01JX25845SYEP3A4MTA1F8KMBB",
+    "name": "WALKIN_CUSTOMER",
+    "displayName": "Walkin Customer"
+  },
+  {
+    "id": "01JX25845SQT7X4C2S5EZC2K6J",
+    "name": "WEBSITE",
+    "displayName": "Website"
+  }
+]

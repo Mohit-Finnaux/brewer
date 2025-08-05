@@ -1,0 +1,57 @@
+[
+  {
+    "id": "yc31hu0n4s742kplugcc01mm",
+    "name": "Borrower Individual Age",
+    "masterRuleId": "wa55rrp1dpo46lghbv4u7kr3"
+  },
+  {
+    "id": "yo1iden63ibpe9plsl1ck2c8",
+    "name": "Borrower Individual Credit Score",
+    "masterRuleId": "um68n89vvyukq8rm9ha43es6"
+  },
+  {
+    "id": "hdlbxm8k21vhy3x8wu5fpkcc",
+    "name": "Borrower Individual Residence Ownership",
+    "masterRuleId": "ar77fn0k0b7n6h760jwdkmyu"
+  },
+  {
+    "id": "sxz0skdggdq4keycj63n8ebb",
+    "name": "Borrower Individual Marital Status",
+    "masterRuleId": "u0t38p0mjh7s3p91l3sv8kd1"
+  },
+  {
+    "id": "up8ima85ia50e323inhz58qn",
+    "name": "Borrower Individual Monthly Income",
+    "masterRuleId": "ry5hlog3ubtj510yftitnwee"
+  },
+  {
+    "id": "ecmkluct71udstkq1kwbek0g",
+    "name": "Borrower Individual Premises Standard",
+    "masterRuleId": "uvziade6go5e3pan9smtotj8"
+  },
+  {
+    "id": "i6nvv3miys04fsdcmegz40u4",
+    "name": "Borrower Individual Dependents",
+    "masterRuleId": "rssth4xvhfcimnppacyp7y6x"
+  },
+  {
+    "id": "a8fqgitbm32usqk4jo06lllr",
+    "name": "Borrower Individual Foir",
+    "masterRuleId": "zj3f2a5dcr4g04g7tobcc8lo"
+  },
+  {
+    "id": "o8co8ilo9ob5bii6x3dgcv55",
+    "name": "Borrower Individual 12 Month Bouncing",
+    "masterRuleId": "k55pfqf6ydyvmtu4awuxindb"
+  },
+  {
+    "id": "cgpgpc4d09u6x8xr9i4d4mi8",
+    "name": "Borrower Individual Travel Ease",
+    "masterRuleId": "cmwpg6utw94irj9b8qq31058"
+  },
+  {
+    "id": "akgabcb7i4mvjd3ydodx9dft",
+    "name": "Borrower Individual Obligation",
+    "masterRuleId": "qu1wzcnon1tw0tl90011zw1r"
+  }
+]

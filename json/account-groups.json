@@ -1,0 +1,509 @@
+[
+  {
+    "id": "@ai3fhdbk2w7gafwsnfbtcheq",
+    "tag": "DEFAULT",
+    "name": "Trading Account",
+    "isOpeningEnable": false,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "@gyccxlhc4qk45bhbx5mfqz2o",
+    "parentId": "@ai3fhdbk2w7gafwsnfbtcheq",
+    "tag": "DEFAULT",
+    "name": "Sales Group",
+    "isOpeningEnable": false,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "orfcmnayyma6liuardhhhflx",
+    "parentId": "@ai3fhdbk2w7gafwsnfbtcheq",
+    "tag": "SALES",
+    "name": "Sales",
+    "isOpeningEnable": false,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "@lj22up76baox9qtq6bfno892",
+    "parentId": "@ai3fhdbk2w7gafwsnfbtcheq",
+    "tag": "DEFAULT",
+    "name": "Purchase Group",
+    "isOpeningEnable": false,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "unfskuli5ruye4u09cbnm9cw",
+    "parentId": "unfskuli5ruye4u09cbnm9cw",
+    "tag": "PURCHASE",
+    "name": "Purchase",
+    "isOpeningEnable": false,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "@t7czqu4kjvvhpv5524zkonbu",
+    "tag": "DEFAULT",
+    "name": "Profit And Loss",
+    "isOpeningEnable": false,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "@ed0lnyq5wanfyzrnm1ikrwbp",
+    "parentId": "@t7czqu4kjvvhpv5524zkonbu",
+    "tag": "DEFAULT",
+    "name": "Expenditure",
+    "isOpeningEnable": false,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "@ma7d3xl82n8wvd62o6zjotub",
+    "parentId": "@t7czqu4kjvvhpv5524zkonbu",
+    "tag": "DEFAULT",
+    "name": "Income",
+    "isOpeningEnable": false,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "p5zomwk0xl6yrzhvy7qed5e2",
+    "parentId": "@ed0lnyq5wanfyzrnm1ikrwbp",
+    "tag": "EXPENDITURE",
+    "name": "Direct Expenditure",
+    "isOpeningEnable": false,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "lairt7rud53rgsq6dcuaktpp",
+    "parentId": "@ed0lnyq5wanfyzrnm1ikrwbp",
+    "tag": "EXPENDITURE",
+    "name": "Indirect Expenditure",
+    "isOpeningEnable": false,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "rzhcd15vy8ucc8ykle6tsd9w",
+    "parentId": "@ma7d3xl82n8wvd62o6zjotub",
+    "tag": "INCOME",
+    "name": "Direct Income",
+    "isOpeningEnable": false,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "jrqk3izewr8isjl06b8fqtfg",
+    "parentId": "@ma7d3xl82n8wvd62o6zjotub",
+    "tag": "INCOME",
+    "name": "Indirect Income",
+    "isOpeningEnable": false,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "@l08an26gh9f8olvawhkdtoq8",
+    "tag": "DEFAULT",
+    "name": "Balance Sheet",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "@km36jg8ylsi00vqdz03g0pmw",
+    "parentId": "@l08an26gh9f8olvawhkdtoq8",
+    "tag": "DEFAULT",
+    "name": "Assets",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "ed8p6yx66xw3ijjs5m6ahoyj",
+    "parentId": "@km36jg8ylsi00vqdz03g0pmw",
+    "tag": "FIXED_ASSETS",
+    "name": "Fixed Assets",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "uzq8k9cw6lk98wekguyu4iyl",
+    "parentId": "ed8p6yx66xw3ijjs5m6ahoyj",
+    "tag": "FIXED_ASSETS",
+    "name": "Tangible Fixed Assets",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "s7itszl62b5ps30jrr6isuxc",
+    "parentId": "ed8p6yx66xw3ijjs5m6ahoyj",
+    "tag": "FIXED_ASSETS",
+    "name": "Intangible Fixed Assets",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "p8zftn7hm89semhu5dt7jija",
+    "parentId": "@km36jg8ylsi00vqdz03g0pmw",
+    "tag": "ASSETS",
+    "name": "Current Assets",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "iqx2pzukewsbbaoee3bsa792",
+    "parentId": "p8zftn7hm89semhu5dt7jija",
+    "tag": "SUNDRY",
+    "name": "Sundry Debitors",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "yxlg4wukzk780jsgk3fjvhlz",
+    "parentId": "p8zftn7hm89semhu5dt7jija",
+    "tag": "BANK",
+    "name": "Cash At Bank",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "fao4v8s1psm3pr8ydq9evygz",
+    "parentId": "p8zftn7hm89semhu5dt7jija",
+    "tag": "CASH",
+    "name": "Cash In Hand",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "xwh39eplepibyo2vxg5jo8t0",
+    "parentId": "p8zftn7hm89semhu5dt7jija",
+    "tag": "INVESTMENT",
+    "name": "Investment Short Term",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "x7a60kjcpb6qd40h7vcbcpbg",
+    "parentId": "p8zftn7hm89semhu5dt7jija",
+    "tag": "SECURITY",
+    "name": "Deposit Assets Short Term",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "hktv819eibn750jdbbkd1au0",
+    "parentId": "p8zftn7hm89semhu5dt7jija",
+    "tag": "STOCK",
+    "name": "Stock In Hand",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "yoesx1xsv54ua91hzv8c7zlg",
+    "parentId": "p8zftn7hm89semhu5dt7jija",
+    "tag": "LOAN_ADVANCES",
+    "name": "Loan And Advances Short Term",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "zhc1zm6xkkrpb46hen5sy7ql",
+    "parentId": "@km36jg8ylsi00vqdz03g0pmw",
+    "tag": "ASSETS",
+    "name": "Non Current Assets",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "r5kp0oi5zag3l9itpbjroxgv",
+    "parentId": "zhc1zm6xkkrpb46hen5sy7ql",
+    "tag": "INVESTMENT",
+    "name": "Investment Long Term",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "jmzs5zuu87rvb4x1c51zlomh",
+    "parentId": "zhc1zm6xkkrpb46hen5sy7ql",
+    "tag": "SECURITY",
+    "name": "Deposit Assets Long Term",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "rvojvq3shgd4q4gllx14hxcx",
+    "parentId": "zhc1zm6xkkrpb46hen5sy7ql",
+    "tag": "LOAN_ADVANCES",
+    "name": "Loan And Advances Long Term",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "@tol7z8pjiknedaxqql6epcp7",
+    "parentId": "@l08an26gh9f8olvawhkdtoq8",
+    "tag": "DEFAULT",
+    "name": "Liabilities",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "wk9on8dsu7az4xcutflv3wu1",
+    "parentId": "@tol7z8pjiknedaxqql6epcp7",
+    "tag": "CAPITAL",
+    "name": "Capital",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "hy5uvhv1c9uosfuk5przimbo",
+    "parentId": "wk9on8dsu7az4xcutflv3wu1",
+    "tag": "CAPITAL",
+    "name": "Reserve Surplus",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "c1fqi456n4kwn9fdd6o8dtnh",
+    "parentId": "wk9on8dsu7az4xcutflv3wu1",
+    "tag": "CAPITAL",
+    "name": "Share Capital",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "ym8365k2yme1sit1rarj96ev",
+    "parentId": "@tol7z8pjiknedaxqql6epcp7",
+    "tag": "LIABILITIES",
+    "name": "Non Current Liabilities",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "fjqdcuqiw74shlvxwcmnuo69",
+    "parentId": "ym8365k2yme1sit1rarj96ev",
+    "tag": "LOAN",
+    "name": "Loans Liabilities Long Term",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "xbhkpp80yxmaa6j8ribno5er",
+    "parentId": "ym8365k2yme1sit1rarj96ev",
+    "tag": "PROVISIONS",
+    "name": "Provisions Long Term",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "osmx3i51xo5eo38lv8vij4oi",
+    "parentId": "ym8365k2yme1sit1rarj96ev",
+    "tag": "SECURITY",
+    "name": "Security Deposit Long Term",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "fuq672qx6a7vux7oja3svvwt",
+    "parentId": "fjqdcuqiw74shlvxwcmnuo69",
+    "tag": "LOAN",
+    "name": "Secure Loan Long Term",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "bomima14r4qfkz54i9uhvfop",
+    "parentId": "fjqdcuqiw74shlvxwcmnuo69",
+    "tag": "LOAN",
+    "name": "Un Secure Loan Long Term",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "jq2f4t58t0g9g9oc58rb8c33",
+    "parentId": "@tol7z8pjiknedaxqql6epcp7",
+    "tag": "LIABILITIES",
+    "name": "Current Liabilities",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "rlefw464khll9cgfclo01p2j",
+    "parentId": "jq2f4t58t0g9g9oc58rb8c33",
+    "tag": "SECURITY",
+    "name": "Security Deposit Short Term",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "aj2po0eipk9c1vn3pfd580yo",
+    "parentId": "jq2f4t58t0g9g9oc58rb8c33",
+    "tag": "PROVISIONS",
+    "name": "Short Term Provisions",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "zsunjtz8sfky066lipgrea4n",
+    "parentId": "jq2f4t58t0g9g9oc58rb8c33",
+    "tag": "BANK",
+    "name": "Bank OD And CC",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "bxmfpetov8z1mmr4eazyoqcm",
+    "parentId": "jq2f4t58t0g9g9oc58rb8c33",
+    "tag": "LOAN",
+    "name": "Loan Liabilities Short Term",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "rkivxylrojfvxszp21hgqfej",
+    "parentId": "jq2f4t58t0g9g9oc58rb8c33",
+    "tag": "SUNDRY",
+    "name": "Sundry Creditors",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "parentId": "jq2f4t58t0g9g9oc58rb8c33",
+    "tag": "D_AND_T",
+    "name": "Duty And Taxes",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "ksxs0gshcetkkhhyz82ki7pp",
+    "parentId": "jq2f4t58t0g9g9oc58rb8c33",
+    "tag": "SUNDRY",
+    "name": "Salary Payable",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "zo680lyslymd1o2kvpbl5j24",
+    "parentId": "jq2f4t58t0g9g9oc58rb8c33",
+    "tag": "SUNDRY",
+    "name": "Dealers",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "hb3ow10l7gd2ymz12t5lawku",
+    "parentId": "jq2f4t58t0g9g9oc58rb8c33",
+    "tag": "SUNDRY",
+    "name": "Vendors",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "y3cy6yvoa8kg1lqfmyqz6f5x",
+    "parentId": "bxmfpetov8z1mmr4eazyoqcm",
+    "tag": "LOAN",
+    "name": "Secure Loan Short Term",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "k53bde266q79hecj3q4jw6wr",
+    "parentId": "bxmfpetov8z1mmr4eazyoqcm",
+    "tag": "LOAN",
+    "name": "Un Secure Loan Short Term",
+    "isOpeningEnable": true,
+    "isEditable": false,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  }
+]

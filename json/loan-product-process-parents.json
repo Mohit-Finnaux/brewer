@@ -1,0 +1,142 @@
+[
+  {
+    "loanProductId": "01JVEDDNZHFV329YM7FFSWHWYY",
+    "processId": "01JX012EQQTY0EYDVPZ6CWXEXT",
+    "parentProcessId": null,
+    "canViewPreviousProcesses": false,
+    "isMandatory": true,
+    "level": 1,
+    "creatorId": "01JWZYRDFS6863JWXH7CWW30XE",
+    "updaterId": "01JWZYRDFS6863JWXH7CWW30XE"
+  },
+  {
+    "loanProductId": "01JVEDDNZHFV329YM7FFSWHWYY",
+    "processId": "01JX012EQRWZ35EARAEW27CQ7S",
+    "parentProcessId": "01JX012EQQTY0EYDVPZ6CWXEXT",
+    "canViewPreviousProcesses": true,
+    "isMandatory": true,
+    "level": 1.1,
+    "creatorId": "01JWZYRDFS6863JWXH7CWW30XE",
+    "updaterId": "01JWZYRDFS6863JWXH7CWW30XE"
+  },
+  {
+    "loanProductId": "01JVEDDNZHFV329YM7FFSWHWYY",
+    "processId": "01JX012EQR8NP1NCTPRYW3X43G",
+    "parentProcessId": null,
+    "canViewPreviousProcesses": false,
+    "isMandatory": true,
+    "level": 2,
+    "creatorId": "01JWZYRDFS6863JWXH7CWW30XE",
+    "updaterId": "01JWZYRDFS6863JWXH7CWW30XE"
+  },
+  {
+    "loanProductId": "01JVEDDNZHFV329YM7FFSWHWYY",
+    "processId": "01JX012EQRXM5N0CGK8KABWT70",
+    "parentProcessId": "01JX012EQR8NP1NCTPRYW3X43G",
+    "canViewPreviousProcesses": true,
+    "isMandatory": true,
+    "level": 2.1,
+    "creatorId": "01JWZYRDFS6863JWXH7CWW30XE",
+    "updaterId": "01JWZYRDFS6863JWXH7CWW30XE"
+  },
+  {
+    "loanProductId": "01JVEDDNZHFV329YM7FFSWHWYY",
+    "processId": "01JX012EQRKW810XWV9ZVNATBQ",
+    "parentProcessId": null,
+    "canViewPreviousProcesses": false,
+    "isMandatory": true,
+    "level": 3,
+    "creatorId": "01JWZYRDFS6863JWXH7CWW30XE",
+    "updaterId": "01JWZYRDFS6863JWXH7CWW30XE"
+  },
+  {
+    "loanProductId": "01JVEDDNZHFV329YM7FFSWHWYY",
+    "processId": "01JX012EQR0HCSYNT1NP49KP56",
+    "parentProcessId": "01JX012EQRKW810XWV9ZVNATBQ",
+    "canViewPreviousProcesses": true,
+    "isMandatory": true,
+    "level": 3.1,
+    "creatorId": "01JWZYRDFS6863JWXH7CWW30XE",
+    "updaterId": "01JWZYRDFS6863JWXH7CWW30XE"
+  },
+  {
+    "loanProductId": "01JVEDDNZHFV329YM7FFSWHWYY",
+    "processId": "01JX012EQRRPQ4QPW0BS5ZHWZV",
+    "parentProcessId": "01JX012EQRKW810XWV9ZVNATBQ",
+    "canViewPreviousProcesses": true,
+    "isMandatory": true,
+    "level": 3.2,
+    "creatorId": "01JWZYRDFS6863JWXH7CWW30XE",
+    "updaterId": "01JWZYRDFS6863JWXH7CWW30XE"
+  },
+  {
+    "loanProductId": "01JVEDDNZHFV329YM7FFSWHWYY",
+    "processId": "01JX012EQRME00H330E225S4NK",
+    "parentProcessId": null,
+    "canViewPreviousProcesses": false,
+    "isMandatory": true,
+    "level": 4,
+    "creatorId": "01JWZYRDFS6863JWXH7CWW30XE",
+    "updaterId": "01JWZYRDFS6863JWXH7CWW30XE"
+  },
+  {
+    "loanProductId": "01JVEDDNZHFV329YM7FFSWHWYY",
+    "processId": "01JX012EQRRJNYG6JJ2671BCET",
+    "parentProcessId": "01JX012EQRME00H330E225S4NK",
+    "canViewPreviousProcesses": true,
+    "isMandatory": true,
+    "level": 4.1,
+    "creatorId": "01JWZYRDFS6863JWXH7CWW30XE",
+    "updaterId": "01JWZYRDFS6863JWXH7CWW30XE"
+  },
+  {
+    "loanProductId": "01JVEDDNZHFV329YM7FFSWHWYY",
+    "processId": "01JX012EQR6KAXS6XN4M14RHE9",
+    "parentProcessId": null,
+    "canViewPreviousProcesses": false,
+    "isMandatory": true,
+    "level": 5,
+    "creatorId": "01JWZYRDFS6863JWXH7CWW30XE",
+    "updaterId": "01JWZYRDFS6863JWXH7CWW30XE"
+  },
+  {
+    "loanProductId": "01JVEDDNZHFV329YM7FFSWHWYY",
+    "processId": "01JX012EQRX6Y7DR76QVMK4DR4",
+    "parentProcessId": null,
+    "canViewPreviousProcesses": false,
+    "isMandatory": true,
+    "level": 6,
+    "creatorId": "01JWZYRDFS6863JWXH7CWW30XE",
+    "updaterId": "01JWZYRDFS6863JWXH7CWW30XE"
+  },
+  {
+    "loanProductId": "01JVEDDNZHFV329YM7FFSWHWYY",
+    "processId": "01JX012EQRVGKF11F4ZV9DV16C",
+    "parentProcessId": null,
+    "canViewPreviousProcesses": false,
+    "isMandatory": true,
+    "level": 9,
+    "creatorId": "01JWZYRDFS6863JWXH7CWW30XE",
+    "updaterId": "01JWZYRDFS6863JWXH7CWW30XE"
+  },
+  {
+    "loanProductId": "01JVEDDNZHFV329YM7FFSWHWYY",
+    "processId": "01JX012EQRR1J7W05XAG9QYZXZ",
+    "parentProcessId": null,
+    "canViewPreviousProcesses": false,
+    "isMandatory": true,
+    "level": 10,
+    "creatorId": "01JWZYRDFS6863JWXH7CWW30XE",
+    "updaterId": "01JWZYRDFS6863JWXH7CWW30XE"
+  },
+  {
+    "loanProductId": "01JVEDDNZHFV329YM7FFSWHWYY",
+    "processId": "01JX012EQR8EGD9Y5MR3DR22FB",
+    "parentProcessId": null,
+    "canViewPreviousProcesses": false,
+    "isMandatory": true,
+    "level": 11,
+    "creatorId": "01JWZYRDFS6863JWXH7CWW30XE",
+    "updaterId": "01JWZYRDFS6863JWXH7CWW30XE"
+  }
+]

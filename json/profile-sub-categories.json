@@ -1,0 +1,117 @@
+[
+  {
+    "id": "01JWZMNH6CFH5NQN27MK9BB9EB",
+    "name": "Government Salaried",
+    "profileCategoryId": "01JWZM5MD25S4J1ATRCAXMG102"
+  },
+  {
+    "id": "01JWZMNH6CCY20KCQ5EP6GPR9Z",
+    "name": "Private Salaried",
+    "profileCategoryId": "01JWZM5MD25S4J1ATRCAXMG102"
+  },
+  {
+    "id": "01JWZMNH6CXST0EFR1HNX23YTW",
+    "name": "Other's",
+    "profileCategoryId": "01JWZM5MD25S4J1ATRCAXMG102"
+  },
+  {
+    "id": "01JWZMNH6CEVBRHGTNJDDDA59R",
+    "name": "Pensioner",
+    "profileCategoryId": "01JWZM5MD3J723N4JG8R3MSK2E"
+  },
+  {
+    "id": "01JWZMNH6CK17B9NMQNXTVXAG5",
+    "name": "Chartered Accountant",
+    "profileCategoryId": "01JWZM5MD3VV8V80HA0DM6S0HE"
+  },
+  {
+    "id": "01JWZMNH6CF7MA0XPMHJSC748E",
+    "name": "Company Secretory",
+    "profileCategoryId": "01JWZM5MD3VV8V80HA0DM6S0HE"
+  },
+  {
+    "id": "01JWZMNH6C79SYKVH7FCG9DZKQ",
+    "name": "Doctor",
+    "profileCategoryId": "01JWZM5MD3VV8V80HA0DM6S0HE"
+  },
+  {
+    "id": "01JWZMNH6CVW9YZVRB9G140YEA",
+    "name": "Engineer",
+    "profileCategoryId": "01JWZM5MD3VV8V80HA0DM6S0HE"
+  },
+  {
+    "id": "01JWZMNH6CS47B99R9N6DM0H5B",
+    "name": "Achitect",
+    "profileCategoryId": "01JWZM5MD3VV8V80HA0DM6S0HE"
+  },
+  {
+    "id": "01JWZMNH6DRJS04ZJSY040XVM2",
+    "name": "Other's",
+    "profileCategoryId": "01JWZM5MD3VV8V80HA0DM6S0HE"
+  },
+  {
+    "id": "01JWZMNH6D69FE3XYF08Y50F6W",
+    "name": "Un-Employeed",
+    "profileCategoryId": "01JWZM5MD3DT0F59BHNBAHN6Y6"
+  },
+  {
+    "id": "01JWZMNH6DMTDP18GW0KEFYBZT",
+    "name": "Agriculture & Forestry/Wildlife",
+    "profileCategoryId": "01JWZM5MD3RQQT72Q85ZTKX9HS"
+  },
+  {
+    "id": "01JWZMNH6DP9A8DWFAWYH3RBJ0",
+    "name": "Education",
+    "profileCategoryId": "01JWZM5MD3RQQT72Q85ZTKX9HS"
+  },
+  {
+    "id": "01JWZMNH6DPH0AV3N3BSNV383X",
+    "name": "Event Management",
+    "profileCategoryId": "01JWZM5MD3RQQT72Q85ZTKX9HS"
+  },
+  {
+    "id": "01JWZMNH6DG4CEQR8FDDQ8HDSW",
+    "name": "Finance & Insurance",
+    "profileCategoryId": "01JWZM5MD3RQQT72Q85ZTKX9HS"
+  },
+  {
+    "id": "01JWZMNH6D4AKS3RYTYWJJESH4",
+    "name": "Food & Hospitality",
+    "profileCategoryId": "01JWZM5MD3RQQT72Q85ZTKX9HS"
+  },
+  {
+    "id": "01JWZMNH6DRM20XH6Y320Z06J1",
+    "name": "Health Services Acupuncturist",
+    "profileCategoryId": "01JWZM5MD3RQQT72Q85ZTKX9HS"
+  },
+  {
+    "id": "01JWZMNH6DMVHZ6X57YPCHK3XJ",
+    "name": "Home furnishing & Decorator & Designer",
+    "profileCategoryId": "01JWZM5MD3RQQT72Q85ZTKX9HS"
+  },
+  {
+    "id": "01JWZMNH6DBK879DW7P42V5RAJ",
+    "name": "Motor Vehicle Transport",
+    "profileCategoryId": "01JWZM5MD3RQQT72Q85ZTKX9HS"
+  },
+  {
+    "id": "01JWZMNH6DG8H69XW4SSF8FQY3",
+    "name": "Natural Resources/Environmental",
+    "profileCategoryId": "01JWZM5MD3RQQT72Q85ZTKX9HS"
+  },
+  {
+    "id": "01JWZMNH6D2QAB9W0KYZWVZXD2",
+    "name": "Personal Services",
+    "profileCategoryId": "01JWZM5MD3RQQT72Q85ZTKX9HS"
+  },
+  {
+    "id": "01JWZMNH6DXXQJX5ENKT8CYSQW",
+    "name": "Real Estate & Housing /Construction/Utilities/Contracting",
+    "profileCategoryId": "01JWZM5MD3RQQT72Q85ZTKX9HS"
+  },
+  {
+    "id": "01JWZMNH6DKP7WX4XB40400SAB",
+    "name": "Others",
+    "profileCategoryId": "01JWZM5MD3RQQT72Q85ZTKX9HS"
+  }
+]

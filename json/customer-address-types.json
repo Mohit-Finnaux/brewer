@@ -1,0 +1,26 @@
+[
+  {
+    "addressId": "01JRW3ER5BE6ESAN09DP03KN9B",
+    "typeId": "01JWZKYWW48GC90SKPCWEX368M",
+    "isPrimary": true,
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "customerId": "01JWZP5FDQ981NNMCNAP41A13X"
+  },
+  {
+    "addressId": "01JRW3F1WKMG766GM63ST707YX",
+    "typeId": "01JWZKYWW48GC90SKPCWEX368M",
+    "isPrimary": true,
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "customerId": "01JWZP5FDQF36Y8JKS0YW42H2C"
+  },
+  {
+    "addressId": "01JZWBNN9YMPSZKFM31GV8XZYE",
+    "typeId": "01JWZKYWW48GC90SKPCWEX368M",
+    "isPrimary": true,
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "customerId": "01JZWBH57QZFK577545F9Q5DER"
+  }
+]

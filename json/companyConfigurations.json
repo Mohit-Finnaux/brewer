@@ -1,0 +1,16 @@
+[
+  {
+    "id": true,
+    "companyName": "Finnaux Techsolutions Pvt Ltd.",
+    "dateOfIncorporation": "2009-09-08 18:30:00+00",
+    "cinNumber": "U72200KA2015PTC082345",
+    "gstNumber": "29ABCDE1234F1Z5",
+    "panNumber": "ABCDE1234F",
+    "tanNumber": "BLRA12345B",
+    "createdAt": "2025-06-25 11:27:43.560985+00",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updatedAt": "2025-06-25 11:27:43.44+00",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "isActive": true
+  }
+]

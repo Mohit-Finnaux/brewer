@@ -1,0 +1,92 @@
+[
+  {
+    "id": "01JX24VVJ5HPH20X95K03N2RX2",
+    "type": "PHONE_NUMBER",
+    "details": "1234567891",
+    "isPrimary": true,
+    "isWhatsappNumber": true,
+    "customerId": "01JWZP5FDQ981NNMCNAP41A13X",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JX24VVJ571B9EX3TG571QMJ6",
+    "type": "EMAIL",
+    "details": "test@example.com",
+    "isPrimary": true,
+    "isWhatsappNumber": false,
+    "customerId": "01JWZP5FDQ981NNMCNAP41A13X",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JX24VVJ5XBGNTKDZ9Z77P86F",
+    "type": "WEBSITE",
+    "details": "https://test.com",
+    "isPrimary": true,
+    "isWhatsappNumber": false,
+    "customerId": "01JWZP5FDQ981NNMCNAP41A13X",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JX24VVJ5B96R3EKNNP8DW5AX",
+    "type": "PHONE_NUMBER",
+    "details": "1234567892",
+    "isPrimary": true,
+    "isWhatsappNumber": true,
+    "customerId": "01JWZP5FDQF36Y8JKS0YW42H2C",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY"
+  },
+  {
+    "id": "01JX24VVJ5W9XREKWX7F7PB5T2",
+    "type": "EMAIL",
+    "details": "test@example.com",
+    "isPrimary": true,
+    "isWhatsappNumber": false,
+    "customerId": "01JWZP5FDQF36Y8JKS0YW42H2C",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY"
+  },
+  {
+    "id": "01JX24VVJ5HPJKJDFGX7EFAWCD",
+    "type": "WEBSITE",
+    "details": "https://test.com",
+    "isPrimary": true,
+    "isWhatsappNumber": false,
+    "customerId": "01JWZP5FDQF36Y8JKS0YW42H2C",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY"
+  },
+  {
+    "id": "01JZWBY8M9NPWMR4AMKXVCNXJC",
+    "type": "PHONE_NUMBER",
+    "details": "1234567892",
+    "isPrimary": true,
+    "isWhatsappNumber": true,
+    "customerId": "01JZWBH57QZFK577545F9Q5DER",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY"
+  },
+  {
+    "id": "01JZWBYAQ2VS49Y98NXQ0Q3MA0",
+    "type": "EMAIL",
+    "details": "test@example.com",
+    "isPrimary": true,
+    "isWhatsappNumber": false,
+    "customerId": "01JZWBH57QZFK577545F9Q5DER",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY"
+  },
+  {
+    "id": "01JZWBYCFVGHGJHNG0RAGC44JW",
+    "type": "WEBSITE",
+    "details": "https://test.com",
+    "isPrimary": true,
+    "isWhatsappNumber": false,
+    "customerId": "01JZWBH57QZFK577545F9Q5DER",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY"
+  }
+]

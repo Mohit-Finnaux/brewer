@@ -1,0 +1,122 @@
+[
+  {
+    "id": "01JX012EQQTY0EYDVPZ6CWXEXT",
+    "name": "APPLICATION_GENERATION",
+    "displayName": "Application Generation",
+    "departmentId": "01JX00AAQFM8XRXCTBSTQNWSVE"
+  },
+  {
+    "id": "01JX012EQRWZ35EARAEW27CQ7S",
+    "name": "CBC_PROCESS",
+    "displayName": "CBC Process",
+    "departmentId": "01JX00AAQFPGW8C2G2WHS5JK37"
+  },
+  {
+    "id": "01JX012EQR8NP1NCTPRYW3X43G",
+    "name": "SEND_TO_CREDIT",
+    "displayName": "Send To Credit",
+    "departmentId": "01JX00AAQFPGW8C2G2WHS5JK37"
+  },
+  {
+    "id": "01JX012EQRXM5N0CGK8KABWT70",
+    "name": "TVR_PROCESS",
+    "displayName": "TVR Process",
+    "departmentId": "01JX00AAQFPGW8C2G2WHS5JK37"
+  },
+  {
+    "id": "01JX012EQRRJNYG6JJ2671BCET",
+    "name": "LENDER_APPROVAL",
+    "displayName": "Lender Approval",
+    "departmentId": "01JX00AAQFM8XRXCTBSTQNWSVE"
+  },
+  {
+    "id": "01JX012EQR0HCSYNT1NP49KP56",
+    "name": "FI_PROCESS",
+    "displayName": "FI Process",
+    "departmentId": "01JX00AAQFM8XRXCTBSTQNWSVE"
+  },
+  {
+    "id": "01JX012EQRRPQ4QPW0BS5ZHWZV",
+    "name": "APPLICATION_CREDIT_PD",
+    "displayName": "Application Credit PD",
+    "departmentId": "01JX00AAQF3W69RCBFFWP6XRT3"
+  },
+  {
+    "id": "01JX012EQRKW810XWV9ZVNATBQ",
+    "name": "CREDIT_RECOMMENDATION",
+    "displayName": "Credit Recommendation",
+    "departmentId": "01JX00AAQF3W69RCBFFWP6XRT3"
+  },
+  {
+    "id": "01JX012EQR7HE9T1T9F06YGKKZ",
+    "name": "VALUATION_PROCESS",
+    "displayName": "Valuation Process",
+    "departmentId": "01JX00AAQFCRJ7M0VKM1575QJD"
+  },
+  {
+    "id": "01JX012EQR8C394HBVZQ7M9XB2",
+    "name": "LEGAL_PROCESS",
+    "displayName": "Legal Process",
+    "departmentId": "01JX00AAQFCRJ7M0VKM1575QJD"
+  },
+  {
+    "id": "01JX012EQRME00H330E225S4NK",
+    "name": "CREDIT_APPROVAL",
+    "displayName": "Credit Approval",
+    "departmentId": "01JX00AAQF3W69RCBFFWP6XRT3"
+  },
+  {
+    "id": "01JX012EQR6KAXS6XN4M14RHE9",
+    "name": "FILE_PROCESSING",
+    "displayName": "File Processing",
+    "departmentId": "01JX00AAQFPGW8C2G2WHS5JK37"
+  },
+  {
+    "id": "01JX012EQRX6Y7DR76QVMK4DR4",
+    "name": "CONVERT_TO_LOAN",
+    "displayName": "Convert To Loan",
+    "departmentId": "01JX00AAQFPGW8C2G2WHS5JK37"
+  },
+  {
+    "id": "01JX012EQR0BTJ8JB4HDVR184F",
+    "name": "FILE_SENDING",
+    "displayName": "File Sending",
+    "departmentId": "01JX00AAQFPGW8C2G2WHS5JK37"
+  },
+  {
+    "id": "01JX012EQRFT33YE3B56ECZPQ9",
+    "name": "FILE_RECEIVING",
+    "displayName": "File Receiving",
+    "departmentId": "01JX00AAQFPGW8C2G2WHS5JK37"
+  },
+  {
+    "id": "01JX012EQRZTV4229WHT25ZNMQ",
+    "name": "FILE_CHECKING",
+    "displayName": "File Checking",
+    "departmentId": "01JX00AAQFPGW8C2G2WHS5JK37"
+  },
+  {
+    "id": "01JX012EQRQZ9WKATT2108XDFP",
+    "name": "DV_CREATION",
+    "displayName": "DV Creation",
+    "departmentId": "01JX00AAQF0NB8SB6FH3G8JQAE"
+  },
+  {
+    "id": "01JX012EQRVGKF11F4ZV9DV16C",
+    "name": "PAYMENT_AUTHORIZATION",
+    "displayName": "Payment Authorization",
+    "departmentId": "01JX00AAQF0NB8SB6FH3G8JQAE"
+  },
+  {
+    "id": "01JX012EQRR1J7W05XAG9QYZXZ",
+    "name": "PAYMENT_INITIATION",
+    "displayName": "Payment Initiation",
+    "departmentId": "01JX00AAQF0NB8SB6FH3G8JQAE"
+  },
+  {
+    "id": "01JX012EQR8EGD9Y5MR3DR22FB",
+    "name": "AMORTIZATION_GENERATE",
+    "displayName": "Amortization Generate",
+    "departmentId": "01JX00AAQFPGW8C2G2WHS5JK37"
+  }
+]

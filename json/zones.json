@@ -1,0 +1,32 @@
+[
+  {
+    "id": "01JWZDX6TK7C17FY3PHQ1GYM4Q",
+    "name": "North Industrial Zone",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZDX9P0RKTVYRRGNXRGVWKR",
+    "name": "East Residential Zone",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZDY3PL2V0TWXQF2XK8Z99M",
+    "name": "South Commercial Zone",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZDY4AB9TVK5EJ5C47AZZCD",
+    "name": "West Agricultural Zone",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZDY5K7TG9KH4S3MK7NQB3Y",
+    "name": "Central Administrative Zone",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  }
+]

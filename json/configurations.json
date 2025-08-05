@@ -1,0 +1,322 @@
+[
+  {
+    "id": "rxehxbxgwuv0ud9oil41vfhj",
+    "regex": null,
+    "name": "COMPANY_NAME",
+    "displayName": "Company Name",
+    "inputType": "TEXT",
+    "options": null,
+    "showOnUi": true,
+    "value": "Finnaux"
+  },
+  {
+    "id": "y36w22u912w2xvxe7efkl71o",
+    "regex": null,
+    "name": "COMPANY_REG_NUMBER",
+    "displayName": "Company Registration Number",
+    "inputType": "TEXT",
+    "options": null,
+    "showOnUi": true,
+    "value": "1234567"
+  },
+  {
+    "id": "cnlu5abi7gedoqzdmm0dqqmu",
+    "regex": "^[A-Z]{5}[0-9]{4}[A-Z]{1}$",
+    "name": "COMPANY_PAN_NUMBER",
+    "displayName": "Company PAN Number",
+    "inputType": "TEXT",
+    "options": null,
+    "showOnUi": true,
+    "value": "ABCD12334A"
+  },
+  {
+    "id": "uuyirveoazgxwvpp7bv39bmu",
+    "regex": "^[A-Z]{4}[0-9]{5}[A-Z]{1}$",
+    "name": "COMPANY_TAN_NUMBER",
+    "displayName": "Company TAN Number",
+    "inputType": "TEXT",
+    "options": null,
+    "showOnUi": true,
+    "value": "a"
+  },
+  {
+    "id": "a1vz3ntk3q7z92qknd794dk9",
+    "regex": "^\\d{2}[A-Z]{5}\\d{4}[A-Z]{1}[1-9A-Z]{1}Z[0-9A-Z]{1}$",
+    "name": "COMPANY_GST_NUMBER",
+    "displayName": "Company GST Number",
+    "inputType": "TEXT",
+    "options": null,
+    "showOnUi": true,
+    "value": "a"
+  },
+  {
+    "id": "u76b9kk6s2qkf5cib9xgncrm",
+    "regex": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}$",
+    "name": "COMPANY_DATE_OF_INCORPORATION",
+    "displayName": "Company Date of Incorporation",
+    "inputType": "DATE",
+    "options": null,
+    "showOnUi": true,
+    "value": "2023-04-01T00:00:00"
+  },
+  {
+    "id": "zefmv7bd5tzyhuar93g99bxd",
+    "regex": null,
+    "name": "COMPANY_HEAD_OFFICE_ADDRESS",
+    "displayName": "Company Head Office Address",
+    "inputType": "TEXT",
+    "options": null,
+    "showOnUi": true,
+    "value": "Jaipur"
+  },
+  {
+    "id": "xpp5ftejqjwq1suq9dft75rt",
+    "regex": "^\\d{2}$",
+    "name": "COMPANY_STATE_CODE",
+    "displayName": "Company State Code",
+    "inputType": "TEXT",
+    "options": null,
+    "showOnUi": true,
+    "value": "08"
+  },
+  {
+    "id": "ygjnf6mh0lrihknzj69w18le",
+    "regex": "^\\d{10}$",
+    "name": "COMPANY_PHONE_NUMBER",
+    "displayName": "Company Phone Number",
+    "inputType": "NUMBER",
+    "options": null,
+    "showOnUi": true,
+    "value": "1234567890"
+  },
+  {
+    "id": "np8hmxvyxwhhe92207hu2gqq",
+    "regex": "^\\d{10}$",
+    "name": "COMPANY_PHONE_NUMBER_2",
+    "displayName": "Company Phone Number 2",
+    "inputType": "NUMBER",
+    "options": null,
+    "showOnUi": true,
+    "value": null
+  },
+  {
+    "id": "uf91s4bk3l981ssltljtrsps",
+    "regex": "^\\d{10}$",
+    "name": "COMPANY_WHATSAPP_NUMBER",
+    "displayName": "Company WhatsApp Number",
+    "inputType": "NUMBER",
+    "options": null,
+    "showOnUi": true,
+    "value": null
+  },
+  {
+    "id": "xu1w1gts934sx7n1ot9yzxwt",
+    "regex": "^[\\w.-]+@[\\w.-]+\\.\\w{2,}$",
+    "name": "COMPANY_EMAIL",
+    "displayName": "Company Email",
+    "inputType": "TEXT",
+    "options": null,
+    "showOnUi": true,
+    "value": null
+  },
+  {
+    "id": "gjfc6mhq1y495imy6grwuo9x",
+    "regex": "^(https?:\\/\\/)?[\\w.-]+(?:\\.[\\w\\.-]+)+[\\w\\-._~:/?#[\\]@!$&'()*+,;=.]+$",
+    "name": "COMPANY_WEBSITE",
+    "displayName": "Company Website",
+    "inputType": "TEXT",
+    "options": null,
+    "showOnUi": true,
+    "value": null
+  },
+  {
+    "id": "wd5ikmauw2e8fkjuuyamr3z2",
+    "regex": null,
+    "name": "ENQUIRE_NUMBER_PREFIX",
+    "displayName": "Enquire Number Prefix",
+    "inputType": "TEXT",
+    "options": null,
+    "showOnUi": true,
+    "value": "EN"
+  },
+  {
+    "id": "le87yo117kagthhcn8e85yyv",
+    "regex": "^(?:[1-9]|[1-9]d|1d{2}|2d{2}|3[0-5]d|36[0-6])$",
+    "name": "DAYS_IN_YEAR",
+    "displayName": "Days in Year",
+    "inputType": "NUMBER",
+    "options": null,
+    "showOnUi": true,
+    "value": "360"
+  },
+  {
+    "id": "zj4vfdgdtyq9cqe7ijzz9ixk",
+    "regex": null,
+    "name": "DATA_FREEZE",
+    "displayName": "Data Freeze",
+    "inputType": "BOOLEAN",
+    "options": null,
+    "showOnUi": true,
+    "value": null
+  },
+  {
+    "id": "vqvy54rh6fcrqtahu2jnjulr",
+    "regex": null,
+    "name": "UPI_PREFIX",
+    "displayName": "UPI Prefix",
+    "inputType": "TEXT",
+    "options": null,
+    "showOnUi": true,
+    "value": "1"
+  },
+  {
+    "id": "qw3zquzbj2e6ra3spq66rj3l",
+    "regex": "^\\d+$",
+    "name": "UPLOAD_MAX_SIZE_IN_KB",
+    "displayName": "Upload Max Size in KB",
+    "inputType": "NUMBER",
+    "options": null,
+    "showOnUi": true,
+    "value": "1"
+  },
+  {
+    "id": "y6p5im9v8lrzwsn0w6bsdg2m",
+    "regex": null,
+    "name": "COMPANY_LOGO",
+    "displayName": "Company Logo",
+    "inputType": "TEXT",
+    "options": null,
+    "showOnUi": true,
+    "value": "1"
+  },
+  {
+    "id": "wnxvulio1h4c1dri89rbg20s",
+    "regex": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}$",
+    "name": "BOOKS_STARTS_FROM",
+    "displayName": "Books Start From",
+    "inputType": "DATE",
+    "options": null,
+    "showOnUi": true,
+    "value": "2023-04-01T00:00:00"
+  },
+  {
+    "id": "ipa1lfrhs2lkdhvo0lcoqwmg",
+    "regex": null,
+    "name": "SUBSCRIPTION_DATE",
+    "displayName": "Subscription Date",
+    "inputType": "TEXT",
+    "options": null,
+    "showOnUi": true,
+    "value": "C8t5uNb0DyWKYGgKFirAIxs1@@@cjWr1CpfZZZ03G4T28="
+  },
+  {
+    "id": "dzh8ew70nutzlw1uhdjzqojd",
+    "regex": "^\\d+(\\.\\d{1,2})?$",
+    "name": "CASH_RECIPT_LIMIT",
+    "displayName": "Cash Receipt Limit",
+    "inputType": "NUMBER",
+    "options": null,
+    "showOnUi": true,
+    "value": null
+  },
+  {
+    "id": "viulrasrswavp7ps30p0xg90",
+    "regex": "^\\d+(\\.\\d{1,2})?$",
+    "name": "CASH_PAYMENT_LIMIT",
+    "displayName": "Cash Payment Limit",
+    "inputType": "NUMBER",
+    "options": null,
+    "showOnUi": true,
+    "value": null
+  },
+  {
+    "id": "ao8qmhsdi3mcyd8t0aztkamg",
+    "regex": null,
+    "name": "RELATION_NOC_BLOCK",
+    "displayName": "Relation NOC Block",
+    "inputType": "BOOLEAN",
+    "options": null,
+    "showOnUi": true,
+    "value": null
+  },
+  {
+    "id": "jg20fset83xdiw48mrh3uz7w",
+    "regex": null,
+    "name": "IS_MAC_CHECK_ENABLED",
+    "displayName": "Is MAC Check Enabled",
+    "inputType": "BOOLEAN",
+    "options": null,
+    "showOnUi": true,
+    "value": null
+  },
+  {
+    "id": "lcdno027xq8d3kneskloewb9",
+    "regex": null,
+    "name": "CORPORATE_ADDRESS",
+    "displayName": "Corporate Address",
+    "inputType": "TEXT",
+    "options": null,
+    "showOnUi": true,
+    "value": null
+  },
+  {
+    "id": "vug7ae0uvas90k6cxjd9709p",
+    "regex": null,
+    "name": "STATE_ID",
+    "displayName": "State ID",
+    "inputType": "TEXT",
+    "options": null,
+    "showOnUi": true,
+    "value": null
+  },
+  {
+    "id": "x0ocmmorb58t2mzi6a1d7ha7",
+    "regex": null,
+    "name": "IS_EMPLOYEE_CODE_AUTOMATED",
+    "displayName": "Is Employee Code Automated",
+    "inputType": "BOOLEAN",
+    "options": null,
+    "showOnUi": true,
+    "value": true
+  },
+  {
+    "id": "ptco5akhqdc9p95ulkblcgiz",
+    "regex": null,
+    "name": "EMPLOYEE_CODE_PREFIX",
+    "displayName": "Employee Code Prefix",
+    "inputType": "TEXT",
+    "options": null,
+    "showOnUi": true,
+    "value": "FIN"
+  },
+  {
+    "id": "yoaoy8c2implhpci27456gig",
+    "regex": "^\\d+$",
+    "name": "MAX_BORROWER_LIMIT",
+    "displayName": "Max Borrower Limit",
+    "inputType": "NUMBER",
+    "options": null,
+    "showOnUi": true,
+    "value": null
+  },
+  {
+    "id": "ezezwzdwy9kh62dejzjo2ub1",
+    "regex": "^\\d+$",
+    "name": "MAX_CO_BORROWER_LIMIT",
+    "displayName": "Max Co-Borrower Limit",
+    "inputType": "NUMBER",
+    "options": null,
+    "showOnUi": true,
+    "value": null
+  },
+  {
+    "id": "qfbyng2kne28ojm43qd2a324",
+    "regex": "^\\d+$",
+    "name": "MAX_GUARANTOR_LIMIT",
+    "displayName": "Max Guarantor Limit",
+    "inputType": "NUMBER",
+    "options": null,
+    "showOnUi": true,
+    "value": null
+  }
+]

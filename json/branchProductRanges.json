@@ -1,0 +1,22 @@
+[
+  {
+    "id": "01JZ555RJD1FN0181W4S307KQW",
+    "branchId": "01JWZRS4FNW8VVA21PXEWFQ7FD",
+    "productId": "01JVEDDNZHFV329YM7FFSWHWYY",
+    "amountFrom": 0,
+    "amountTo": 500000,
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "isActive": true
+  },
+  {
+    "id": "01JZ556HAXFTK463BMZKAKJAG9",
+    "branchId": "01JWZRS4FNW8VVA21PXEWFQ7FD",
+    "productId": "01JVEDDNZHFV329YM7FFSWHWYY",
+    "amountFrom": 500000,
+    "amountTo": 1000000,
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "isActive": true
+  }
+]

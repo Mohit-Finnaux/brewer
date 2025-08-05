@@ -1,0 +1,800 @@
+[
+  {
+    "id": "01JWZF7FTX2SZ7E1A3V5J21PHZ",
+    "name": "Owned",
+    "meta": {},
+    "categoryId": "01JWZENRZ45KVMRBDHMH6N2ZTP"
+  },
+  {
+    "id": "01JWZF7FTX827Z0Y9QWAQRMX5W",
+    "name": "Rented",
+    "meta": {},
+    "categoryId": "01JWZENRZ45KVMRBDHMH6N2ZTP"
+  },
+  {
+    "id": "01JWZF7FTXCJ9RCFG6M26X66ET",
+    "name": "Individual",
+    "meta": {},
+    "categoryId": "01JWZENRZ5WXG2REDGCBC81WCV"
+  },
+  {
+    "id": "01JWZF7FTXQ5J3TK8HDK07C325",
+    "name": "Islam",
+    "meta": {},
+    "categoryId": "01JWZENRZ5B7EVCF2YG1HQDE5V"
+  },
+  {
+    "id": "01JWZF7FTYN5PM5THZF85S38N4",
+    "name": "Authorized User",
+    "meta": {},
+    "categoryId": "01JWZENRZ5WXG2REDGCBC81WCV"
+  },
+  {
+    "id": "01JWZF7FTYM65W4TFQBB9PYE25",
+    "name": "Guarantor",
+    "meta": {},
+    "categoryId": "01JWZENRZ5WXG2REDGCBC81WCV"
+  },
+  {
+    "id": "01JWZF7FTY901BM4R7X77J28XG",
+    "name": "Joint",
+    "meta": {},
+    "categoryId": "01JWZENRZ5WXG2REDGCBC81WCV"
+  },
+  {
+    "id": "01JWZF7FTYGZBTDHZ5ZAZ8NZH1",
+    "name": "Deceased",
+    "meta": {},
+    "categoryId": "01JWZENRZ5WXG2REDGCBC81WCV"
+  },
+  {
+    "id": "01JWZF7FTYF6Z63F9FGDQJMQ3V",
+    "name": "Individual",
+    "meta": {},
+    "categoryId": "01JWZENRZ53DR1ABFHNT1ZYNAQ"
+  },
+  {
+    "id": "01JWZF7FTY57RF8J6SHRGHGXPS",
+    "name": "Non-Individual",
+    "meta": {},
+    "categoryId": "01JWZENRZ53DR1ABFHNT1ZYNAQ"
+  },
+  {
+    "id": "01JWZF7FTY6600ZBHYEGS6S1GZ",
+    "name": "Both",
+    "meta": {},
+    "categoryId": "01JWZENRZ53DR1ABFHNT1ZYNAQ"
+  },
+  {
+    "id": "01JWZF7FTYXNR0VXEVK23FR006",
+    "name": "No Suit Filed",
+    "meta": {},
+    "categoryId": "01JWZENRZ58KTG6D7ES0PVND1W"
+  },
+  {
+    "id": "01JWZF7FTYQCPVT6NXR8CXY1AQ",
+    "name": "Suit Filed",
+    "meta": {},
+    "categoryId": "01JWZENRZ58KTG6D7ES0PVND1W"
+  },
+  {
+    "id": "01JWZF7FTYTEQQDP9WMXYXBMC8",
+    "name": "Willful Default",
+    "meta": {},
+    "categoryId": "01JWZENRZ58KTG6D7ES0PVND1W"
+  },
+  {
+    "id": "01JWZF7FTY41HSAGEEF3T29FED",
+    "name": "Suit Filed (Willful Default)",
+    "meta": {},
+    "categoryId": "01JWZENRZ58KTG6D7ES0PVND1W"
+  },
+  {
+    "id": "01JWZF7FTYFHPAK18YP4PNXCGC",
+    "name": "Restructured Loan",
+    "meta": {},
+    "categoryId": "01JWZENRZ5Y5KESYYPYCZY4GG3"
+  },
+  {
+    "id": "01JWZF7FTYDNSZXEG2ZFG9Q68G",
+    "name": "Restructured Loan (Govt. Mandated)",
+    "meta": {},
+    "categoryId": "01JWZENRZ5Y5KESYYPYCZY4GG3"
+  },
+  {
+    "id": "01JWZF7FTZQF5WNBK0AZQE5KTP",
+    "name": "Written-off",
+    "meta": {},
+    "categoryId": "01JWZENRZ5Y5KESYYPYCZY4GG3"
+  },
+  {
+    "id": "01JWZF7FTZ3Q4A55RYC874WBVK",
+    "name": "Settled",
+    "meta": {},
+    "categoryId": "01JWZENRZ5Y5KESYYPYCZY4GG3"
+  },
+  {
+    "id": "01JWZF7FTZ7FE8HNXS5NVZMXDF",
+    "name": "Post (WO) Settled",
+    "meta": {},
+    "categoryId": "01JWZENRZ5Y5KESYYPYCZY4GG3"
+  },
+  {
+    "id": "01JWZF7FTZ53C9N9YGP9731697",
+    "name": "Account Sold",
+    "meta": {},
+    "categoryId": "01JWZENRZ5Y5KESYYPYCZY4GG3"
+  },
+  {
+    "id": "01JWZF7FTZDD35CZ8X5DPV8MZ1",
+    "name": "Written Off and Account Sold",
+    "meta": {},
+    "categoryId": "01JWZENRZ5Y5KESYYPYCZY4GG3"
+  },
+  {
+    "id": "01JWZF7FTZ72WCQWGS8YESBKXC",
+    "name": "Account Purchased",
+    "meta": {},
+    "categoryId": "01JWZENRZ5Y5KESYYPYCZY4GG3"
+  },
+  {
+    "id": "01JWZF7FTZ94ENH99EBSSBQJ5S",
+    "name": "Account Purchased and Written Off",
+    "meta": {},
+    "categoryId": "01JWZENRZ5Y5KESYYPYCZY4GG3"
+  },
+  {
+    "id": "01JWZF7FTZNDXWZ6S3479Z595Z",
+    "name": "Account Purchased and Settled",
+    "meta": {},
+    "categoryId": "01JWZENRZ5Y5KESYYPYCZY4GG3"
+  },
+  {
+    "id": "01JWZF7FTZFQ0MHH1H3KH5VB28",
+    "name": "Account Purchased and Restructured",
+    "meta": {},
+    "categoryId": "01JWZENRZ5Y5KESYYPYCZY4GG3"
+  },
+  {
+    "id": "01JWZF7FTZX0A9MNDV6SZ07N3A",
+    "name": "Restructured due to Natural Calamity",
+    "meta": {},
+    "categoryId": "01JWZENRZ5Y5KESYYPYCZY4GG3"
+  },
+  {
+    "id": "01JWZF7FTZXDQC39XDXZXASE8G",
+    "name": "Restructured due to COVID-19",
+    "meta": {},
+    "categoryId": "01JWZENRZ5Y5KESYYPYCZY4GG3"
+  },
+  {
+    "id": "01JWZF7FTZVA5GFZ385JKBJWDN",
+    "name": "Post Write Off Closed",
+    "meta": {},
+    "categoryId": "01JWZENRZ5Y5KESYYPYCZY4GG3"
+  },
+  {
+    "id": "01JWZF7FTZ07QA69A9FYSQD615",
+    "name": "Restructured & Closed",
+    "meta": {},
+    "categoryId": "01JWZENRZ5Y5KESYYPYCZY4GG3"
+  },
+  {
+    "id": "01JWZF7FTZYVVBFRXP8Y6FW589",
+    "name": "Auctioned & Settled",
+    "meta": {},
+    "categoryId": "01JWZENRZ5Y5KESYYPYCZY4GG3"
+  },
+  {
+    "id": "01JWZF7FTZ0W17H15S79KRG1WT",
+    "name": "Repossessed & Settled",
+    "meta": {},
+    "categoryId": "01JWZENRZ5Y5KESYYPYCZY4GG3"
+  },
+  {
+    "id": "01JWZF7FTZ1690F8YQRE8E0VMX",
+    "name": "Guarantee Invoked",
+    "meta": {},
+    "categoryId": "01JWZENRZ5Y5KESYYPYCZY4GG3"
+  },
+  {
+    "id": "01JWZF7FTZ3V2P5A8TXNY3P640",
+    "name": "Clear Existing Status",
+    "meta": {},
+    "categoryId": "01JWZENRZ5Y5KESYYPYCZY4GG3"
+  },
+  {
+    "id": "01JWZF7FTZ23387DYFWC876K60",
+    "name": "Standard",
+    "meta": {},
+    "categoryId": "01JWZENRZ54VJYMKM2S6JQGATZ"
+  },
+  {
+    "id": "01JWZF7FTZRFNETCR66ZZ57HQ0",
+    "name": "Substandard",
+    "meta": {},
+    "categoryId": "01JWZENRZ54VJYMKM2S6JQGATZ"
+  },
+  {
+    "id": "01JWZF7FTZRFSXE256AYJFZP9Z",
+    "name": "Doubtful",
+    "meta": {},
+    "categoryId": "01JWZENRZ54VJYMKM2S6JQGATZ"
+  },
+  {
+    "id": "01JWZF7FTZRE9HB4VSYXNS5SEH",
+    "name": "Loss",
+    "meta": {},
+    "categoryId": "01JWZENRZ54VJYMKM2S6JQGATZ"
+  },
+  {
+    "id": "01JWZF7FTZ7ZRWG7Y90MH8NRZ2",
+    "name": "Special Mention Account",
+    "meta": {},
+    "categoryId": "01JWZENRZ54VJYMKM2S6JQGATZ"
+  },
+  {
+    "id": "01JWZF7FTZ4APWG6FSY5VQ3ERF",
+    "name": "No Collateral",
+    "meta": {},
+    "categoryId": "01JWZENRZ5MB52MSK5PG5DYPXF"
+  },
+  {
+    "id": "01JWZF7FV0PSWJVNPQMG9CHG0A",
+    "name": "Property",
+    "meta": {},
+    "categoryId": "01JWZENRZ5MB52MSK5PG5DYPXF"
+  },
+  {
+    "id": "01JWZF7FV0PWQZXYFETQ8CD1TQ",
+    "name": "Gold",
+    "meta": {},
+    "categoryId": "01JWZENRZ5MB52MSK5PG5DYPXF"
+  },
+  {
+    "id": "01JWZF7FV06AE202FQ45H0HQNH",
+    "name": "Shares",
+    "meta": {},
+    "categoryId": "01JWZENRZ5MB52MSK5PG5DYPXF"
+  },
+  {
+    "id": "01JWZF7FV0R72Z2MGEJ4MCWCEZ",
+    "name": "Savings Account and Fixed Deposit",
+    "meta": {},
+    "categoryId": "01JWZENRZ5MB52MSK5PG5DYPXF"
+  },
+  {
+    "id": "01JWZF7FV0HJT7E33SPQMPWAVP",
+    "name": "Multiple Securities",
+    "meta": {},
+    "categoryId": "01JWZENRZ5MB52MSK5PG5DYPXF"
+  },
+  {
+    "id": "01JWZF7FV0B3PQNY3R68PGYD94",
+    "name": "Others",
+    "meta": {},
+    "categoryId": "01JWZENRZ5MB52MSK5PG5DYPXF"
+  },
+  {
+    "id": "01JWZF7FV0NQMVTYXS2BDBBN0P",
+    "name": "Mr.",
+    "meta": {},
+    "categoryId": "01JWZENRZ5315648403DYV0YXX"
+  },
+  {
+    "id": "01JWZF7FV0W4J0WWB6H3E4DF6E",
+    "name": "Mrs.",
+    "meta": {},
+    "categoryId": "01JWZENRZ5315648403DYV0YXX"
+  },
+  {
+    "id": "01JWZF7FV08TKAKJPNH4S6349G",
+    "name": "Miss.",
+    "meta": {},
+    "categoryId": "01JWZENRZ5315648403DYV0YXX"
+  },
+  {
+    "id": "01JWZF7FV0FJ6YYK47RF31HYGE",
+    "name": "Hinduism",
+    "meta": {},
+    "categoryId": "01JWZENRZ5B7EVCF2YG1HQDE5V"
+  },
+  {
+    "id": "01JWZF7FV0H0MDS6FZYDQD3SRQ",
+    "name": "Four Weekly",
+    "meta": {},
+    "categoryId": "01JWZENRZ549DCVG1ZNKX3VBD3"
+  },
+  {
+    "id": "01JWZF7FV0HE510BZ2VMY0WVVY",
+    "name": "Bimonthly",
+    "meta": {},
+    "categoryId": "01JWZENRZ549DCVG1ZNKX3VBD3"
+  },
+  {
+    "id": "01JWZF7FV0G8HAHAR9VFE5ZVPQ",
+    "name": "Others",
+    "meta": {},
+    "categoryId": "01JWZENRZ5B7EVCF2YG1HQDE5V"
+  },
+  {
+    "id": "01JWZF7FV0XTYDH39XE4PRJY0J",
+    "name": "Christianity",
+    "meta": {},
+    "categoryId": "01JWZENRZ5B7EVCF2YG1HQDE5V"
+  },
+  {
+    "id": "01JWZF7FV05QVGTTGCDW7HTHHD",
+    "name": "Sikhism",
+    "meta": {},
+    "categoryId": "01JWZENRZ5B7EVCF2YG1HQDE5V"
+  },
+  {
+    "id": "01JWZF7FV04CF0NZ7C10XWR1ZH",
+    "name": "Buddhism",
+    "meta": {},
+    "categoryId": "01JWZENRZ5B7EVCF2YG1HQDE5V"
+  },
+  {
+    "id": "01JWZF7FV0SFW5G2M19C00FTS8",
+    "name": "Branch + Product + Manual (3+3+9)",
+    "meta": {},
+    "categoryId": "01JWZENRZ51AX5A3C0BPMFRCDP"
+  },
+  {
+    "id": "01JWZF7FV0XM43RCECZ818G8QX",
+    "name": "Branch + Product + Automatic (3+3+9)",
+    "meta": {},
+    "categoryId": "01JWZENRZ51AX5A3C0BPMFRCDP"
+  },
+  {
+    "id": "01JWZF7FV0JC9YP1Y9AWB87KB6",
+    "name": "Product + Branch + Manual (3+3+9)",
+    "meta": {},
+    "categoryId": "01JWZENRZ51AX5A3C0BPMFRCDP",
+    "isActive": false
+  },
+  {
+    "id": "01JWZF7FV0WTBG6GEDADPTD9SG",
+    "name": "Product + Branch + Automatic (3+3+9)",
+    "meta": {},
+    "categoryId": "01JWZENRZ51AX5A3C0BPMFRCDP",
+    "isActive": false
+  },
+  {
+    "id": "01JWZF7FV0265DYRDPNT6NRQMQ",
+    "name": "Prefix (Alpha) + Automatic (3+7)",
+    "meta": {},
+    "categoryId": "01JWZENRZ51AX5A3C0BPMFRCDP",
+    "isActive": false
+  },
+  {
+    "id": "01JWZF7FV0QVSRNYPRCRKE6WKQ",
+    "name": "Prefix (Alpha) + Manual (3+7)",
+    "meta": {},
+    "categoryId": "01JWZENRZ51AX5A3C0BPMFRCDP",
+    "isActive": false
+  },
+  {
+    "id": "01JWZF7FV0TDSWAJAX6M68KJDA",
+    "name": "Prefix (Numeric) + Automatic (3+7)",
+    "meta": {},
+    "categoryId": "01JWZENRZ51AX5A3C0BPMFRCDP",
+    "isActive": false
+  },
+  {
+    "id": "01JWZF7FV0YGNQ0NJZFX191A56",
+    "name": "Prefix (Numeric) + Manual (3+7)",
+    "meta": {},
+    "categoryId": "01JWZENRZ51AX5A3C0BPMFRCDP",
+    "isActive": false
+  },
+  {
+    "id": "01JWZF7FV0M7298JN5ZHW9NMVS",
+    "name": "Numeric Automatic (10)",
+    "meta": {},
+    "categoryId": "01JWZENRZ51AX5A3C0BPMFRCDP"
+  },
+  {
+    "id": "01JWZF7FV06Q1CQW67DYREGSPM",
+    "name": "Numeric Manual (10)",
+    "meta": {},
+    "categoryId": "01JWZENRZ51AX5A3C0BPMFRCDP"
+  },
+  {
+    "id": "01JWZF7FV0R10W8ST7RVPWWEWV",
+    "name": "Alpha + Numeric (Automatic) (3+3+9)",
+    "meta": {},
+    "categoryId": "01JWZENRZ51AX5A3C0BPMFRCDP"
+  },
+  {
+    "id": "01JWZF7FV03HG02ZSCSPNJHRMC",
+    "name": "Alpha + Numeric (Manual) (3+3+9)",
+    "meta": {},
+    "categoryId": "01JWZENRZ51AX5A3C0BPMFRCDP"
+  },
+  {
+    "id": "01JWZF7FV0FYT3V25RXP7TDQ58",
+    "name": "Customer Email",
+    "meta": {},
+    "categoryId": "01JWZENRZ5PCT2QG73ZKDCMGBZ"
+  },
+  {
+    "id": "01JWZF7FV02AN0Y70DY6CWCWK1",
+    "name": "Customer Website",
+    "meta": {},
+    "categoryId": "01JWZENRZ5PCT2QG73ZKDCMGBZ"
+  },
+  {
+    "id": "01JWZF7FV09S5BZD3RYRCA1AJC",
+    "name": "Customer Phone Number",
+    "meta": {},
+    "categoryId": "01JWZENRZ5PCT2QG73ZKDCMGBZ"
+  },
+  {
+    "id": "01JWZF7FV0N7KMNRC8ERR5P9J9",
+    "name": "Separated",
+    "meta": {},
+    "categoryId": "01JWZENRZ5P96EERDWCTB04F9M"
+  },
+  {
+    "id": "01JWZF7FV02N49BT704DZEG1CF",
+    "name": "Zoroastrianism",
+    "meta": {},
+    "categoryId": "01JWZENRZ5B7EVCF2YG1HQDE5V"
+  },
+  {
+    "id": "01JWZF7FV0AXV41YNJQS85KJVZ",
+    "name": "Jainism",
+    "meta": {},
+    "categoryId": "01JWZENRZ5B7EVCF2YG1HQDE5V"
+  },
+  {
+    "id": "01JWZF7FV00A5DKY89K5N2HJRK",
+    "name": "Per Day",
+    "meta": {},
+    "categoryId": "01JWZENRZ5M7C6JSKSQ7ET0YRB"
+  },
+  {
+    "id": "01JWZF7FV0CVD74ZZG2PJFWSD3",
+    "name": "Per Thousand Per Day",
+    "meta": {},
+    "categoryId": "01JWZENRZ5M7C6JSKSQ7ET0YRB"
+  },
+  {
+    "id": "01JWZF7FV0HCZBD8RER099MJMC",
+    "name": "Anually Percentage",
+    "meta": {},
+    "categoryId": "01JWZENRZ5M7C6JSKSQ7ET0YRB"
+  },
+  {
+    "id": "01JWZF7FV0WYB7C7M70R74VJRA",
+    "name": "Current",
+    "meta": {},
+    "categoryId": "01JWZENRZ5WBWAMT8Z7608WAPP"
+  },
+  {
+    "id": "01JWZF7FV0256F0STVAEETRHZB",
+    "name": "Savings",
+    "meta": {},
+    "categoryId": "01JWZENRZ5WBWAMT8Z7608WAPP"
+  },
+  {
+    "id": "01JWZF7FV0CBS1RK7ZWKXXSAW2",
+    "name": "Cash Credit",
+    "meta": {},
+    "categoryId": "01JWZENRZ5WBWAMT8Z7608WAPP"
+  },
+  {
+    "id": "01JWZF7FV08ADQ1NDKTHCPN7T5",
+    "name": "Overdraft",
+    "meta": {},
+    "categoryId": "01JWZENRZ5WBWAMT8Z7608WAPP"
+  },
+  {
+    "id": "01JWZF7FV0TDXRA6JJN455H4BH",
+    "name": "DSA",
+    "meta": {},
+    "categoryId": "01JWZENRZ5ENYRP5ET8F8SZSZY"
+  },
+  {
+    "id": "01JWZF7FV07XHVMVG9H767AN11",
+    "name": "Sales Agent",
+    "meta": {},
+    "categoryId": "01JWZENRZ5ENYRP5ET8F8SZSZY"
+  },
+  {
+    "id": "01JWZF7FV02CY3YF6DKVG3ZX7R",
+    "name": "Collection Agent",
+    "meta": {},
+    "categoryId": "01JWZENRZ5ENYRP5ET8F8SZSZY"
+  },
+  {
+    "id": "01JWZF7FV0QDJZ5KX2NQZPN8MV",
+    "name": "Divorced",
+    "meta": {},
+    "categoryId": "01JWZENRZ5P96EERDWCTB04F9M"
+  },
+  {
+    "id": "01JWZF7FV034C27KS2FAD0Q10Q",
+    "name": "Legal Advocate",
+    "meta": {},
+    "categoryId": "01JWZENRZ5ENYRP5ET8F8SZSZY"
+  },
+  {
+    "id": "01JWZF7FV03SCRVGRXRH4M9DEK",
+    "name": "Technical Advocate",
+    "meta": {},
+    "categoryId": "01JWZENRZ5ENYRP5ET8F8SZSZY"
+  },
+  {
+    "id": "01JWZF7FV02RPZCC8G611NKAR9",
+    "name": "Valuer",
+    "meta": {},
+    "categoryId": "01JWZENRZ5ENYRP5ET8F8SZSZY"
+  },
+  {
+    "id": "01JWZF7FV05N4XW78Y7T9ZQ9X7",
+    "name": "Repossess Agent",
+    "meta": {},
+    "categoryId": "01JWZENRZ5ENYRP5ET8F8SZSZY"
+  },
+  {
+    "id": "01JWZF7FV0X1JTZVJDEWWWWGJQ",
+    "name": "Never Married",
+    "meta": {},
+    "categoryId": "01JWZENRZ5P96EERDWCTB04F9M"
+  },
+  {
+    "id": "01JWZF7FV0S81AKT9FME1M1QAH",
+    "name": "Currently Married",
+    "meta": {},
+    "categoryId": "01JWZENRZ5P96EERDWCTB04F9M"
+  },
+  {
+    "id": "01JWZF7FV0X6WFJGBM5G0MTPK0",
+    "name": "Widow / Widower",
+    "meta": {},
+    "categoryId": "01JWZENRZ5P96EERDWCTB04F9M"
+  },
+  {
+    "id": "01JWZF7FV0D11YJH398NGWHQ48",
+    "name": "Primary",
+    "meta": {},
+    "categoryId": "01JWZENRZ5K9TNK3WXRM4277AR"
+  },
+  {
+    "id": "01JWZF7FV0BFV22BG4CDA057PA",
+    "name": "Secondary",
+    "meta": {},
+    "categoryId": "01JWZENRZ5K9TNK3WXRM4277AR"
+  },
+  {
+    "id": "01JWZF7FV0DGC4MZFE814ABPE2",
+    "name": "Sq Ft",
+    "meta": {},
+    "categoryId": "01JWZENRZ56HVNQAYKQEZ5HB4Q"
+  },
+  {
+    "id": "01JWZF7FV0CZ0M9AN3R665XZ9P",
+    "name": "Sq Yards",
+    "meta": {},
+    "categoryId": "01JWZENRZ56HVNQAYKQEZ5HB4Q"
+  },
+  {
+    "id": "01JWZF7FV0VG5TFRF0Q3NXXYRM",
+    "name": "Sq Metres",
+    "meta": {},
+    "categoryId": "01JWZENRZ56HVNQAYKQEZ5HB4Q"
+  },
+  {
+    "id": "01JWZF7FV06DBE0TFBDW0HC68H",
+    "name": "New Non-Commercial",
+    "meta": {},
+    "categoryId": "01JWZENRZ5NR5MC6A1TGXDW3NX"
+  },
+  {
+    "id": "01JWZF7FV07Y1X0AR0KYS2ZJMN",
+    "name": "Used Non-Commercial",
+    "meta": {},
+    "categoryId": "01JWZENRZ5NR5MC6A1TGXDW3NX"
+  },
+  {
+    "id": "01JWZF7FV0A9RBXCYBXA494ARY",
+    "name": "New Commercial",
+    "meta": {},
+    "categoryId": "01JWZENRZ5NR5MC6A1TGXDW3NX"
+  },
+  {
+    "id": "01JWZF7FV0KB9W4GKMTDGKQ6DM",
+    "name": "Used Commercial",
+    "meta": {},
+    "categoryId": "01JWZENRZ5NR5MC6A1TGXDW3NX"
+  },
+  {
+    "id": "01JWZF7FV0VDNAQRVSWX35S916",
+    "name": "Good",
+    "meta": {},
+    "categoryId": "01JWZENRZ55KQ83SAX91QPWYQC"
+  },
+  {
+    "id": "01JWZF7FV0M5EHS2KG9SY8RPP4",
+    "name": "Outstanding",
+    "meta": {},
+    "categoryId": "01JWZENRZ55KQ83SAX91QPWYQC"
+  },
+  {
+    "id": "01JWZF7FV0CDXDZSRQBHXFNCZE",
+    "name": "Clean",
+    "meta": {},
+    "categoryId": "01JWZENRZ55KQ83SAX91QPWYQC"
+  },
+  {
+    "id": "01JWZF7FV0PDYCWBDFQ9WYYR2A",
+    "name": "Average",
+    "meta": {},
+    "categoryId": "01JWZENRZ55KQ83SAX91QPWYQC"
+  },
+  {
+    "id": "01JWZF7FV0RBECHB2BR2E56J4M",
+    "name": "Rough",
+    "meta": {},
+    "categoryId": "01JWZENRZ55KQ83SAX91QPWYQC"
+  },
+  {
+    "id": "01JWZF7FV0Y6V8GTZ6N39D28KJ",
+    "name": "Damaged",
+    "meta": {},
+    "categoryId": "01JWZENRZ55KQ83SAX91QPWYQC"
+  },
+  {
+    "id": "01JWZF7FV0H6G8PABH67ENYWN7",
+    "name": "Excellent",
+    "meta": {},
+    "categoryId": "01JWZENRZ55KQ83SAX91QPWYQC"
+  },
+  {
+    "id": "01JWZF7FV006H1PFNATADC5X9H",
+    "name": "Poor",
+    "meta": {},
+    "categoryId": "01JWZENRZ55KQ83SAX91QPWYQC"
+  },
+  {
+    "id": "01JWZF7FV08RHMZ0C2Y322G0F9",
+    "name": "Fair",
+    "meta": {},
+    "categoryId": "01JWZENRZ55KQ83SAX91QPWYQC"
+  },
+  {
+    "id": "01JWZF7FV0YFNXZMF9M0RHDPZV",
+    "name": "General (GEN)",
+    "meta": {},
+    "categoryId": "01JWZENRZ5T0GPPR67CR45BNH3"
+  },
+  {
+    "id": "01JWZF7FV0X10RKSF2G1XMGT9X",
+    "name": "Other Backward Classes (OBC)",
+    "meta": {},
+    "categoryId": "01JWZENRZ5T0GPPR67CR45BNH3"
+  },
+  {
+    "id": "01JWZF7FV0EDXNYHCAG560K65Z",
+    "name": "Scheduled Caste (SC)",
+    "meta": {},
+    "categoryId": "01JWZENRZ5T0GPPR67CR45BNH3"
+  },
+  {
+    "id": "01JWZF7FV0WQ0EX8P8FES6H2NX",
+    "name": "Scheduled Tribes (ST)",
+    "meta": {},
+    "categoryId": "01JWZENRZ5T0GPPR67CR45BNH3"
+  },
+  {
+    "id": "01JWZF7FV0PCF0F99BF4063J04",
+    "name": "Male",
+    "meta": {},
+    "categoryId": "01JWZENRZ54DDXPM4CZ23BSJY9"
+  },
+  {
+    "id": "01JWZF7FV0VXCD2AM5QXC14DMZ",
+    "name": "Female",
+    "meta": {},
+    "categoryId": "01JWZENRZ54DDXPM4CZ23BSJY9"
+  },
+  {
+    "id": "01JWZF7FV0NEDHA0BCM2T44YWJ",
+    "name": "Others",
+    "meta": {},
+    "categoryId": "01JWZENRZ54DDXPM4CZ23BSJY9"
+  },
+  {
+    "id": "01JWZF7FV00BCMQ0YA8ZJS1PNN",
+    "name": "Loan IRR",
+    "meta": {},
+    "categoryId": "01JWZENRZ5M7C6JSKSQ7ET0YRB"
+  },
+  {
+    "id": "daily_365",
+    "name": "Daily 365",
+    "meta": {},
+    "categoryId": "01JWZENRZ549DCVG1ZNKX3VBD3"
+  },
+  {
+    "id": "daily_360",
+    "name": "Daily 360",
+    "meta": {},
+    "categoryId": "01JWZENRZ549DCVG1ZNKX3VBD3"
+  },
+  {
+    "id": "weekly",
+    "name": "Weekly",
+    "meta": {},
+    "categoryId": "01JWZENRZ549DCVG1ZNKX3VBD3"
+  },
+  {
+    "id": "biweekly",
+    "name": "Biweekly",
+    "meta": {},
+    "categoryId": "01JWZENRZ549DCVG1ZNKX3VBD3"
+  },
+  {
+    "id": "semimonthly",
+    "name": "Semimonthly",
+    "meta": {},
+    "categoryId": "01JWZENRZ549DCVG1ZNKX3VBD3"
+  },
+  {
+    "id": "monthly",
+    "name": "Monthly",
+    "meta": {},
+    "categoryId": "01JWZENRZ549DCVG1ZNKX3VBD3"
+  },
+  {
+    "id": "bimonthly",
+    "name": "Bimonthly",
+    "meta": {},
+    "categoryId": "01JWZENRZ549DCVG1ZNKX3VBD3"
+  },
+  {
+    "id": "quarterly",
+    "name": "Quarterly",
+    "meta": {},
+    "categoryId": "01JWZENRZ549DCVG1ZNKX3VBD3"
+  },
+  {
+    "id": "semiannually",
+    "name": "Semiannually",
+    "meta": {},
+    "categoryId": "01JWZENRZ549DCVG1ZNKX3VBD3"
+  },
+  {
+    "id": "annually",
+    "name": "Annually",
+    "meta": {},
+    "categoryId": "01JWZENRZ549DCVG1ZNKX3VBD3"
+  },
+  {
+    "id": "flat_installment",
+    "name": "Flat Installment",
+    "meta": {},
+    "categoryId": "01JWZENRZ5JNEDBGAA0ZRVN41C"
+  },
+  {
+    "id": "fixed_interest",
+    "name": "Fixed Interest",
+    "meta": {},
+    "categoryId": "01JWZENRZ5JNEDBGAA0ZRVN41C"
+  },
+  {
+    "id": "reducing_balance_interest",
+    "name": "Reducing Balance Interest",
+    "meta": {},
+    "categoryId": "01JWZENRZ5JNEDBGAA0ZRVN41C"
+  },
+  {
+    "id": "stepwise_installment",
+    "name": "Stepwise Installment",
+    "meta": {},
+    "categoryId": "01JWZENRZ5JNEDBGAA0ZRVN41C"
+  }
+]

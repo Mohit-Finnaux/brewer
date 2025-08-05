@@ -1,0 +1,674 @@
+[
+  {
+    "id": "01JX21RKNH0VMBQJS03JRS9SHP",
+    "name": "Housing Loan",
+    "code": "02",
+    "customerType": "INDIVIDUAL",
+    "isActive": false
+  },
+  {
+    "id": "01JX21RKNMTB42GN5P8XQDPDJ9",
+    "name": "Property Loan",
+    "code": "03",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNM3QN5WQ0AV8RAWPPV",
+    "name": "Consumer Loan",
+    "code": "06",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNMZGW0Z1ZVAD206TMM",
+    "name": "Gold Loan",
+    "code": "07",
+    "customerType": "INDIVIDUAL",
+    "isActive": false
+  },
+  {
+    "id": "01JX21RKNMP0CY9AKFSRET80BY",
+    "name": "Education Loan",
+    "code": "08",
+    "customerType": "INDIVIDUAL",
+    "isActive": false
+  },
+  {
+    "id": "01JX21RKNM9NKWKDHM54R2SA8X",
+    "name": "Loan to Professional",
+    "code": "09",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNMHX4E3PKJ5KF80MGR",
+    "name": "Credit Card",
+    "code": "10",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNNQJZV8V72PKS9RNXV",
+    "name": "Leasing",
+    "code": "11",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNNEVAPJZDH8D8RRPZ4",
+    "name": "Overdraft",
+    "code": "12",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNN2BQN31189HMK6R9T",
+    "name": "Two-Wheeler Loan",
+    "code": "13",
+    "customerType": "INDIVIDUAL",
+    "isActive": false
+  },
+  {
+    "id": "01JX21RKNN3RZ83GXZSQFYEH7N",
+    "name": "Non-Funded Credit Facility",
+    "code": "14",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNN6H1KXYJWNT2TMG6V",
+    "name": "Loan Against Bank Deposits",
+    "code": "15",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNN7AMNYQ96BX44D6TM",
+    "name": "Fleet Card",
+    "code": "16",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNN40186T8FE7KXTC1J",
+    "name": "Commercial Vehicle Loan",
+    "code": "17",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNN2JHWPRFAMJ5RRMQQ",
+    "name": "Telco - Wireless",
+    "code": "18",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNNEV7RDBRKP9TVPC4H",
+    "name": "Telco - Broadband",
+    "code": "19",
+    "customerType": "INDIVIDUAL",
+    "isActive": false
+  },
+  {
+    "id": "01JX21RKNND0MZAN6EWPNBSPJ1",
+    "name": "Telco - Landline",
+    "code": "20",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNNFXG20R3HFW3HXVM0",
+    "name": "Seller Financing",
+    "code": "21",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNNZS9X00AF49GKVCNX",
+    "name": "GECL Loan Secured",
+    "code": "23",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNNATR6RVX2GHTMTH7H",
+    "name": "GECL Loan UnSecured",
+    "code": "24",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNNXQZJE8MCT447Q3DK",
+    "name": "Secured Credit Card",
+    "code": "31",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNNXKBPN62T00AGE9V2",
+    "name": "Used Car Loan",
+    "code": "32",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNNK55W8JT6C9P7YEJ5",
+    "name": "Construction Equipment Loan",
+    "code": "33",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNNFGTZM0MZG4MVX63A",
+    "name": "Tractor Loan",
+    "code": "34",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNN7M5Q2P5EN41RVNF6",
+    "name": "Corporate Credit Card",
+    "code": "35",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNR39BGDE5VQDSGAW16",
+    "name": "Kisan Credit Card",
+    "code": "36",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNR6R99K6ZQWD5J038E",
+    "name": "Loan on Credit Card",
+    "code": "37",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNRCJ9Y3MAX2E3D3P4Y",
+    "name": "Prime Minister Jaan Dhan Yojana - Overdraft",
+    "code": "38",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNR7R44KX8F33KN2HAH",
+    "name": "Mudra Loans - Shishu  Kishor  Tarun",
+    "code": "39",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNR4RQ4E4KZEQJJHBW9",
+    "name": "Microfinance - Business Loan",
+    "code": "40",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNR0T8Y1G9J7RDY5G06",
+    "name": "Microfinance - Personal Loan",
+    "code": "41",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNR42G2CYN47CQKK5G5",
+    "name": "Microfinance - Housing Loan",
+    "code": "42",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNRZCX7CY00ENXPNFR3",
+    "name": "Microfinance - Others",
+    "code": "43",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNRZ51GP2SS9CN9NDX4",
+    "name": "Pradhan Mantri Awas Yojana - Credit Link Subsidy Scheme MAY CLSS",
+    "code": "44",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNR38NXQCRKZQR25YVC",
+    "name": "P2P Personal Loan",
+    "code": "45",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNR85RJNVBEF099YS5D",
+    "name": "P2P Auto Loan",
+    "code": "46",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNR2MSVKJZKNBGMN6G4",
+    "name": "P2P Education Loan",
+    "code": "47",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNSN75T97D61HEVSS93",
+    "name": "Business Loan - Secured",
+    "code": "50",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNS02C0SJTSEEWJN0QY",
+    "name": "Business Loan - General",
+    "code": "51",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNS8JY6V91PGMT2GE7P",
+    "name": "Business Loan - Priority Sector - Small Business",
+    "code": "52",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNSV22FDYMYSSNEJA0C",
+    "name": "Business Loan - Priority Sector - Agriculture",
+    "code": "53",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNSNWY4G3T2188EFTG5",
+    "name": "Business Loan - Priority Sector - Others",
+    "code": "54",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNSPST6WJRH88RYTVZ0",
+    "name": "Business Non-Funded Credit Facility - General",
+    "code": "55",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT1HX6K78YN3QTRK5Q",
+    "name": "Business Non-Funded Credit Facility-Priority Sector- Small Business",
+    "code": "56",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTMQ9X3N6Q47S4V4AQ",
+    "name": "Business Non-Funded Credit Facility-Priority Sector-Agriculture",
+    "code": "57",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTK06WHA8P5QD7V6DF",
+    "name": "Business Non-Funded Credit Facility-Priority Sector-Others",
+    "code": "58",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT6PWTAR41HTP2ESEY",
+    "name": "Business Loan Against Bank Deposits",
+    "code": "59",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTZGVEFB455F0SYZ3C",
+    "name": "Business Loan - Unsecured",
+    "code": "61",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTCBMFBT5FHE83GGHD",
+    "name": "Other",
+    "code": "00",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT3YSVFNY866S20P5W",
+    "name": "Shortterm Personal Loan",
+    "code": "69",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTX4JTF7JGKB53KX9V",
+    "name": "Pirority Sector Gold Loan",
+    "code": "70",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTT9118S47AWYJQ2VC",
+    "name": "Temporary Overdraft",
+    "code": "71",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTQB69GTZSYCKD112F",
+    "name": "Cash credit",
+    "code": "0100",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTMFTEY3XC2DEKBTJA",
+    "name": "Overdraft",
+    "code": "0200",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTEXP1EX72AD845ZEQ",
+    "name": "Demand loan",
+    "code": "0300",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT9AG6W7F0HCRVFNM4",
+    "name": "Loan extended through credit cards",
+    "code": "0310",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTPCVHGD8DAZ98CAGS",
+    "name": "Medium term loan (period above 1 year and up to 3 years)",
+    "code": "0410",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT1J41JGNTQTPHC19T",
+    "name": "Long term loan (period above 3 years)",
+    "code": "0420",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT1WCF6Y62KRT1B047",
+    "name": "Packing credit (all export pre-shipment finance)",
+    "code": "0500",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTMX43E5XG7JC4TPD7",
+    "name": "Export bills purchased",
+    "code": "0610",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTCV08803S17F8N468",
+    "name": "Export bills discounted",
+    "code": "0620",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT71X9GWANJ1BCF20K",
+    "name": "Export bills advanced against",
+    "code": "0630",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTZDPR2FS2J9APTMST",
+    "name": "Advances against export cash incentives and duty draw-back claims",
+    "code": "0640",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTBF3561T07E53CD92",
+    "name": "Inland bills purchased",
+    "code": "0710",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT7YX6R48QFTHXWJG4",
+    "name": "Inland bills discounted",
+    "code": "0720",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTC54AJB6FNABMFJSD",
+    "name": "Advances against import bills",
+    "code": "0800",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTEKCW2B9MWNEHK72T",
+    "name": "Foreign currency cheques TCS/DDS/TTS/MTS purchased",
+    "code": "0900",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT99R8MBN57P62JCMZ",
+    "name": "Lease finance",
+    "code": "1000",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT5TS6CT631C283D4T",
+    "name": "Hire purchase",
+    "code": "1100",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTN4YQMT780MACFM1R",
+    "name": "Bank guarantee",
+    "code": "2000",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTYSEDJRBT4VHDNJPY",
+    "name": "Deferred payment guarantee",
+    "code": "2100",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTGCTJ32EMJA8QPSGZ",
+    "name": "Letters of credit",
+    "code": "3000",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT0P31Y82AVBXNZNHG",
+    "name": "Corporate credit card",
+    "code": "3100",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT1J8SQ66K7XD08YMK",
+    "name": "Commercial vehicle loan",
+    "code": "4000",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTY3QRT63DS57CNE9X",
+    "name": "Equipment financing (construction office medical)",
+    "code": "4100",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT4ETKMT375V71WFP9",
+    "name": "Unsecured business loan",
+    "code": "5000",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTA7RBSC387K2F0HMT",
+    "name": "Short term loan (less than 1 year)",
+    "code": "5100",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTBBDJPM1JFWPZWTA3",
+    "name": "Aggregation of all fund based facilities",
+    "code": "5200",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTGH1J43JQ7W5KW5TQ",
+    "name": "Aggregation of all non fund based facilities",
+    "code": "5300",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT51QNA30YXKY0A0Y2",
+    "name": "Facilities interchange between fund & non fund based",
+    "code": "5400",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTPZA63S7G9VFASNQ2",
+    "name": "Derivatives",
+    "code": "5500",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTF19BV3SSJXQ3CZ3Y",
+    "name": "Plain vanilla forex forward contracts",
+    "code": "5600",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT4VQ9Y0PAEEWYM8HN",
+    "name": "Plain vanila int rate swap(all including INR as coupon)",
+    "code": "5700",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTBR0GQAE6NENK5Y9V",
+    "name": "Plain vanila foreign currency option (including INR cross currency)",
+    "code": "5800",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTKM7PY4VBVC71KQTF",
+    "name": "Complex int rate dery with optionalities",
+    "code": "5900",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTQSKPH7VHPE9JVYPM",
+    "name": "Any complex derivative loan involving foreign currency with option",
+    "code": "6000",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT8H907SX2CCVF689D",
+    "name": "Contracts on past performance — imports",
+    "code": "6100",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT6VW021EXG33T70WW",
+    "name": "Contracts on past performance — exports",
+    "code": "6200",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT8997H65P53E0JSSA",
+    "name": "Aggregate of all borrowings due to filing of suit",
+    "code": "9000",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT8H20DQ042ZWGF865",
+    "name": "Auto Loan",
+    "code": "9001",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTVCW4NWFHN5AKVN3V",
+    "name": "Property Loan",
+    "code": "9002",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTPFSRN7NAKTP4410X",
+    "name": "Gold Loan",
+    "code": "9003",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT0ZCDF9ANMQ7CDZHE",
+    "name": "Loan Against Shares/Securities",
+    "code": "9004",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTFNF3BJK1NHZEG7CC",
+    "name": "HealthCare Finance",
+    "code": "9005",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTMHQ11032FQAQ8TX8",
+    "name": "Infrastructure Finance",
+    "code": "9006",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTF091RY4V090T6STC",
+    "name": "Factoring",
+    "code": "9007",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTEFAVK67EYRV9QRHY",
+    "name": "Commercial Paper",
+    "code": "9008",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT7RDRH4CBV5S785YH",
+    "name": "NCD — Non Convertible Debentures",
+    "code": "9009",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTVCMATS2GGCM33NB6",
+    "name": "Unhedged Foreign Currency Exposure",
+    "code": "9010",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT291PMXTWKC9JZP4S",
+    "name": "Payment Account (Point of Sale & Payment Gateways)",
+    "code": "9011",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTQ0FSFDMRRDC74E9P",
+    "name": "Current Loan",
+    "code": "9012",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTD57P89ZNV7N0847D",
+    "name": "ARC — Secured Loan (refer Annex. B for validations)",
+    "code": "9013",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTS0PQVE1AR5M6XEZR",
+    "name": "ARC — Unsecured Loan (refer Annex. B for validations)",
+    "code": "9014",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTE7BDQH9CW6RKFBM0",
+    "name": "Seller Financing Soft (Seller Financing Soft - NOT TO BE USED for loan reporting)",
+    "code": "9015",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTD8Z8MJ87E7ZY7VSD",
+    "name": "Seller Financing",
+    "code": "9020",
+    "customerType": "NON_INDIVIDUAL",
+    "isActive": false
+  },
+  {
+    "id": "01JX21RKNTXW495Z66GABYHF0P",
+    "name": "GECL Loan",
+    "code": "9021",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTCC8J9YXCEM4N4E6H",
+    "name": "Mudra Term Loan",
+    "code": "9022",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT3EM01EFBA1GRH4VM",
+    "name": "Mudra Working Capital",
+    "code": "9023",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNTR8RJME2MABEGSBV3",
+    "name": "Temporary Overdraft",
+    "code": "9024",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT4FMVHXE1W1RSXZJN",
+    "name": "Others",
+    "code": "9999",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JX21RKNT1K9QANM8BR62YWMR",
+    "name": "Auto Loan (Personal)",
+    "code": "1",
+    "customerType": "INDIVIDUAL"
+  }
+]

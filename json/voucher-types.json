@@ -1,0 +1,243 @@
+[
+  {
+    "id": "01JWQWNH87GV3D73J0DDR7ZD2Z",
+    "name": "Receipt",
+    "parentId": null
+  },
+  {
+    "id": "01JWQWP1N87B96CA469R2KK2TT",
+    "name": "Accounts (Receipt)",
+    "parentId": "01JWQWNH87GV3D73J0DDR7ZD2Z"
+  },
+  {
+    "id": "01JX50CFXBKTTN8G051KMTTJMZ",
+    "name": "Accounts (Receipt (Self))",
+    "parentId": "01JWQWP1N87B96CA469R2KK2TT",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWQWSEAFN5QM1QKEPT5ZY9F2",
+    "name": "Loan (Receipt)",
+    "parentId": "01JWQWNH87GV3D73J0DDR7ZD2Z"
+  },
+  {
+    "id": "01JX50CN1NY0JJXCBMFSJWZPS2",
+    "name": "Loan (Receipt (Self))",
+    "parentId": "01JWQWSEAFN5QM1QKEPT5ZY9F2",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWQWTM1VNFAGKRJ9K66J4ZGY",
+    "name": "Partner (Receipt)",
+    "parentId": "01JWQWNH87GV3D73J0DDR7ZD2Z"
+  },
+  {
+    "id": "01JWTD9F337TPRFPZ1E8JHQ1KF",
+    "name": "Disbursement (Partner (Receipt))",
+    "parentId": "01JWQWTM1VNFAGKRJ9K66J4ZGY",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWTDZ4S2XMKJ2SNSSBT4R4K2",
+    "name": "Receipt (Partner (Receipt))",
+    "parentId": "01JWQWTM1VNFAGKRJ9K66J4ZGY",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWQWWRP7NZK8VXVJZWRF02QC",
+    "name": "Deposits (Receipt)",
+    "parentId": "01JWQWNH87GV3D73J0DDR7ZD2Z"
+  },
+  {
+    "id": "01JX50CR0WMT0D4S23KNQ6ARHT",
+    "name": "Deposits (Receipt (Self))",
+    "parentId": "01JWQWWRP7NZK8VXVJZWRF02QC",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWQWNN2FYHE21HGCRS1KSSR4",
+    "name": "Payment",
+    "parentId": null
+  },
+  {
+    "id": "01JWQWZR2QK46QXG7KYK58WW8E",
+    "name": "Accounts (Payment)",
+    "parentId": "01JWQWNN2FYHE21HGCRS1KSSR4"
+  },
+  {
+    "id": "01JX50CVGYQ165XDJ4CERJ5DAJ",
+    "name": "Accounts (Payment (Self))",
+    "parentId": "01JWQWZR2QK46QXG7KYK58WW8E",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWQWZTWHVAX1G9MW0TR6TY6G",
+    "name": "Loan (Payment)",
+    "parentId": "01JWQWNN2FYHE21HGCRS1KSSR4"
+  },
+  {
+    "id": "01JWTD8X91VQEN0E2NSM2M90XY",
+    "name": "Disbursement (Loan (Payment))",
+    "parentId": "01JWQWZTWHVAX1G9MW0TR6TY6G",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWTE0RFXZQXD7QRZY3PQGSMB",
+    "name": "Payment (Loan (Payment))",
+    "parentId": "01JWQWZTWHVAX1G9MW0TR6TY6G",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWQWZY8K13CEV6TPEKVSFV74",
+    "name": "Partner (Payment)",
+    "parentId": "01JWQWNN2FYHE21HGCRS1KSSR4"
+  },
+  {
+    "id": "01JX50CYP27D43NYDNVTWKNFNY",
+    "name": "Partner (Payment (Self))",
+    "parentId": "01JWQWZY8K13CEV6TPEKVSFV74",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWQX01WAW25VGP3B7V34F3G3",
+    "name": "Deposits (Payment)",
+    "parentId": "01JWQWNN2FYHE21HGCRS1KSSR4"
+  },
+  {
+    "id": "01JX50D1F15XBQ384JNTX7JB2T",
+    "name": "Deposits (Payment (Self))",
+    "parentId": "01JWQX01WAW25VGP3B7V34F3G3",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWQWNQN8EVBBYDW581S78MDD",
+    "name": "Journal",
+    "parentId": null
+  },
+  {
+    "id": "01JWQX2ZRYZF3VQ5KK1MZ4TS21",
+    "name": "Accounts (Journal)",
+    "parentId": "01JWQWNQN8EVBBYDW581S78MDD"
+  },
+  {
+    "id": "01JX50D4KFBW20EYKNC01ZCYT7",
+    "name": "Accounts (Journal (Self))",
+    "parentId": "01JWQX2ZRYZF3VQ5KK1MZ4TS21",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWQX334D278MFC14RMS47Q9G",
+    "name": "Loan (Journal)",
+    "parentId": "01JWQWNQN8EVBBYDW581S78MDD"
+  },
+  {
+    "id": "01JWR26MC7WSY2TT0TK6JD7RV2",
+    "name": "Disbursement (Loan (Journal))",
+    "parentId": "01JWQX334D278MFC14RMS47Q9G",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWR2CT448DAVM07WGJRN0764",
+    "name": "Repayment (Loan (Journal))",
+    "parentId": "01JWQX334D278MFC14RMS47Q9G",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWR2DFE82VNEFF0SBCD2ZKS1",
+    "name": "Waiver (Loan (Journal))",
+    "parentId": "01JWQX334D278MFC14RMS47Q9G",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWR2DQKR2TZ3NNBPKE591J6M",
+    "name": "Closure (Loan (Journal))",
+    "parentId": "01JWQX334D278MFC14RMS47Q9G",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWR2EDHB4KE6C8ZT5066KQQ0",
+    "name": "Write-Off (Loan (Journal))",
+    "parentId": "01JWQX334D278MFC14RMS47Q9G",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWTCB0H558BVK182ASZ2HP2Y",
+    "name": "Journal (Loan (Journal))",
+    "parentId": "01JWQX334D278MFC14RMS47Q9G",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWTCXMVZHWDS7938BMDGRC52",
+    "name": "Reposses (Loan (Journal))",
+    "parentId": "01JWQX334D278MFC14RMS47Q9G",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWQX36M6M3ZXBNV11YHX3N1G",
+    "name": "Partner (Journal)",
+    "parentId": "01JWQWNQN8EVBBYDW581S78MDD"
+  },
+  {
+    "id": "01JWTDAGP6RC64SKBR09G41W2N",
+    "name": "Journal (Partner (Journal))",
+    "parentId": "01JWQX36M6M3ZXBNV11YHX3N1G",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWTDAKCFJE7V9AYXRTGDDYMV",
+    "name": "Disbursement (Partner (Journal))",
+    "parentId": "01JWQX36M6M3ZXBNV11YHX3N1G",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWTDAPAB6PC0APC4FZ0B9636",
+    "name": "Repayment (Partner (Journal))",
+    "parentId": "01JWQX36M6M3ZXBNV11YHX3N1G",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWTDAS18Q79QXNMQMMJJ2F48",
+    "name": "Waiver (Partner (Journal))",
+    "parentId": "01JWQX36M6M3ZXBNV11YHX3N1G",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWTDAWC8RP98TB7EXN8XSTKX",
+    "name": "Closure (Partner (Journal))",
+    "parentId": "01JWQX36M6M3ZXBNV11YHX3N1G",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWTDAZ49NH1C6DXWZBN6KN6S",
+    "name": "Write-Off (Partner (Journal))",
+    "parentId": "01JWQX36M6M3ZXBNV11YHX3N1G",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWQX39MG7XH31WQ4Q1FJP2YN",
+    "name": "Deposits (Journal)",
+    "parentId": "01JWQWNQN8EVBBYDW581S78MDD"
+  },
+  {
+    "id": "01JX50D84B50TVNNKGSCA8JP83",
+    "name": "Deposits (Journal (Self))",
+    "parentId": "01JWQX39MG7XH31WQ4Q1FJP2YN",
+    "isLeafNode": true
+  },
+  {
+    "id": "01JWQWNV6TMTGNPH0D1ZWDE4Y1",
+    "name": "Contra",
+    "parentId": null
+  },
+  {
+    "id": "01JWTC4HEAJ6DQW5FQ3G6DQBZQ",
+    "name": "Accounts (Contra)",
+    "parentId": "01JWQWNV6TMTGNPH0D1ZWDE4Y1"
+  },
+  {
+    "id": "01JX50DB4GXEWAX6K56B8SMN44",
+    "name": "Accounts (Contra (Self))",
+    "parentId": "01JWTC4HEAJ6DQW5FQ3G6DQBZQ",
+    "isLeafNode": true
+  }
+]

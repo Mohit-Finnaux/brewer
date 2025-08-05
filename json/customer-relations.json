@@ -1,0 +1,104 @@
+[
+  {
+    "id": "01JWZGTJ9W1B0CY883WXF1YJH1",
+    "name": "Son of",
+    "code": "S/O",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGTJ9W55RB4VY8Z9RZAP1V",
+    "name": "Wife of",
+    "code": "W/O",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGTJ9WD1APEBVVETD73WSR",
+    "name": "Daughter of",
+    "code": "D/O",
+    "customerType": "INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGTJ9WM4VSXMY648W6K0YN",
+    "name": "Shareholder",
+    "code": "C/O",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGTJ9WCFJ8W9CP704WKMJX",
+    "name": "Holding Company",
+    "code": "C/O",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGTJ9W0TBC32GE1DHWZT1N",
+    "name": "Subsidiary Company",
+    "code": "C/O",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGTJ9WJWSYPD5QEJVQV2NB",
+    "name": "Proprietor",
+    "code": "Prop",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGTJ9WF1ABZQNFGXNB07F7",
+    "name": "Partner",
+    "code": "C/O",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGTJ9WSRYAS85DTGBH4Z90",
+    "name": "Trustee",
+    "code": "C/O",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGTJ9WBP2T7NYMJSX4F56Z",
+    "name": "Promoter Director",
+    "code": "C/O",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGTJ9WWQB0QH86E6S9HKEM",
+    "name": "Nominee Director",
+    "code": "C/O",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGTJ9WJDD1QRS6M6GM6N82",
+    "name": "Independent Director",
+    "code": "C/O",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGTJ9WDGMKMM7A390HPPRF",
+    "name": "Director - Since Resigned",
+    "code": "C/O",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGTJ9X9CXTPNWAF22B285A",
+    "name": "Individual Member of SHG",
+    "code": "C/O",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGTJ9XZD8KJCNBJ1A7MEES",
+    "name": "Other Director",
+    "code": "C/O",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGTJ9XP0WHP7XYTXZ0FE5M",
+    "name": "Others",
+    "code": "C/O",
+    "customerType": "NON_INDIVIDUAL"
+  },
+  {
+    "id": "01JWZGTJ9XAGA6541Y2CFEH3P6",
+    "name": "Karta (HUF)",
+    "code": "C/O",
+    "customerType": "NON_INDIVIDUAL"
+  }
+]

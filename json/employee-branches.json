@@ -1,0 +1,62 @@
+[
+  {
+    "employeeId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "branchId": "01JWZRS4FNW8VVA21PXEWFQ7FD",
+    "isBaseBranch": false,
+    "createdAt": "2025-06-06T13:00:00.000Z",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updatedAt": "2025-06-06T13:00:00.000Z",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "isActive": true
+  },
+  {
+    "employeeId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "branchId": "01JWZRS4FNW8VVA21PXEWFQ7FD",
+    "isBaseBranch": false,
+    "createdAt": "2025-06-06T13:00:00.000Z",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updatedAt": "2025-06-06T13:00:00.000Z",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "isActive": true
+  },
+  {
+    "employeeId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "branchId": "01JWZRS4FNW8VVA21PXEWFQ7FD",
+    "isBaseBranch": false,
+    "createdAt": "2025-06-06T13:00:00.000Z",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updatedAt": "2025-06-06T13:00:00.000Z",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "isActive": true
+  },
+  {
+    "employeeId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "branchId": "01JWZRS4FNW8VVA21PXEWFQ7FD",
+    "isBaseBranch": false,
+    "createdAt": "2025-06-06T13:00:00.000Z",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updatedAt": "2025-06-06T13:00:00.000Z",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "isActive": true
+  },
+  {
+    "employeeId": "01JWZYRDFS6863JWXH7CWW30XE",
+    "branchId": "01JWZRS4FNW8VVA21PXEWFQ7FD",
+    "isBaseBranch": false,
+    "createdAt": "2025-06-06T13:00:00.000Z",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updatedAt": "2025-06-06T13:00:00.000Z",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "isActive": true
+  },
+  {
+    "employeeId": "01JWZYRDFS6863JWXH7CWW30XE",
+    "branchId": "01JWZRS4FNW8VVA21PXEWFQ7FD",
+    "isBaseBranch": false,
+    "createdAt": "2025-06-06T13:00:00.000Z",
+    "creatorId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "updatedAt": "2025-06-06T13:00:00.000Z",
+    "updaterId": "01JWZYRDFSCGNBKV0DAGA956RY",
+    "isActive": true
+  }
+]

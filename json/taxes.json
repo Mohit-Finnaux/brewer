@@ -1,0 +1,56 @@
+[
+  {
+    "id": "01JWASYP7D2CVB3CR8YP87S956",
+    "type": "GST",
+    "name": "GST @ 5%",
+    "percentage": 5
+  },
+  {
+    "id": "01JWAT7FA97HH377E5E1KQ4AND",
+    "type": "GST",
+    "name": "GST @ 12%",
+    "percentage": 12
+  },
+  {
+    "id": "01JWAT7J9KW81EQGKM25WSRJ1P",
+    "type": "GST",
+    "name": "GST @ 18%",
+    "percentage": 18
+  },
+  {
+    "id": "01JWAT7NG3B54AA969JCRJW0XE",
+    "type": "GST",
+    "name": "GST @ 28%",
+    "percentage": 28
+  },
+  {
+    "id": "01JWAT7RFZDK51WVGS4E77MGEA",
+    "type": "TDS",
+    "name": "TDS - Contractor (Sec 194C)",
+    "percentage": 1
+  },
+  {
+    "id": "01JWAT7XP6XZ7492DSWRNFM5KS",
+    "type": "TDS",
+    "name": "TDS - Professional Fees (Sec 194J)",
+    "percentage": 10
+  },
+  {
+    "id": "01JWAT809HRZEQPHVP0CX6VRQE",
+    "type": "TDS",
+    "name": "TDS - Commission or Brokerage (Sec 194H)",
+    "percentage": 5
+  },
+  {
+    "id": "01JWAT83FMVX9E9BD2SXP3NXDH",
+    "type": "TDS",
+    "name": "TDS - Rent (Sec 194I)",
+    "percentage": 10
+  },
+  {
+    "id": "01JWAT87FBHC4VR4DRFZMHY8BM",
+    "type": "TDS",
+    "name": "TDS - Salary (Sec 192)",
+    "percentage": 10
+  }
+]

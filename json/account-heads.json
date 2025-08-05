@@ -1,0 +1,615 @@
+[
+  {
+    "id": "01JWZTEVV09A6Z15PJEZFNX81W",
+    "groupId": "fao4v8s1psm3pr8ydq9evygz",
+    "name": "Cash Account",
+    "debitOrCredit": "DR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV16PS4V8682MNB1SJ7",
+    "groupId": "yxlg4wukzk780jsgk3fjvhlz",
+    "name": "Bank Account",
+    "debitOrCredit": "DR",
+    "isNACHEnabled": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV1SSY5Q20AB3S7T4ZJ",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "With-In State Input (SGST) @02.50%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV1HY4SE05YP37SXHBW",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "With-In State output (SGST) @02.50%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV1CHYQTWQKAWJBBB89",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "With-In State Input (CGST) @02.50%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV18MWH90SA3ZYT3HGP",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "With-In State output (CGST) @02.50%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV1Y8Z15DQW96FTRE6B",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "Inter State Input(IGST) @5%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV150BPPZX68KECK92K",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "Inter State output (IGST) @5%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV1DGZ63WVHR6S32WZ4",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "With-In State Input (SGST) @06.00%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV1XT0M79YH40RTVPTZ",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "With-In State output (SGST) @06.00%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV19YQB8RP0KZPHKYRK",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "With-In State Input (CGST) @06.00%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV1S63FMCC84VEA49EM",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "With-In State output (CGST) @06.00%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV1DAS2D31GHTJAEJC6",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "Inter State Input(IGST) @12.00%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV1XP1ZQFBGDSV51NKQ",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "Inter State output (IGST) @12.00%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV1Z7GT2ZQMRK0R7TXT",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "With-In State Input (SGST) @09.00%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV1ZEGF9C7NFK2GHRJG",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "With-In State output (SGST) @09.00%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV1PEKTR2PJ0CQC5MN5",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "With-In State Input (CGST) @09.00%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV11J78XF88MT32CE9M",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "With-In State output (CGST) @09.00%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV1TBN4V5H2N3EDWRPS",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "Inter State Input(IGST) @18.00%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV17KFDQ79NGVF0EDYS",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "Inter State output (IGST) @18.00%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV1BCFT2C7V7H3C64CY",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "With-In State Input (SGST) @14.00%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV1BZ9FKA4FT1R2VNWT",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "With-In State output (SGST) @14.00%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV1ZGT9CS57ZD40G4Y4",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "With-In State Input (CGST) @14.00%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV1V0HRRZ4VTXDH7457",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "With-In State output (CGST) @14.00%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV10JVX81RJA9TVEHA5",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "Inter State Input(IGST) @28.00%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV1JEH2MWWZM9G6RPBD",
+    "groupId": "xy8omuq8xpgmo5h2b3bsgsb9",
+    "name": "Inter State output (IGST) @28.00%",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV17EH73D89X81Y4PR3",
+    "groupId": "yoesx1xsv54ua91hzv8c7zlg",
+    "name": "Loan Stock",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV108VBYX9MY9P91KHD",
+    "groupId": "yoesx1xsv54ua91hzv8c7zlg",
+    "name": "Installment",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV1CV0SH2F893SWHMGG",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Interest Charged",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV16657Y3D4K3FYZTS8",
+    "groupId": "yoesx1xsv54ua91hzv8c7zlg",
+    "name": "Disbursement Amount",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV17HBTRZ1AA20A2JYN",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Cheque Bouncing Charges",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV2T5YR5Z9815WTYECF",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Broken Period Interest",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV2ZV1RG0CQ6WPZ01BW",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Pre-EMI Interest",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV2QDH1ZJ6DDYRXKFN6",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Termination Charges",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV2MPYHT7NWNX6W0C4D",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Interest Overdue",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV2C5YTW1ENDKSGB4N6",
+    "groupId": "yoesx1xsv54ua91hzv8c7zlg",
+    "name": "Charges Recoverable",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV2XA4GE11EWK1BETN2",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Charges Waiver",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV2WYAKN8NK9DFVMWJ4",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Login Fee",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV2E8CYQ43T81NAN7RS",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Processing Fee",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV2NV53KGX6H8V9KH86",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Technical Fee",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV2SDHTW7HZ70Y9SZQ9",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Collection Charges",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV2KTJWG409AHMQZHFM",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Legal Charges",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV28EHZFNRRP2WQFSYS",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Valuation Charges",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV2VYRKEZADPBEGMWEW",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "File And Document Charge",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV23FR72GC3PSJN2A4C",
+    "groupId": "yoesx1xsv54ua91hzv8c7zlg",
+    "name": "Security /FLDG Deposit",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV20MFP1SBX9YP095ZE",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Cash Deposit Charge",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV2WV6J9TBCRWTAQTY2",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Stamping /Franking Charge",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV22JZXJABDCK11EVJH",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Asset Insurance Charge",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV20498DFCC3VFZYV6Z",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Customers Insurance Charge",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV2JKHYBAWKZ5HRH619",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Dealer Subvention",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV21K5MZ62P466M69BV",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "NACH Mandat Charge",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV22NEJEBZZMY90WR0Z",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Other Charge",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV2NTQ24RCA39ZHWWB4",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Chq Swaping Charges",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV2SQCBAKVQDQGY916E",
+    "groupId": "yoesx1xsv54ua91hzv8c7zlg",
+    "name": "Cheque in Transit",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV245V6W8ZC3SVQF314",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Services Charge",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV20WW60JPRFANH2TPB",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "NPA Provision",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV2SXPJJWMSDPGRM6ZB",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Bad Debts And Written-off",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV265AQ65VJRFBHDB48",
+    "groupId": "yoesx1xsv54ua91hzv8c7zlg",
+    "name": "Repossessed  Stock",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV2WKVRBHV629DD4R7D",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Repossessed  /Recovery /Seizing Charges",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV2HVREYVHCZRCK5JE3",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Statement & Tracking A/C",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV2RSXWP12C6GQ1Z34K",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Emi Date Change",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV23ZFCNN9A0P6RC81H",
+    "groupId": "rzhcd15vy8ucc8ykle6tsd9w",
+    "name": "Hp Unearned / Adv. H.P.Charges A/C",
+    "debitOrCredit": "CR",
+    "isLoanChargeable": true,
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV297TA069YC1KTNJTH",
+    "groupId": "ksxs0gshcetkkhhyz82ki7pp",
+    "name": "Salary Payable",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  },
+  {
+    "id": "01JWZTEVV2KAD350W095X7QKSJ",
+    "groupId": "rkivxylrojfvxszp21hgqfej",
+    "name": "Rent Payable",
+    "debitOrCredit": "CR",
+    "stateId": "01JWZTPV9KBYND0K966AGE5G01",
+    "creatorId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5",
+    "updaterId": "01JWZ8NE0WQAVV9FSGXKWNMFZ5"
+  }
+]
