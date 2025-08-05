@@ -367,6 +367,10 @@ const dataConfigs: DataImportConfig[] = [
   {
     table: schema.nachFailedReasonsTable,
     importFilePath: 'nach-failed-reasons.json'
+  },
+  {
+    table: schema.newDocumentsTable,
+    importFilePath: 'masterDocuments.json'
   }
 ]
 
