@@ -8,9 +8,9 @@ import { join } from 'path'
 import postgres from 'postgres'
 import stripAnsi from 'strip-ansi'
 
-import * as schema from '~/drizzle/schema'
+import * as schema from '../drizzle/schema'
 
-const envPath = '../../.env'
+const envPath = '../../../../.env'
 dotenv.config({ path: envPath })
 
 const migrationClient = postgres(process.env.DATABASE_URL!, { max: 1 })

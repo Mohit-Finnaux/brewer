@@ -1,4 +1,4 @@
-import loanProductCategories from '~/brewer/json/loan-product-categories.json'
+import loanProductCategories from '../json/loan-product-categories.json'
 
 const processesData = [
   // 1
